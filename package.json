@@ -1,0 +1,23 @@
+{
+  "name": "dw-census",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "config": "^1.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpaceJudas/dw-census.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpaceJudas/dw-census/issues"
+  },
+  "homepage": "https://github.com/SpaceJudas/dw-census#readme"
+}
