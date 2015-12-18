@@ -1,0 +1,42 @@
+number,date,series,title,split_id_regex
+1,1983,Rincewind,The Colour of Magic,Chapter[1-4]\.xhtml
+2,1986,Rincewind,The Light Fantastic,x_9780061801150_0[3-5]
+3,1987,Witches,Equal Rites,(split|ch)[1-2]
+4,1987,Death,Mort,ch[0-9][0-9]?
+5,1988,Rincewind,Sourcery,((Section0001)|(sourcery_split_00[4-6]))\.x?html
+6,1988,Witches,Wyrd Sisters,begin[12]?
+7,1989,One-off,Pyramids,part[0-9]+
+8,1989,City Watch,Guards! Guards!,Guards_Guards_split_00[5-8]\.html
+9,1990,Rincewind,Eric,x_9780061807039_04[21]
+10,1990,One-off,Moving Pictures,Moving_Pictures_split_00[5-8]\.html
+11,1991,Death,Reaper Man,x_9780061807053_0[3-6][1-2]?
+12,1991,Witches,Witches Abroad,x_9780061809729_0[4-6][1-2]?
+13,1992,One-off,Small Gods,Small_Gods_split_00[4-7]\.html
+14,1992,Witches,Lords and Ladies,ch01[ab]?
+15,1993,City Watch,Men at Arms,beginreading[1-4]
+16,1994,Death,Soul Music,x_9780061805752_0[4-7][0-9]{0,2}
+17,1994,Rincewind,Interesting Times,beginreading[0-9]?
+18,1995,Witches,Maskerade,begin[0-9]?
+19,1996,City Watch,Feet of Clay,Feet_of_Clay_split_00[4-7]\.html
+20,1996,Death,Hogfather,begin[0-9]?
+21,1997,City Watch,Jingo,ber0[1-9]
+22,1998,Rincewind,The Last Continent,x_9780061806636_0[4-7]
+23,1998,Witches,Carpe Jugulum,chapter[0-9]+
+24,1999,City Watch,The Fifth Elephant,x_9780061806759_0[3-7]
+25,2000,One-off,The Truth,id12[2-5]
+26,2001,Death,Thief of Time,begin[12]+
+27,2001,Rincewind,The Last Hero,id[0-9]+
+28,2001,One-off,The Amazing Maurice And His Educated Rodents,content0((0[4-9])|(1[0-5]))
+29,2002,City Watch,Night Watch,Night_Watch_split_00[4-7].html
+30,2003,Wee Free Men,The Wee Free Men,id1((2[0-4])|(1[1-9]))
+31,2003,One-off,Monstrous Regiment,ch[0-9]
+32,2004,Wee Free Men,A Hat Full of Sky,A_Hat_Full_of_Sky_split_0((0[4-9])|(1[0-9]))\.html
+33,2004,Post Office,Going Postal,epi|ch[0-9]+
+34,2005,City Watch,Thud!,chapter[0-9]+
+35,2006,Wee Free Men,Wintersmith,id1((1[7-9])|(2[0-9]))
+36,2007,Post Office,Making Money,Section00(1[01]|0[0-9]).xhtml
+37,2009,Rincewind,Unseen Academicals,ch[0-9]+
+38,2010,Wee Free Men,I Shall Wear Midnight,id[0-9]{4}
+39,2011,City Watch,Snuff,chapter_001[a-c]?
+40,2013,Post Office,Raising Steam,id(([2-9])|(1[2-47-9])|(2[0-36-9])|(3[0-357-9]))
+41,2015,Wee Free Men,The Shepherd's Crown,chapter_\d+

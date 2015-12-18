@@ -1,0 +1,289 @@
+[
+  {
+    "number":1,
+    "date":1983,
+    "series":"Rincewind",
+    "title":"The Colour of Magic",
+    "ebook": { "chapter_id_regex": "Chapter[1-4][.]xhtml" }
+  },
+  {
+    "number":2,
+    "date":1986,
+    "series":"Rincewind",
+    "title":"The Light Fantastic",
+    "ebook": { "chapter_id_regex": "x_9780061801150_0[3-5]" }
+  },
+  {
+    "number":3,
+    "date":1987,
+    "series":"Witches",
+    "title":"Equal Rites",
+    "ebook": { "chapter_id_regex": "(split|ch)[1-2]" }
+  },
+  {
+    "number":4,
+    "date":1987,
+    "series":"Death",
+    "title":"Mort",
+    "ebook": { "chapter_id_regex": "ch[0-9][0-9]?" }
+  },
+  {
+    "number":5,
+    "date":1988,
+    "series":"Rincewind",
+    "title":"Sourcery",
+    "ebook": { "chapter_id_regex": "((Section0001)|(sourcery_split_00[4-6]))[.]x?html" }
+  },
+  {
+    "number":6,
+    "date":1988,
+    "series":"Witches",
+    "title":"Wyrd Sisters",
+    "ebook": { "chapter_id_regex": "begin[12]?" }
+  },
+  {
+    "number":7,
+    "date":1989,
+    "series":"One-off",
+    "title":"Pyramids",
+    "ebook": { "chapter_id_regex": "part[0-9]+" }
+  },
+  {
+    "number":8,
+    "date":1989,
+    "series":"City Watch",
+    "title":"Guards! Guards!",
+    "ebook": { "chapter_id_regex": "Guards_Guards_split_00[5-8][.]html" }
+  },
+  {
+    "number":9,
+    "date":1990,
+    "series":"Rincewind",
+    "title":"Eric",
+    "ebook": { "chapter_id_regex": "x_9780061807039_04[21]" }
+  },
+  {
+    "number":10,
+    "date":1990,
+    "series":"One-off",
+    "title":"Moving Pictures",
+    "ebook": { "chapter_id_regex": "Moving_Pictures_split_00[5-8][.]html" }
+  },
+  {
+    "number":11,
+    "date":1991,
+    "series":"Death",
+    "title":"Reaper Man",
+    "ebook": { "chapter_id_regex": "x_9780061807053_0[3-6][1-2]?" }
+  },
+  {
+    "number":12,
+    "date":1991,
+    "series":"Witches",
+    "title":"Witches Abroad",
+    "ebook": { "chapter_id_regex": "x_9780061809729_0[4-6][1-2]?" }
+  },
+  {
+    "number":13,
+    "date":1992,
+    "series":"One-off",
+    "title":"Small Gods",
+    "ebook": { "chapter_id_regex": "Small_Gods_split_00[4-7][.]html" }
+  },
+  {
+    "number":14,
+    "date":1992,
+    "series":"Witches",
+    "title":"Lords and Ladies",
+    "ebook": { "chapter_id_regex": "ch01[ab]?" }
+  },
+  {
+    "number":15,
+    "date":1993,
+    "series":"City Watch",
+    "title":"Men at Arms",
+    "ebook": { "chapter_id_regex": "beginreading[1-4]" }
+  },
+  {
+    "number":16,
+    "date":1994,
+    "series":"Death",
+    "title":"Soul Music",
+    "ebook": { "chapter_id_regex": "x_9780061805752_0[4-7][0-9]{0" }
+  },
+  {
+    "number":17,
+    "date":1994,
+    "series":"Rincewind",
+    "title":"Interesting Times",
+    "ebook": { "chapter_id_regex": "beginreading[0-9]?" }
+  },
+  {
+    "number":18,
+    "date":1995,
+    "series":"Witches",
+    "title":"Maskerade",
+    "ebook": { "chapter_id_regex": "begin[0-9]?" }
+  },
+  {
+    "number":19,
+    "date":1996,
+    "series":"City Watch",
+    "title":"Feet of Clay",
+    "ebook": { "chapter_id_regex": "Feet_of_Clay_split_00[4-7][.]html" }
+  },
+  {
+    "number":20,
+    "date":1996,
+    "series":"Death",
+    "title":"Hogfather",
+    "ebook": { "chapter_id_regex": "begin[0-9]?" }
+  },
+  {
+    "number":21,
+    "date":1997,
+    "series":"City Watch",
+    "title":"Jingo",
+    "ebook": { "chapter_id_regex": "ber0[1-9]" }
+  },
+  {
+    "number":22,
+    "date":1998,
+    "series":"Rincewind",
+    "title":"The Last Continent",
+    "ebook": { "chapter_id_regex": "x_9780061806636_0[4-7]" }
+  },
+  {
+    "number":23,
+    "date":1998,
+    "series":"Witches",
+    "title":"Carpe Jugulum",
+    "ebook": { "chapter_id_regex": "chapter[0-9]+" }
+  },
+  {
+    "number":24,
+    "date":1999,
+    "series":"City Watch",
+    "title":"The Fifth Elephant",
+    "ebook": { "chapter_id_regex": "x_9780061806759_0[3-7]" }
+  },
+  {
+    "number":25,
+    "date":2000,
+    "series":"One-off",
+    "title":"The Truth",
+    "ebook": { "chapter_id_regex": "id12[2-5]" }
+  },
+  {
+    "number":26,
+    "date":2001,
+    "series":"Death",
+    "title":"Thief of Time",
+    "ebook": { "chapter_id_regex": "begin[12]+" }
+  },
+  {
+    "number":27,
+    "date":2001,
+    "series":"Rincewind",
+    "title":"The Last Hero",
+    "ebook": { "chapter_id_regex": "id[0-9]+" }
+  },
+  {
+    "number":28,
+    "date":2001,
+    "series":"One-off",
+    "title":"The Amazing Maurice And His Educated Rodents",
+    "ebook": { "chapter_id_regex": "content0((0[4-9])|(1[0-5]))" }
+  },
+  {
+    "number":29,
+    "date":2002,
+    "series":"City Watch",
+    "title":"Night Watch",
+    "ebook": { "chapter_id_regex": "Night_Watch_split_00[4-7].html" }
+  },
+  {
+    "number":30,
+    "date":2003,
+    "series":"Wee Free Men",
+    "title":"The Wee Free Men",
+    "ebook": { "chapter_id_regex": "id1((2[0-4])|(1[1-9]))" }
+  },
+  {
+    "number":31,
+    "date":2003,
+    "series":"One-off",
+    "title":"Monstrous Regiment",
+    "ebook": { "chapter_id_regex": "ch[0-9]" }
+  },
+  {
+    "number":32,
+    "date":2004,
+    "series":"Wee Free Men",
+    "title":"A Hat Full of Sky",
+    "ebook": { "chapter_id_regex": "A_Hat_Full_of_Sky_split_0((0[4-9])|(1[0-9]))[.]html" }
+  },
+  {
+    "number":33,
+    "date":2004,
+    "series":"Post Office",
+    "title":"Going Postal",
+    "ebook": { "chapter_id_regex": "epi|ch[0-9]+" }
+  },
+  {
+    "number":34,
+    "date":2005,
+    "series":"City Watch",
+    "title":"Thud!",
+    "ebook": { "chapter_id_regex": "chapter[0-9]+" }
+  },
+  {
+    "number":35,
+    "date":2006,
+    "series":"Wee Free Men",
+    "title":"Wintersmith",
+    "ebook": { "chapter_id_regex": "id1((1[7-9])|(2[0-9]))" }
+  },
+  {
+    "number":36,
+    "date":2007,
+    "series":"Post Office",
+    "title":"Making Money",
+    "ebook": { "chapter_id_regex": "Section00(1[01]|0[0-9]).xhtml" }
+  },
+  {
+    "number":37,
+    "date":2009,
+    "series":"Rincewind",
+    "title":"Unseen Academicals",
+    "ebook": { "chapter_id_regex": "ch[0-9]+" }
+  },
+  {
+    "number":38,
+    "date":2010,
+    "series":"Wee Free Men",
+    "title":"I Shall Wear Midnight",
+    "ebook": { "chapter_id_regex": "id[0-9]{4}" }
+  },
+  {
+    "number":39,
+    "date":2011,
+    "series":"City Watch",
+    "title":"Snuff",
+    "ebook": { "chapter_id_regex": "chapter_001[a-c]?" }
+  },
+  {
+    "number":40,
+    "date":2013,
+    "series":"Post Office",
+    "title":"Raising Steam",
+    "ebook": { "chapter_id_regex": "id(([2-9])|(1[2-47-9])|(2[0-36-9])|(3[0-357-9]))" }
+  },
+  {
+    "number":41,
+    "date":2015,
+    "series":"Wee Free Men",
+    "title":"The Shepherd's Crown",
+    "ebook": { "chapter_id_regex": "chapter_[0-9]+" }
+  }
+]
