@@ -1,8 +1,5 @@
 node_modules/*
 data/*
-old/*
 npm-log.debug
-
 npm-debug.log
-
 config/api.json
