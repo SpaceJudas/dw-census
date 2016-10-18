@@ -14,31 +14,32 @@ Requirements:
 
 '''
 import config
-
 import os
+import re
+import json
+
+import AlchemyApiAnalysis
+
+import Book
+import my_utils
+
+#pulls analsis by book section from Alchemy, then writes it to json files. THIS IS REALLY SLOW
+def resetSectionAnalysisCache():
+  wyrdSis = Book()
+  sections = wyrdSis.readSections()
+  i=1;
+  for section in sections:
+    filename='./output/section{:0>4d}.json'.format(i)
+    f = open(filename, 'w')
+    f.write(json.dumps(AlchemyApiAnalysis.callEntityExtract(section),indent=2))
+    i+=1
 
 
-class Book:
-  # Open the book with the given name
-  def __init__(self, name='Wyrd Sisters', fileExtension='txt'):
-    self._filename = os.path.join('./data','{}.{}'.format(name, fileExtension))
-
-  #returns a file object
-  def open(self):
-    return open(self._filename, 'r')
-
-### Utils
-# Cleans an array of lines from a file. This trims whitespace and removes empty lines.
-def cleanTextArray(arr):
-  moddedLines = filter(lambda str: len(str) > 0,
-                  map(lambda str: str.strip(), lines))
-  return list(moddedLines)
+def loadSectionAnalysisCache():
 
 
-### main stuff
-#from Main import Book
-#b = Book()
-#bookText = b.open().read()
+#results = AlchemyApiAnalysis.extractUrl()
+#print(results)
 
-#import AlchemyApiAnalysis
-#print(AlchemyApiAnalysis.callEntityExtract(bookText))
+#linesRaw = Book().open().readlines()
+#linesClean = cleanTextArray(linesRaw)
