@@ -1,4 +1,6 @@
 #!/usr/bin/python
+import os
+import re
 
 class Book:
   # Open the book with the given name

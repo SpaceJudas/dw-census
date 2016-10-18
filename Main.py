@@ -14,13 +14,12 @@ Requirements:
 
 '''
 import config
-import os
 import re
 import json
 
 import AlchemyApiAnalysis
 
-import Book
+from Book import Book
 import my_utils
 
 #pulls analsis by book section from Alchemy, then writes it to json files. THIS IS REALLY SLOW
@@ -35,9 +34,14 @@ def resetSectionAnalysisCache():
     i+=1
 
 
-def loadSectionAnalysisCache():
+def getFileNameList():
+  wyrdSis = Book()
+  sections = wyrdSis.readSections()
+  filenames = list(map(lambda i: './output/section{:0>4d}.json'.format(i),
+                  range(len(sections))))
+  print(filenames)
 
-
+getFileNameList()
 #results = AlchemyApiAnalysis.extractUrl()
 #print(results)
 
