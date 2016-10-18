@@ -3,3 +3,5 @@ data/*
 npm-log.debug
 npm-debug.log
 config/api.json
+config.py
+__pycache__/*
