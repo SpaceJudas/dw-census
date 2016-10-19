@@ -1,8 +1,10 @@
 node_modules/*
-data/*
+
 npm-log.debug
 npm-debug.log
 config/api.json
 config.py
 __pycache__/*
 output/*
+data/*
+!data/alchemy_cache/*
