@@ -1,0 +1,367 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.185852",
+        "joy": "0.005063",
+        "sadness": "0.308778",
+        "anger": "0.21896",
+        "fear": "0.443999"
+      },
+      "sentiment": {
+        "score": "-0.461053",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.852829",
+      "quotations": [
+        {
+          "quotation": "\n\"It\u2019s not my plays,\" Hwel had said. \"It\u2019s the players.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"No, but I mean, last night, I had this dream about a little bandy-legged man walking down a road,\" said Hwel. \"He had a little black hat on, and he walked as though his boots were full of water.\"",
+          "sentiment": {
+            "score": "-0.11365",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s after midnight,\" said Hwel. \"And you know what your father said about going to bed late.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I think it means you spill most of it,\" said Hwel ...",
+          "sentiment": {
+            "score": "-0.0119113",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "22"
+    },
+    {
+      "type": "Person",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.19169",
+        "joy": "0.028933",
+        "sadness": "0.591998",
+        "anger": "0.118122",
+        "fear": "0.189725"
+      },
+      "sentiment": {
+        "score": "-0.292949",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.325028",
+      "quotations": [
+        {
+          "quotation": "\n\"It\u2019s not doing you any good,\" said Tomjon ...",
+          "sentiment": {
+            "score": "-0.368391",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"I\u2019m not,\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "12"
+    },
+    {
+      "type": "Person",
+      "text": "Hwel diffidently",
+      "emotions": {
+        "disgust": "0.137802",
+        "joy": "0.291575",
+        "sadness": "0.392386",
+        "anger": "0.102768",
+        "fear": "0.152928"
+      },
+      "sentiment": {
+        "score": "-0.606996",
+        "type": "negative"
+      },
+      "relevance": "0.276742",
+      "quotations": [
+        {
+          "quotation": "\n\"Oh, I don\u2019t know,\" said Hwel diffidently ...",
+          "sentiment": {
+            "score": "-0.375366",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.185852",
+        "joy": "0.005063",
+        "sadness": "0.308778",
+        "anger": "0.21896",
+        "fear": "0.443999"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.25592",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Vitoller",
+      "emotions": {
+        "disgust": "0.384401",
+        "joy": "0.076228",
+        "sadness": "0.257612",
+        "anger": "0.124002",
+        "fear": "0.247884"
+      },
+      "sentiment": {
+        "score": "-0.361822",
+        "type": "negative"
+      },
+      "relevance": "0.237544",
+      "quotations": [
+        {
+          "quotation": "\n\"It\u2019s against nature,\" Vitoller had complained, leaning on his stick. \"Capturing the spirit of the theater, putting it in a cage. It\u2019ll kill it.\"",
+          "sentiment": {
+            "score": "-0.134083",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Damn thing hasn\u2019t even got a name,\" Vitoller had said. \"I should call it the Golde Mine, because that\u2019s what it\u2019s costing me. Where\u2019s the money going to come from, that\u2019s what I\u2019d like to know.\"",
+          "sentiment": {
+            "score": "-0.308695",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "7"
+    },
+    {
+      "type": "OperatingSystem",
+      "text": "windows",
+      "emotions": {
+        "disgust": "0.029632",
+        "joy": "0.29389",
+        "sadness": "0.178322",
+        "anger": "0.492269",
+        "fear": "0.071228"
+      },
+      "sentiment": {
+        "score": "-0.0238946",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.203618",
+      "count": "3"
+    },
+    {
+      "type": "City",
+      "text": "Morpork",
+      "emotions": {
+        "disgust": "0.116082",
+        "joy": "0.185128",
+        "sadness": "0.301171",
+        "anger": "0.035592",
+        "fear": "0.431988"
+      },
+      "sentiment": {
+        "score": "-0.144943",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.180412",
+      "count": "2"
+    },
+    {
+      "type": "Person",
+      "text": "Huff",
+      "emotions": {
+        "disgust": "0.225075",
+        "joy": "0.020053",
+        "sadness": "0.534817",
+        "anger": "0.261728",
+        "fear": "0.026223"
+      },
+      "sentiment": {
+        "score": "-0.265219",
+        "type": "negative"
+      },
+      "relevance": "0.170005",
+      "count": "2"
+    },
+    {
+      "type": "Company",
+      "text": "Vitoller",
+      "emotions": {
+        "disgust": "0.384401",
+        "joy": "0.076228",
+        "sadness": "0.257612",
+        "anger": "0.124002",
+        "fear": "0.247884"
+      },
+      "sentiment": {
+        "score": "-0.435155",
+        "type": "negative"
+      },
+      "relevance": "0.165386",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.19169",
+        "joy": "0.028933",
+        "sadness": "0.591998",
+        "anger": "0.118122",
+        "fear": "0.189725"
+      },
+      "sentiment": {
+        "score": "-0.635297",
+        "type": "negative"
+      },
+      "relevance": "0.157884",
+      "count": "1"
+    },
+    {
+      "type": "Facility",
+      "text": "Dainty Messe",
+      "emotions": {
+        "disgust": "0.072008",
+        "joy": "0.161829",
+        "sadness": "0.573745",
+        "anger": "0.09311",
+        "fear": "0.181492"
+      },
+      "sentiment": {
+        "score": "-0.27926",
+        "type": "negative"
+      },
+      "relevance": "0.157502",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Vitoller",
+      "emotions": {
+        "disgust": "0.384401",
+        "joy": "0.076228",
+        "sadness": "0.257612",
+        "anger": "0.124002",
+        "fear": "0.247884"
+      },
+      "sentiment": {
+        "score": "-0.476883",
+        "type": "negative"
+      },
+      "relevance": "0.154831",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "night-watchmen",
+      "emotions": {
+        "disgust": "0.058",
+        "joy": "0.356859",
+        "sadness": "0.27149",
+        "anger": "0.213208",
+        "fear": "0.162953"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.146211",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Ane",
+      "emotions": {
+        "disgust": "0.181889",
+        "joy": "0.157125",
+        "sadness": "0.37711",
+        "anger": "0.156771",
+        "fear": "0.192024"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.13697",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Thespia",
+      "emotions": {
+        "disgust": "0.100399",
+        "joy": "0.402944",
+        "sadness": "0.346096",
+        "anger": "0.12358",
+        "fear": "0.097025"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.132359",
+      "count": "1"
+    },
+    {
+      "type": "FieldTerminology",
+      "text": "black hat",
+      "emotions": {
+        "disgust": "0.070398",
+        "joy": "0.113479",
+        "sadness": "0.786599",
+        "anger": "0.084856",
+        "fear": "0.029881"
+      },
+      "sentiment": {
+        "score": "-0.438306",
+        "type": "negative"
+      },
+      "relevance": "0.132337",
+      "count": "1"
+    },
+    {
+      "type": "FieldTerminology",
+      "text": "the house",
+      "emotions": {
+        "disgust": "0.085101",
+        "joy": "0.176795",
+        "sadness": "0.502587",
+        "anger": "0.032164",
+        "fear": "0.283081"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.125217",
+      "count": "1"
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

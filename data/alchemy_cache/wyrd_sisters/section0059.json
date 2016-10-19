@@ -1,0 +1,459 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.496552",
+        "joy": "0.00041",
+        "sadness": "0.100701",
+        "anger": "0.060974",
+        "fear": "0.484641"
+      },
+      "sentiment": {
+        "score": "-0.523638",
+        "type": "negative"
+      },
+      "relevance": "0.837333",
+      "quotations": [
+        {
+          "quotation": "\n\"It looks like it,\" said Hwel ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I think it\u2019s an orangutan,\" said Hwel. \"An ape.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "Hwel. \"An ape.\"\n\"A monkey\u2019s a monkey,\" said the bearded man, at which several of the Drum\u2019s more percipient customers started to edge for the door. \"I mean, so what? But these bloody lawn ornaments\u2014\"",
+          "sentiment": {
+            "score": "0.126923",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"You\u2019d hate it,\" said Hwel, fervently. \"Besides, you\u2019d run out of headroom.\"",
+          "sentiment": {
+            "score": "0.243517",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "Hwel, fervently. \"Besides, you\u2019d run out of headroom.\"\n\"Low dives, are they?\"\n\"Look at it like this\u2014how long do you think you could sing about gold?\"",
+          "sentiment": {
+            "score": "-0.245739",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"\u2018Gold, gold, gold, gold, gold,\u2019\" said Hwel.\n\"You left out a \u2018gold\u2019 there.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I\u2019ve known your father for a long time,\" said Hwel ...",
+          "sentiment": {
+            "score": "-0.010818",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s a clown!\" said Hwel. \"They\u2019ve mugged a clown!\"",
+          "sentiment": {
+            "score": "-0.0645556",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Why, you heartless\u2014\" Hwel began ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "25"
+    },
+    {
+      "type": "Person",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.524052",
+        "joy": "0.000595",
+        "sadness": "0.036181",
+        "anger": "0.061439",
+        "fear": "0.522537"
+      },
+      "sentiment": {
+        "score": "-0.360428",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.532895",
+      "quotations": [
+        {
+          "quotation": "\n\"I reckon they\u2019re roistering in there, don\u2019t you?\" said Tomjon ...",
+          "sentiment": {
+            "score": "-0.0118634",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"What the hell\u2019s that?\" hissed Tomjon ...",
+          "sentiment": {
+            "score": "-0.27929",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Is it real roistering, do you suppose, or merely rollicking?\" said Tomjon, grinning.\n\"It\u2019s going to be bloody murder in a minute, my lad!\"",
+          "sentiment": {
+            "score": "-0.138192",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"I thought I was doing rather well there,\" said Tomjon.\n\"A good deal too well, I reckon.\"",
+          "sentiment": {
+            "score": "0.362995",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "Tomjon.\n\"A good deal too well, I reckon.\"\nThe boy rubbed his hands together. \"Right. Where shall we go next?\"",
+          "sentiment": {
+            "score": "0.270458",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "Tomjon.\n\"A good deal too well, I reckon.\"\nThe boy rubbed his hands together. \"Right. Where shall we go next?\"\n\"Next?\"\n\"Tonight is young!\"",
+          "sentiment": {
+            "score": "0.201691",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"A troll tavern,\" said Tomjon. \"I\u2019ve heard about them. There\u2019s some down in the Shades. I\u2019d like to see a troll tavern.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"\u2018It\u2019s yellow and it goes chink and you can buy things with it,\u2019\" said Tomjon experimentally, as they strolled through the crowds on the Plaza of Broken Moons. \"Four seconds, I think.\"",
+          "sentiment": {
+            "score": "-0.148974",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Cut down, lawn ornament,\" said Tomjon ...",
+          "sentiment": {
+            "score": "-0.0180425",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Sorry,\" said Tomjon hurriedly. \"It\u2019s just that father\u2014\"",
+          "sentiment": {
+            "score": "-0.222769",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"What\u2019s this?\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"\u2018Theft Licence\u2019?\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "22"
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Mended Drum",
+      "emotions": {
+        "disgust": "0.35418",
+        "joy": "0.325145",
+        "sadness": "0.12368",
+        "anger": "0.119291",
+        "fear": "0.1659"
+      },
+      "sentiment": {
+        "score": "-0.453438",
+        "type": "negative"
+      },
+      "relevance": "0.207143",
+      "count": "3"
+    },
+    {
+      "type": "City",
+      "text": "Morpork",
+      "emotions": {
+        "disgust": "0.1869",
+        "joy": "0.227566",
+        "sadness": "0.449034",
+        "anger": "0.097665",
+        "fear": "0.10238"
+      },
+      "sentiment": {
+        "score": "0.538364",
+        "type": "positive"
+      },
+      "relevance": "0.175974",
+      "count": "2"
+    },
+    {
+      "type": "Person",
+      "text": "Impetuosity",
+      "emotions": {
+        "disgust": "0.140208",
+        "joy": "0.383306",
+        "sadness": "0.213515",
+        "anger": "0.10467",
+        "fear": "0.25224"
+      },
+      "sentiment": {
+        "score": "-0.495631",
+        "type": "negative"
+      },
+      "relevance": "0.160306",
+      "count": "1"
+    },
+    {
+      "type": "Crime",
+      "text": "murder",
+      "emotions": {
+        "disgust": "0.326985",
+        "joy": "0.034896",
+        "sadness": "0.272015",
+        "anger": "0.379026",
+        "fear": "0.072606"
+      },
+      "sentiment": {
+        "score": "-0.600259",
+        "type": "negative"
+      },
+      "relevance": "0.137986",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Vitoller",
+      "emotions": {
+        "disgust": "0.157109",
+        "joy": "0.097822",
+        "sadness": "0.583039",
+        "anger": "0.126917",
+        "fear": "0.14091"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.137139",
+      "count": "1"
+    },
+    {
+      "type": "Crime",
+      "text": "\u2018Theft",
+      "emotions": {
+        "disgust": "0.145756",
+        "joy": "0.663761",
+        "sadness": "0.092982",
+        "anger": "0.061827",
+        "fear": "0.091579"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.136425",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Ron",
+      "emotions": {
+        "disgust": "0.123538",
+        "joy": "0.306829",
+        "sadness": "0.141686",
+        "anger": "0.435349",
+        "fear": "0.056499"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.136332",
+      "count": "1"
+    },
+    {
+      "type": "Facility",
+      "text": "Patrician\u2019s palace",
+      "emotions": {
+        "disgust": "0.211894",
+        "joy": "0.127418",
+        "sadness": "0.164669",
+        "anger": "0.203805",
+        "fear": "0.420017"
+      },
+      "sentiment": {
+        "score": "-0.607652",
+        "type": "negative"
+      },
+      "relevance": "0.133194",
+      "count": "1"
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Timkin Rumbleguts",
+      "emotions": {
+        "disgust": "0.187074",
+        "joy": "0.135224",
+        "sadness": "0.58481",
+        "anger": "0.110389",
+        "fear": "0.069877"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.132166",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "quaffing",
+      "emotions": {
+        "disgust": "0.133012",
+        "joy": "0.022438",
+        "sadness": "0.579241",
+        "anger": "0.245349",
+        "fear": "0.132222"
+      },
+      "sentiment": {
+        "score": "-0.542724",
+        "type": "negative"
+      },
+      "relevance": "0.130652",
+      "count": "1"
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Broken Moons",
+      "emotions": {
+        "disgust": "0.365964",
+        "joy": "0.091136",
+        "sadness": "0.258582",
+        "anger": "0.154528",
+        "fear": "0.238286"
+      },
+      "sentiment": {
+        "score": "-0.473774",
+        "type": "negative"
+      },
+      "relevance": "0.125633",
+      "count": "1"
+    },
+    {
+      "relevance": "0.125633",
+      "count": "1",
+      "type": "Quantity",
+      "text": "Four seconds",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.125633",
+      "count": "1",
+      "type": "Quantity",
+      "text": "five minutes",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.125633",
+      "count": "1",
+      "type": "Quantity",
+      "text": "Five hours",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.125633",
+      "count": "1",
+      "type": "Quantity",
+      "text": "seven feet",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.125633",
+      "count": "1",
+      "type": "Quantity",
+      "text": "three feet",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.125633",
+      "count": "1",
+      "type": "Quantity",
+      "text": "three-foot",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.125633",
+      "count": "1",
+      "type": "Quantity",
+      "text": "Two pints",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.125633",
+      "count": "1",
+      "type": "Quantity",
+      "text": "One pint",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.125633",
+      "count": "1",
+      "type": "Quantity",
+      "text": "one hand",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

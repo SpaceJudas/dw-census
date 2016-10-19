@@ -1,0 +1,160 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Granny regally",
+      "emotions": {
+        "disgust": "0.14062",
+        "joy": "0.019867",
+        "sadness": "0.488481",
+        "anger": "0.079346",
+        "fear": "0.408279"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.915921",
+      "quotations": [
+        {
+          "quotation": "\n\"If he wants us to be here, I don\u2019t want to go,\" said Granny. \"He\u2019s got some plan. He\u2019s using headology on us.\"",
+          "sentiment": {
+            "score": "0.0549486",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Actors,\" said Granny, witheringly. \"As if the world weren\u2019t full of enough history without inventing more.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I\u2019m sure I don\u2019t know what you mean,\" said Granny regally ...",
+          "sentiment": {
+            "score": "0.565813",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "7"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.089893",
+        "joy": "0.257838",
+        "sadness": "0.46482",
+        "anger": "0.167264",
+        "fear": "0.052913"
+      },
+      "sentiment": {
+        "score": "0.34294",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.836112",
+      "quotations": [
+        {
+          "quotation": "\n\"Our Daff said she saw them actors practicin\u2019 this morning,\" said Nanny Ogg, who was carrying a bag of walnuts and a leather bottle from which rose a rich, sharp smell. \"She said it was all shouting and stabbing and then wondering who done it and long bits with people muttering to themselves in loud voices.\"",
+          "sentiment": {
+            "score": "0.0298873",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"They shout so loud, too,\" said Nanny ...",
+          "sentiment": {
+            "score": "-0.0811657",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Let\u2019s get a move on,\" said Nanny. \"All the sherry\u2019ll be gone.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Wotcha, jinglebells,\" said Nanny, elbowing the man in the ribs. \"I hope you haven\u2019t been keeping our girl here up late o\u2019nights!\"",
+          "sentiment": {
+            "score": "0.101616",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "6"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.7936",
+      "quotations": [
+        {
+          "quotation": "\n\"There\u2019s something up,\" said Magrat. \"He had his men set fire to three cottages in our village last night. He always does that when he\u2019s in a good mood. That new sergeant is a quick man with the matches, too.\"",
+          "sentiment": {
+            "score": "0.0862195",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"There\u2019s not going to be any trouble, is there?\" he said. \"I don\u2019t want there to be any trouble. Please.\"",
+          "sentiment": {
+            "score": "-0.304771",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Nanny!\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Yes, I will, won\u2019t I,\" said Magrat, trying to look around him to see where the others had gone.\n\"They\u2019re staging the play outside, in the big courtyard. We\u2019ll get a lovely view from one of the gate towers, and no one else will be there. I put some wine up there for us, and everything.\"",
+          "sentiment": {
+            "score": "0.179548",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "11"
+    },
+    {
+      "type": "Person",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.158649",
+        "joy": "0.077593",
+        "sadness": "0.410909",
+        "anger": "0.401504",
+        "fear": "0.037649"
+      },
+      "sentiment": {
+        "score": "0.0840782",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.309166",
+      "count": "2"
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

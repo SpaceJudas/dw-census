@@ -1,0 +1,251 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.078965",
+        "joy": "0.240987",
+        "sadness": "0.439",
+        "anger": "0.136078",
+        "fear": "0.212888"
+      },
+      "sentiment": {
+        "score": "0.22726",
+        "type": "positive"
+      },
+      "relevance": "0.851997",
+      "quotations": [
+        {
+          "quotation": "\n\"Well, not all of it,\" said Nanny, who had been expecting rather more enthusiasm. \"There\u2019s lots more of it behind the mountains over there. But this is the flat bit.\"",
+          "sentiment": {
+            "score": "0.382405",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Flattish,\" Nanny conceded. \"But the air\u2019s good. That\u2019s the palace up there, offering outstanding views of the surrounding countryside.\"",
+          "sentiment": {
+            "score": "-0.123351",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"You\u2019ll like it here,\" said Nanny encouragingly.\n\"It\u2019s a bit small.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Bijou,\" she said. \"Handy foreverywhere.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\"Everywhere close,\" she said ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"This is the capital city of the kingdom,\" said Nanny Ogg. \"Well-designed streets, you\u2019ll notice.\"",
+          "sentiment": {
+            "score": "0.212831",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Drop,\" Nanny conceded. \"Neat middens, look, and extensive\u2014\"",
+          "sentiment": {
+            "score": "0.44532",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Much obliged for the snack,\" said Nanny ...",
+          "sentiment": {
+            "score": "0.668544",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "15"
+    },
+    {
+      "type": "Person",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.079853",
+        "joy": "0.556803",
+        "sadness": "0.243086",
+        "anger": "0.044504",
+        "fear": "0.126546"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.48094",
+      "quotations": [
+        {
+          "quotation": "\n\"Madam, we\u2019ve come to entertain the town, not buy it,\" said Hwel ...",
+          "sentiment": {
+            "score": "0.192484",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Your civic pride does you credit,\" said Hwel. \"And now, please, leave the cart. I\u2019m sure you\u2019ve got some wood to gather. Lawks.\"",
+          "sentiment": {
+            "score": "0.099329",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\"You ought to be more polite,\" he said ...",
+          "sentiment": {
+            "score": "0.578592",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "9"
+    },
+    {
+      "type": "Person",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.099325",
+        "joy": "0.398405",
+        "sadness": "0.426054",
+        "anger": "0.093113",
+        "fear": "0.052173"
+      },
+      "sentiment": {
+        "score": "0.011884",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.33608",
+      "quotations": [
+        {
+          "quotation": "\n\"This is it?\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"There\u2019s an inn,\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Streets?\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Just wanted you to see how attractive it is,\" she said ...",
+          "sentiment": {
+            "score": "0.128338",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "7"
+    },
+    {
+      "type": "Facility",
+      "text": "Lancre Bridge",
+      "emotions": {
+        "disgust": "0.069977",
+        "joy": "0.306971",
+        "sadness": "0.120297",
+        "anger": "0.402737",
+        "fear": "0.167301"
+      },
+      "sentiment": {
+        "score": "-0.369165",
+        "type": "negative"
+      },
+      "relevance": "0.182495",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Lancre",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.17477",
+      "count": "2"
+    },
+    {
+      "type": "FieldTerminology",
+      "text": "open space",
+      "emotions": {
+        "disgust": "0.131758",
+        "joy": "0.08243",
+        "sadness": "0.706598",
+        "anger": "0.087778",
+        "fear": "0.067391"
+      },
+      "sentiment": {
+        "score": "-0.259682",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.137779",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Granny",
+      "emotions": {
+        "disgust": "0.150509",
+        "joy": "0.134981",
+        "sadness": "0.599486",
+        "anger": "0.159103",
+        "fear": "0.063147"
+      },
+      "sentiment": {
+        "score": "0.223737",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.130651",
+      "count": "1"
+    },
+    {
+      "type": "Movie",
+      "text": "Drop",
+      "emotions": {
+        "disgust": "0.079598",
+        "joy": "0.337338",
+        "sadness": "0.430219",
+        "anger": "0.082601",
+        "fear": "0.135429"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.128734",
+      "count": "1"
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

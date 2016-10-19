@@ -1,0 +1,307 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.381705",
+        "joy": "0.015504",
+        "sadness": "0.340422",
+        "anger": "0.284291",
+        "fear": "0.124567"
+      },
+      "sentiment": {
+        "score": "0.0744325",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.860346",
+      "quotations": [
+        {
+          "quotation": "\n\"Cats can look after themselves,\" said Granny Weatherwax. \"Countries can\u2019t. I have intelligence to report. Light the fire, Magrat.\"",
+          "sentiment": {
+            "score": "-0.0135867",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "Granny Weatherwax. \"Countries can\u2019t. I have intelligence to report. Light the fire, Magrat.\"\n\"Mmm?\"\n\"I said, light the fire, Magrat.\"",
+          "sentiment": {
+            "score": "0.0807859",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Yes. Could be an improvement,\" said Granny shortly, and sat down on a rock. \"She should of got it lit before we arrived. It\u2019s her job.\"",
+          "sentiment": {
+            "score": "0.0727241",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Had a visit yesterday,\" she said.\n\"Me too.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\"Who from?\" she said.\n\"The mayor of Lancre and a bunch of burghers. They\u2019re not happy about the king. They want a king they can trust.\"",
+          "sentiment": {
+            "score": "-0.28685",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"I wouldn\u2019t trust any king a burgher could trust,\" said Granny.\n\"Yes, but it\u2019s not good for anyone, all this taxing and killing folk. The new sergeant they\u2019ve got is a keen man when it comes to setting fire to cottages, too. Old Verence used to do it too, mind, but\u2026well\u2026\"",
+          "sentiment": {
+            "score": "-0.088631",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"I know, I know. It was more personal,\" said Granny. \"You felt he meant it. People like to feel they\u2019re valued.\"",
+          "sentiment": {
+            "score": "0.0463528",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "Granny. \"You felt he meant it. People like to feel they\u2019re valued.\"\n\"This Felmet hates the kingdom,\" Nanny went on. \"They all say it. They say when they go to talk to him he just stares at them and giggles and rubs his hand and twitches a bit.\"",
+          "sentiment": {
+            "score": "-0.131488",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\"The old king used to shout at them and kick them out of the castle, mind. He used to say he didn\u2019t have time for shopkeepers and such,\" she added ...",
+          "sentiment": {
+            "score": "-0.0729851",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"The kingdom is worried,\" said Granny.\n\"Yes, I already said.\"",
+          "sentiment": {
+            "score": "-0.163284",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "she said, \"Well.\"",
+          "sentiment": {
+            "score": "0.514284",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "she said, \"Well.\"\n\"My feelings exactly.\"\n\"Fancy that.\"",
+          "sentiment": {
+            "score": "0.265",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "she said, \"Well.\"\n\"My feelings exactly.\"\n\"Fancy that.\"\n\"Quite so.\"\n\"And what did the animals do then?\"",
+          "sentiment": {
+            "score": "0.228408",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s been here a long time,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"That\u2019s just about land,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "21"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.133471",
+        "joy": "0.308121",
+        "sadness": "0.098319",
+        "anger": "0.455863",
+        "fear": "0.074977"
+      },
+      "sentiment": {
+        "score": "0.207125",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.667634",
+      "quotations": [
+        {
+          "quotation": "\n\"Greebo hasn\u2019t been home for two days,\" said Nanny Ogg, as soon as she arrived. \"It\u2019s not like him. I can\u2019t find him anywhere.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Doesn\u2019t seem to be her normal self,\" said Nanny Ogg ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"She means well,\" said Nanny Ogg ...",
+          "sentiment": {
+            "score": "0.514284",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"You got something on your mind, Esme?\" said Nanny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"But he was always very gracious about it,\" said Nanny Ogg. \"And he\u2014\"",
+          "sentiment": {
+            "score": "0.662586",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"I don\u2019t reckon a lot of kingdoms do that sort of thing,\" she said. \"You saw the theater. Kings and such are killing one another the whole time. Their kingdoms just make the best of it. How come this one takes offense all of a sudden?\"",
+          "sentiment": {
+            "score": "-0.072495",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"So\u2019s everywhere,\" said Nanny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "13"
+    },
+    {
+      "type": "City",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.324884",
+        "joy": "0.043027",
+        "sadness": "0.371126",
+        "anger": "0.087657",
+        "fear": "0.277678"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.189769",
+      "count": "2"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.324884",
+        "joy": "0.043027",
+        "sadness": "0.371126",
+        "anger": "0.087657",
+        "fear": "0.277678"
+      },
+      "sentiment": {
+        "score": "-0.557537",
+        "type": "negative"
+      },
+      "relevance": "0.17752",
+      "count": "2"
+    },
+    {
+      "type": "Person",
+      "text": "Verence",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.155348",
+      "count": "2"
+    },
+    {
+      "type": "Company",
+      "text": "Greebo",
+      "emotions": {
+        "disgust": "0.028323",
+        "joy": "0.534506",
+        "sadness": "0.302778",
+        "anger": "0.134807",
+        "fear": "0.061587"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.140709",
+      "count": "2"
+    },
+    {
+      "type": "City",
+      "text": "Lancre",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.13001",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Esme",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.128732",
+      "count": "1"
+    },
+    {
+      "relevance": "0.128732",
+      "count": "1",
+      "type": "Quantity",
+      "text": "two days",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

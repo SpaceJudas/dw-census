@@ -1,0 +1,355 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.216126",
+        "joy": "0.191022",
+        "sadness": "0.417564",
+        "anger": "0.09157",
+        "fear": "0.146369"
+      },
+      "sentiment": {
+        "score": "-0.0572394",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.913704",
+      "quotations": [
+        {
+          "quotation": "\n\"Alarums and what?\" said Nanny Ogg ...",
+          "sentiment": {
+            "score": "-0.242074",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\"The seaside would be nice,\" she said ...",
+          "sentiment": {
+            "score": "0.200184",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"And meddlin\u2019 in the affairs of kings,\" said Nanny. \"Which we never do, as is well known.\"",
+          "sentiment": {
+            "score": "0.175137",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Drabe!\" said Nanny Ogg ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"But not for long,\" said Nanny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Shouldn\u2019t be too difficult,\" said Nanny Ogg dismissively. \"I\u2019ve been studyin\u2019 it. You go tumpty-tumpty-tumpty.\"",
+          "sentiment": {
+            "score": "-0.766367",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"There\u2019s no trick to it at all,\" Nanny Ogg insisted. \"Anyway, half of them are forgetting their lines as it is. It\u2019ll be easy.\"",
+          "sentiment": {
+            "score": "0.127131",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\"I don\u2019t know about new words,\" she said. \"But we can make them forget these words.\"",
+          "sentiment": {
+            "score": "0.0999852",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"I suppose it\u2019s worth a try,\" she conceded ...",
+          "sentiment": {
+            "score": "0.162248",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "15"
+    },
+    {
+      "type": "Person",
+      "text": "Granny",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.580604",
+      "quotations": [
+        {
+          "quotation": "\n\"I don\u2019t think that would be appropriate,\" said Granny carefully, after a certain amount of internal struggle. \"It could give people the wrong idea.\"",
+          "sentiment": {
+            "score": "-0.21554",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"No, we can\u2019t be having with that sort of thing,\" said Granny, a little more firmly this time. \"We\u2019d never hear the last of it.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I suppose you\u2019re an expert at theater words?\" said Granny sarcastically. \"They\u2019d have to be the proper sort, otherwise people would suspect.\"",
+          "sentiment": {
+            "score": "-0.155569",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"There\u2019s more to it than that, I believe,\" she said. \"Some of those speeches were very good. I couldn\u2019t understand hardly any of it.\"",
+          "sentiment": {
+            "score": "-0.0390824",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Oh, good,\" said Granny.\n\"At last! What are you three playing at? We\u2019ve been looking for you everywhere!\"",
+          "sentiment": {
+            "score": "0.184249",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Useful,\" she said grimly. \"Let\u2019s do the show right here.\"",
+          "sentiment": {
+            "score": "0.132968",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "14"
+    },
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.30618",
+        "joy": "0.177434",
+        "sadness": "0.470647",
+        "anger": "0.04346",
+        "fear": "0.08085"
+      },
+      "sentiment": {
+        "score": "-0.0119316",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.537438",
+      "quotations": [
+        {
+          "quotation": "\n\"Do shut up, Gytha,\" said Granny Weatherwax. \"They\u2019re not for you. They\u2019re only for divers, like it says. Probably so they can recover from all them alarums.\"",
+          "sentiment": {
+            "score": "0.0501985",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s not the meddlin\u2019 I object to,\" said Granny Weatherwax, her chin on her hand. \"It\u2019s the evil meddling.\"",
+          "sentiment": {
+            "score": "-0.184055",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "6"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.460868",
+        "joy": "0.057684",
+        "sadness": "0.315479",
+        "anger": "0.24061",
+        "fear": "0.026251"
+      },
+      "sentiment": {
+        "score": "-0.0856077",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.528497",
+      "quotations": [
+        {
+          "quotation": "\n\"That means lots of terrible happenings,\" said Magrat. \"You always put that in plays.\"",
+          "sentiment": {
+            "score": "-0.387853",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Excursions,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"We can\u2019t let this happen,\" said Magrat, quickly and loudly. \"If this gets about, witches\u2019ll always be old hags with green blusher.\"",
+          "sentiment": {
+            "score": "0.0551595",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"And the unkindness to animals,\" muttered Magrat. \"All that stuff about eye of dog and ear of toad. No one uses that kind of stuff.\"",
+          "sentiment": {
+            "score": "-0.131944",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Witches just aren\u2019t like that,\" said Magrat. \"We live in harmony with the great cycles of Nature, and do no harm to anyone, and it\u2019s wicked of them to say we don\u2019t. We ought to fill their bones with hot lead.\"",
+          "sentiment": {
+            "score": "0.0489222",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Why don\u2019t we just change the words?\" said Magrat. \"When they come back on stage we could just put the \u2019fluence on them so they forget what they\u2019re saying, and give them some new words.\"",
+          "sentiment": {
+            "score": "0.0305511",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"We could put words in their mouths?\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Witches as yet unborn will thank us for it,\" said Magrat ...",
+          "sentiment": {
+            "score": "0.221224",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Us?\" said Magrat. \"But we\u2019re not in\u2014\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "12"
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.30618",
+        "joy": "0.177434",
+        "sadness": "0.470647",
+        "anger": "0.04346",
+        "fear": "0.08085"
+      },
+      "sentiment": {
+        "score": "0.118355",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.323624",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.081172",
+        "joy": "0.161331",
+        "sadness": "0.742687",
+        "anger": "0.030011",
+        "fear": "0.056726"
+      },
+      "sentiment": {
+        "score": "0.282955",
+        "type": "positive"
+      },
+      "relevance": "0.191258",
+      "quotations": [
+        {
+          "quotation": "\"Break your own leg,\" she muttered ...",
+          "sentiment": {
+            "score": "-0.221156",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "3"
+    },
+    {
+      "type": "StateOrCounty",
+      "text": "Oh.",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.164163",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Billem",
+      "emotions": {
+        "disgust": "0.39514",
+        "joy": "0.167053",
+        "sadness": "0.284568",
+        "anger": "0.207545",
+        "fear": "0.026108"
+      },
+      "sentiment": {
+        "score": "-0.636077",
+        "type": "negative"
+      },
+      "relevance": "0.14679",
+      "count": "1"
+    },
+    {
+      "relevance": "0.14679",
+      "count": "1",
+      "type": "Quantity",
+      "text": "one minute",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

@@ -1,0 +1,528 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.032169",
+        "joy": "0.393633",
+        "sadness": "0.419692",
+        "anger": "0.167344",
+        "fear": "0.026209"
+      },
+      "sentiment": {
+        "score": "0.304854",
+        "type": "positive"
+      },
+      "relevance": "0.899799",
+      "quotations": [
+        {
+          "quotation": "\"We ain\u2019t going to curse anyone,\" said Granny firmly. \"It hardly ever works if they don\u2019t know you\u2019ve done it.\"",
+          "sentiment": {
+            "score": "-0.324949",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "Granny firmly. \"It hardly ever works if they don\u2019t know you\u2019ve done it.\"\n\"What you do is, you send him a doll of himself with pins in.\"\n\"No, Gytha.\"",
+          "sentiment": {
+            "score": "-0.171941",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"We ain\u2019t going to curse him,\" said Granny. \"We\u2019re going to replace him. What did you do with the old king?\"",
+          "sentiment": {
+            "score": "-0.358394",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Just so long as he\u2019s not here,\" said Granny. \"We don\u2019t want any men around.\"",
+          "sentiment": {
+            "score": "0.0824625",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"We don\u2019t have to go into details,\" Granny said ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"We\u2019re going to replace him with his son,\" said Granny. \"Proper succession.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Tonight,\" said Granny.\n\"A child on the throne? He wouldn\u2019t last five minutes.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Not a child,\" said Granny quietly. \"A grown man. Remember Aliss Demurrage?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Doyenne,\" said Granny, who had looked it up. \"Not hoyden.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"If you listen to rumor,\" said Granny ...",
+          "sentiment": {
+            "score": "-0.332414",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Showy,\" said Granny Weatherwax. \"That\u2019s no help to anyone, turning up at a ball smelling like a pie. And that business with the glass slipper. Dangerous, to my mind.\"",
+          "sentiment": {
+            "score": "-0.0247124",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "Granny Weatherwax. \"That\u2019s no help to anyone, turning up at a ball smelling like a pie. And that business with the glass slipper. Dangerous, to my mind.\"\n\"But the biggest thing she ever did,\" said Nanny, ignoring the interruption, \"was to send a whole palace to sleep for a hundred years until\u2026\" She hesitated. \"Can\u2019t remember. Was there rose bushes involved, or was it spinning wheels in that one? I think some princess had to finger\u2026no, there was a prince. That was it.\"",
+          "sentiment": {
+            "score": "0.0410209",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Fingernails,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"She never sent the castle to sleep,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Oh, yes,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I reckon fifteen\u2019d be a nice around number,\" said Granny. \"That means the lad will be eighteen at the finish. We just do the spell, go and fetch him, he can manifest his destiny, and everything will be nice and neat.\"",
+          "sentiment": {
+            "score": "0.128796",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"I wasn\u2019t thinking about that,\" said Granny. \"It wouldn\u2019t be right. Felmet would still be king all that time. The kingdom would still get sick. No, what I was thinking of doing was moving the whole kingdom.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I\u2019ve thought of that,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "16"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.792564",
+      "quotations": [
+        {
+          "quotation": "\n\"All you have to do is get hold of some of his toenails,\" Nanny persisted, enthusiastically.\n\"No.\"",
+          "sentiment": {
+            "score": "0.133818",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Well, I\u2019m going to curse him anyway,\" said Nanny. \"Under my breath, like. I could of caught my death in that dungeon for all he cared.\"",
+          "sentiment": {
+            "score": "-0.180966",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"I left the rock on the kitchen table,\" said Nanny. \"I couldn\u2019t stand it anymore.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Oh, he was all right. It was the other,\" said Nanny.\n\"Others?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Oh, we\u2019ve been through all that,\" said Nanny, dismissively. \"In about fifteen years\u2019 time, perhaps, but\u2014\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Bloody hell,\" said Nanny again, very quietly, and added, \"you\u2019ve been thinking about this, have you?\"",
+          "sentiment": {
+            "score": "-0.399422",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "Nanny again, very quietly, and added, \"you\u2019ve been thinking about this, have you?\"\n\"Yes.\"\n\"See here, Esme. I mean, Black Aliss was one of the best. I mean, you\u2019re very good at, well, headology and thinking and that. I mean, Black Aliss, well, she just upped and went at it.\"",
+          "sentiment": {
+            "score": "0.307653",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"No. No. Of course not,\" said Nanny, ignoring her.\n\"Right.\"",
+          "sentiment": {
+            "score": "-0.106832",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"She turned a pumpkin into a royal coach once,\" said Nanny ...",
+          "sentiment": {
+            "score": "0.139819",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"A hundred years\u2019d be over-egging it, mind,\" said Nanny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"The whole of Lancre?\" said Nanny.\n\"Yes.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "Nanny.\n\"Yes.\"\n\"Fifteen years into the future?\"\n\"Yes.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "13"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.149689",
+        "joy": "0.269314",
+        "sadness": "0.414786",
+        "anger": "0.087476",
+        "fear": "0.145781"
+      },
+      "sentiment": {
+        "score": "0.17765",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.464743",
+      "quotations": [
+        {
+          "quotation": "\n\"Cursing people is morally unsound and extremely bad for your karma,\" said Magrat ...",
+          "sentiment": {
+            "score": "-0.21692",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"I don\u2019t see why,\" said Magrat. \"He seemed very pleasant. For a ghost.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"He\u2019s a ghost, not a man,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"But you can\u2019t put the old king back on the throne,\" said Magrat. \"Ghosts can\u2019t rule. You\u2019d never get the crown to stay on. It\u2019d drop through.\"",
+          "sentiment": {
+            "score": "-0.0197863",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Excuse me,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Excuse me,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Finger a prince?\" said Magrat, uneasily.\n\"No\u2026he had to kiss her. Very romantic, Black Aliss was. There was always a bit of romance in her spells. She liked nothing better than Girl meets Frog.\"",
+          "sentiment": {
+            "score": "0.0745905",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"And you\u2019re going to send the castle to sleep?\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "10"
+    },
+    {
+      "type": "Person",
+      "text": "Mistress Ogg",
+      "emotions": {
+        "disgust": "0.153258",
+        "joy": "0.053476",
+        "sadness": "0.588049",
+        "anger": "0.194551",
+        "fear": "0.158046"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.380085",
+      "quotations": [
+        {
+          "quotation": "\n\"\u2018Pray carry a stone out of the palace so\u2019s I can haunt it, good mother,\u2019 he says,\" said Nanny Ogg ...",
+          "sentiment": {
+            "score": "0.0979731",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"She was before your time,\" said Nanny Ogg. \"Before mine, really. She lived over Skund way. Very powerful witch.\"",
+          "sentiment": {
+            "score": "0.334703",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"And teeth,\" said Nanny Ogg. \"She had a sweet tooth. Lived in a real gingerbread cottage. Couple of kids shoved her in her own oven at the end. Shocking.\"",
+          "sentiment": {
+            "score": "-0.19168",
+            "type": "negative",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "6"
+    },
+    {
+      "type": "Person",
+      "text": "Black Aliss",
+      "emotions": {
+        "disgust": "0.035936",
+        "joy": "0.494181",
+        "sadness": "0.477177",
+        "anger": "0.022198",
+        "fear": "0.042217"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.206627",
+      "count": "3"
+    },
+    {
+      "type": "Person",
+      "text": "Aliss Demurrage",
+      "emotions": {
+        "disgust": "0.116238",
+        "joy": "0.265289",
+        "sadness": "0.315692",
+        "anger": "0.259683",
+        "fear": "0.092688"
+      },
+      "sentiment": {
+        "score": "0.0579962",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.188317",
+      "count": "1"
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "peat bog",
+      "emotions": {
+        "disgust": "0.138711",
+        "joy": "0.18538",
+        "sadness": "0.599036",
+        "anger": "0.089016",
+        "fear": "0.07298"
+      },
+      "sentiment": {
+        "score": "-0.502794",
+        "type": "negative"
+      },
+      "relevance": "0.173853",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Powderknife",
+      "emotions": {
+        "disgust": "0.182959",
+        "joy": "0.3241",
+        "sadness": "0.435591",
+        "anger": "0.067251",
+        "fear": "0.066153"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.163376",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Skund",
+      "emotions": {
+        "disgust": "0.168582",
+        "joy": "0.222039",
+        "sadness": "0.385677",
+        "anger": "0.095951",
+        "fear": "0.203776"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.161244",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "finger\u2026no",
+      "emotions": {
+        "disgust": "0.182242",
+        "joy": "0.343216",
+        "sadness": "0.390033",
+        "anger": "0.070287",
+        "fear": "0.065985"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.159047",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Felmet",
+      "emotions": {
+        "disgust": "0.180292",
+        "joy": "0.122602",
+        "sadness": "0.434817",
+        "anger": "0.151961",
+        "fear": "0.161825"
+      },
+      "sentiment": {
+        "score": "0.465499",
+        "type": "positive"
+      },
+      "relevance": "0.150901",
+      "count": "1"
+    },
+    {
+      "type": "Company",
+      "text": "apple",
+      "emotions": {
+        "disgust": "0.094187",
+        "joy": "0.276673",
+        "sadness": "0.367395",
+        "anger": "0.24414",
+        "fear": "0.076061"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.146901",
+      "count": "1"
+    },
+    {
+      "relevance": "0.146901",
+      "count": "2",
+      "type": "Quantity",
+      "text": "fifteen years",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.146901",
+      "count": "2",
+      "type": "Quantity",
+      "text": "hundred years",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.146901",
+      "count": "1",
+      "type": "Quantity",
+      "text": "Fifteen years",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.146901",
+      "count": "1",
+      "type": "Quantity",
+      "text": "five minutes",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

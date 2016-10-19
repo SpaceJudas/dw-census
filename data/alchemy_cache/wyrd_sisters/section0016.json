@@ -1,0 +1,289 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.839669",
+      "quotations": [
+        {
+          "quotation": "\n\"It\u2019s about time you learned how to get sound on this thing,\" Granny muttered ...",
+          "sentiment": {
+            "score": "-0.0886834",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"She\u2019s lying out on the lawn,\" said Granny ...",
+          "sentiment": {
+            "score": "-0.237344",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Oh, you mean gingerbread cottages and all that,\" said Granny dismissively. \"Spinning wheels and pumpkins and pricking your finger on rose thorns and similar. I could never be having with all that.\"",
+          "sentiment": {
+            "score": "-0.0330351",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"That\u2019s something he\u2019ll have to learn for himself,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Not important,\" said Granny loudly. \"You\u2019ve got to think headology, see? Not muck about with all this beauty and wealth business. That\u2019s not important.\"",
+          "sentiment": {
+            "score": "-0.0848406",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "Granny loudly. \"You\u2019ve got to think headology, see? Not muck about with all this beauty and wealth business. That\u2019s not important.\"\nShe turned back to the ball and gestured half-heartedly. \"You\u2019d better go and get Nanny, then, seeing as there should be three of us.\"",
+          "sentiment": {
+            "score": "0.175901",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"We was just discussing it,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Something a bit less physical is generally the style of things,\" interrupted Granny, glaring at Nanny Ogg. \"There\u2019s no need to go and spoil everything, Gytha. Why do you always have to\u2014\"",
+          "sentiment": {
+            "score": "-0.15617",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Good idea,\" said Granny ...",
+          "sentiment": {
+            "score": "0.361161",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "13"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.068048",
+        "joy": "0.517778",
+        "sadness": "0.254351",
+        "anger": "0.092381",
+        "fear": "0.113138"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.752076",
+      "quotations": [
+        {
+          "quotation": "\n\"What\u2019re we going to give him, then?\" said Nanny ...",
+          "sentiment": {
+            "score": "0.0205123",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"I know what he\u2019ll want,\" said Nanny ...",
+          "sentiment": {
+            "score": "0.0905955",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"He\u2019ll thank us when he grows up, you mark my words,\" said Nanny. \"My first husband, he always said\u2014\"",
+          "sentiment": {
+            "score": "0.0676257",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Well, at least I can say that I\u2014\" Nanny began ...",
+          "sentiment": {
+            "score": "0.0948949",
+            "type": "positive",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "10"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.190053",
+        "joy": "0.065764",
+        "sadness": "0.193094",
+        "anger": "0.316915",
+        "fear": "0.27902"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.595839",
+      "quotations": [
+        {
+          "quotation": "\n\"It was very strange,\" said Magrat ...",
+          "sentiment": {
+            "score": "-0.431418",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Yes, but\u2014\" Magrat said ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Well, money isn\u2019t everything, and if he takes after his father he\u2019ll be handsome enough,\" Magrat said, suddenly serious. \"Wisdom, do you think?\"",
+          "sentiment": {
+            "score": "0.300862",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"I don\u2019t see what use that would be,\" said Magrat, eventually. \"Wouldn\u2019t it be rather uncomfortable?\"",
+          "sentiment": {
+            "score": "-0.218447",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"I think,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "11"
+    },
+    {
+      "type": "City",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.190053",
+        "joy": "0.065764",
+        "sadness": "0.193094",
+        "anger": "0.316915",
+        "fear": "0.27902"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.229636",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat Garlick",
+      "emotions": {
+        "disgust": "0.677939",
+        "joy": "0.015227",
+        "sadness": "0.260451",
+        "anger": "0.052876",
+        "fear": "0.077105"
+      },
+      "sentiment": {
+        "score": "-0.279034",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.219268",
+      "count": "1"
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Sto plains",
+      "emotions": {
+        "disgust": "0.232026",
+        "joy": "0.158429",
+        "sadness": "0.321037",
+        "anger": "0.183869",
+        "fear": "0.201892"
+      },
+      "sentiment": {
+        "score": "-0.468121",
+        "type": "negative"
+      },
+      "relevance": "0.206171",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Lancre",
+      "emotions": {
+        "disgust": "0.110662",
+        "joy": "0.246727",
+        "sadness": "0.530085",
+        "anger": "0.059974",
+        "fear": "0.119326"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.192503",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "headology",
+      "emotions": {
+        "disgust": "0.148355",
+        "joy": "0.43927",
+        "sadness": "0.129737",
+        "anger": "0.201362",
+        "fear": "0.22382"
+      },
+      "sentiment": {
+        "score": "0.171007",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.165191",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Gytha",
+      "emotions": {
+        "disgust": "0.042957",
+        "joy": "0.62371",
+        "sadness": "0.187142",
+        "anger": "0.067117",
+        "fear": "0.123709"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.159477",
+      "count": "1"
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

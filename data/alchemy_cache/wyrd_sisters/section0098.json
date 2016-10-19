@@ -1,0 +1,392 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.333213",
+        "joy": "0.089044",
+        "sadness": "0.250233",
+        "anger": "0.152132",
+        "fear": "0.229347"
+      },
+      "sentiment": {
+        "score": "0.180968",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.910037",
+      "quotations": [
+        {
+          "quotation": "\n\"Everyone\u2019s alive,\" said Granny. \"It\u2019s a trick dagger. Actors probably can\u2019t be trusted with real ones.\"",
+          "sentiment": {
+            "score": "0.268949",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"He is the true king. We can prove it,\" said Granny ...",
+          "sentiment": {
+            "score": "0.231325",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Headology,\" said Granny, and smirked. \"You don\u2019t need any Black Aliss magic for it.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Nonsense,\" Granny smiled terribly. \"Everyone wants to know their true self. Now, she does.\"",
+          "sentiment": {
+            "score": "0.182238",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"For goodness\u2019 sake use your imagination, girl,\" said Granny. \"There are far worse things. Needles under the fingernails, for one. Stuff with pliers.\"",
+          "sentiment": {
+            "score": "-0.102342",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"This is simply the worst that I can do,\" said Granny Weatherwax ...",
+          "sentiment": {
+            "score": "-0.21164",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Gently, mind,\" said Granny ...",
+          "sentiment": {
+            "score": "0.1402",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Act, then. Being a king is, is\u2014\" Granny hesitated, and snapped her fingers at Magrat. \"What do you call them things, there\u2019s always a hundred of them in anything?\"",
+          "sentiment": {
+            "score": "-0.0924007",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Them,\" agreed Granny. \"Most of the percents in being a king is acting, if you ask me. You ought to be good at it.\"",
+          "sentiment": {
+            "score": "0.158006",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "20"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.300265",
+        "joy": "0.201471",
+        "sadness": "0.385812",
+        "anger": "0.163195",
+        "fear": "0.066188"
+      },
+      "sentiment": {
+        "score": "0.290261",
+        "type": "positive"
+      },
+      "relevance": "0.545888",
+      "quotations": [
+        {
+          "quotation": "\n\"You\u2019ve got to admit he was real royalty,\" said Nanny Ogg, eventually. \"It only goes to show, royalty goes eccentric far better than the likes of you and me.\"",
+          "sentiment": {
+            "score": "-0.163695",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"After all, they can\u2019t even keep a cauldron clean,\" said Nanny ...",
+          "sentiment": {
+            "score": "0.387529",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Sometimes, you have to be kind to be cruel,\" said Nanny Ogg ...",
+          "sentiment": {
+            "score": "-0.573964",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Red-hot knives up the jacksie,\" said Nanny Ogg. \"Handle first, too, so you cut your fingers trying to pull them out\u2014\"",
+          "sentiment": {
+            "score": "0.166571",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "7"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.245772",
+        "joy": "0.065504",
+        "sadness": "0.413213",
+        "anger": "0.175986",
+        "fear": "0.180111"
+      },
+      "sentiment": {
+        "score": "-0.157488",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.53575",
+      "quotations": [
+        {
+          "quotation": "\n\"What have you done to her?\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I think it\u2019s probably the worst thing that could happen to anyone,\" said Magrat ...",
+          "sentiment": {
+            "score": "-0.237147",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "10"
+    },
+    {
+      "type": "Person",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.315306",
+        "joy": "0.068741",
+        "sadness": "0.486065",
+        "anger": "0.051242",
+        "fear": "0.152933"
+      },
+      "sentiment": {
+        "score": "-0.17428",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.492999",
+      "quotations": [
+        {
+          "quotation": "\n\"\u2018\u2026lock will hold, nor fasten\u2019d portal\u2026,\u2019\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I was bloody King of Lancre!\" shouted Tomjon ...",
+          "sentiment": {
+            "score": "-0.207988",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"She\u2019s right, miss,\" said Tomjon, on the edge of panic. \"My father runs a theater, not a kingdom.\"",
+          "sentiment": {
+            "score": "-0.0332178",
+            "type": "negative",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "9"
+    },
+    {
+      "type": "City",
+      "text": "Lancre",
+      "emotions": {
+        "disgust": "0.181951",
+        "joy": "0.1471",
+        "sadness": "0.404763",
+        "anger": "0.165834",
+        "fear": "0.143855"
+      },
+      "sentiment": {
+        "score": "0.0204035",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.328312",
+      "count": "3"
+    },
+    {
+      "type": "Person",
+      "text": "Wimsloe",
+      "emotions": {
+        "disgust": "0.137802",
+        "joy": "0.291575",
+        "sadness": "0.392386",
+        "anger": "0.102768",
+        "fear": "0.152928"
+      },
+      "sentiment": {
+        "score": "-0.84048",
+        "type": "negative"
+      },
+      "relevance": "0.272677",
+      "quotations": [
+        {
+          "quotation": "\n\"No, I cannot do it!\" said Wimsloe. \"I will be seen! Down there in the hall, someone watches!\"",
+          "sentiment": {
+            "score": "-0.265239",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "Wimsloe. \"I will be seen! Down there in the hall, someone watches!\"\n\"There is no one!\"\n\"I feel the stare!\"",
+          "sentiment": {
+            "score": "-0.182583",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "2"
+    },
+    {
+      "type": "Person",
+      "text": "King Verence",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.241519",
+      "quotations": [
+        {
+          "quotation": "\n\"Now!\" hissed King Verence in Granny\u2019s ear. \"Now!\"",
+          "sentiment": {
+            "score": "-0.163354",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "1"
+    },
+    {
+      "type": "Facility",
+      "text": "Great Hall",
+      "emotions": {
+        "disgust": "0.012957",
+        "joy": "0.43424",
+        "sadness": "0.178176",
+        "anger": "0.047961",
+        "fear": "0.384081"
+      },
+      "sentiment": {
+        "score": "0.555428",
+        "type": "positive"
+      },
+      "relevance": "0.239893",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Verence",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.236621",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Lady Felmet",
+      "emotions": {
+        "disgust": "0.306728",
+        "joy": "0.545095",
+        "sadness": "0.192108",
+        "anger": "0.019227",
+        "fear": "0.019489"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.232467",
+      "quotations": [
+        {
+          "quotation": "\n\"You did not dare say this before,\" said Lady Felmet.\n\"Yes, lady. But I must say it now.\"",
+          "sentiment": {
+            "score": "0.0636149",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "1"
+    },
+    {
+      "type": "FieldTerminology",
+      "text": "gas leak",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.217351",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.197921",
+        "joy": "0.079112",
+        "sadness": "0.179665",
+        "anger": "0.251563",
+        "fear": "0.414781"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.208428",
+      "count": "1"
+    },
+    {
+      "relevance": "0.208428",
+      "count": "1",
+      "type": "Quantity",
+      "text": "one day",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

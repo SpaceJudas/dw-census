@@ -1,0 +1,248 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.172209",
+        "joy": "0.013373",
+        "sadness": "0.52127",
+        "anger": "0.264172",
+        "fear": "0.1316"
+      },
+      "sentiment": {
+        "score": "0.223873",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.907231",
+      "quotations": [
+        {
+          "quotation": "\n\"The bloody stone\u2019s gone,\" said Granny Weatherwax. \"However many there is of it.\"",
+          "sentiment": {
+            "score": "-0.333275",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"I never touch the stuff,\" said Granny Weatherwax. \"We should keep a clear head, Gytha.\"",
+          "sentiment": {
+            "score": "0.14989",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Very well,\" said Granny. \"But just a drop.\"",
+          "sentiment": {
+            "score": "0.7205",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "Granny said, \"Well, Magrat. You know all about the coven business. We might as well do it right. What do we do next?\"",
+          "sentiment": {
+            "score": "0.384683",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"There\u2019s a song,\" she said. \"In praise of the full moon.\"",
+          "sentiment": {
+            "score": "0.0367535",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"It ain\u2019t full,\" Granny pointed out. \"It\u2019s wossname. Bulging.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"That\u2019s modern witchcraft for you, is it?\" she said.\n\"It\u2019s part of it, Granny. There\u2019s a lot more.\"",
+          "sentiment": {
+            "score": "0.0247176",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "she said.\n\"It\u2019s part of it, Granny. There\u2019s a lot more.\"\nGranny Weatherwax sighed. \"Each to her own, I suppose. I\u2019m blowed if I\u2019ll let a ball of shiny rock tell me what to do.\"",
+          "sentiment": {
+            "score": "0.45493",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "13"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.268051",
+        "joy": "0.192398",
+        "sadness": "0.450059",
+        "anger": "0.031314",
+        "fear": "0.145747"
+      },
+      "sentiment": {
+        "score": "-0.0341796",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.456935",
+      "quotations": [
+        {
+          "quotation": "\n\"I daresay we\u2019ll all feel better for a cup of tea,\" said Nanny Ogg ...",
+          "sentiment": {
+            "score": "0.170347",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\"With something in it,\" she added ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Just a drop in your tea isn\u2019t drinking,\" said Nanny. \"It\u2019s medicine. It\u2019s a chilly old wind up here, sisters.\"",
+          "sentiment": {
+            "score": "-0.023972",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Gibbous,\" said Nanny ...",
+          "sentiment": {
+            "score": "-0.0136835",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Yes, bugger all that,\" said Nanny. \"Let\u2019s curse somebody.\"",
+          "sentiment": {
+            "score": "-0.493025",
+            "type": "negative",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "6"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.073358",
+        "joy": "0.494526",
+        "sadness": "0.245775",
+        "anger": "0.111827",
+        "fear": "0.125764"
+      },
+      "sentiment": {
+        "score": "-0.494453",
+        "type": "negative"
+      },
+      "relevance": "0.277238",
+      "count": "3"
+    },
+    {
+      "type": "NaturalDisaster",
+      "text": "Hurricane Zelda",
+      "emotions": {
+        "disgust": "0.134028",
+        "joy": "0.139984",
+        "sadness": "0.3719",
+        "anger": "0.164184",
+        "fear": "0.298477"
+      },
+      "sentiment": {
+        "score": "-0.479861",
+        "type": "negative"
+      },
+      "relevance": "0.21432",
+      "count": "1"
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Circle Sea",
+      "emotions": {
+        "disgust": "0.053667",
+        "joy": "0.476139",
+        "sadness": "0.358143",
+        "anger": "0.128776",
+        "fear": "0.033415"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.207932",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat virtuously",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.201779",
+      "quotations": [
+        {
+          "quotation": "\n\"Alcohol is a deceiver and tarnishes the soul,\" said Magrat virtuously ...",
+          "sentiment": {
+            "score": "0.0317657",
+            "type": "positive",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat hazarded",
+      "emotions": {
+        "disgust": "0.185251",
+        "joy": "0.132694",
+        "sadness": "0.308962",
+        "anger": "0.07971",
+        "fear": "0.345604"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.199879",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Gytha",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.16728",
+      "count": "1"
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

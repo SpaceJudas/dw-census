@@ -1,0 +1,542 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hwel sourly",
+      "emotions": {
+        "disgust": "0.166839",
+        "joy": "0.715077",
+        "sadness": "0.075274",
+        "anger": "0.05663",
+        "fear": "0.049334"
+      },
+      "sentiment": {
+        "score": "0.585051",
+        "type": "positive"
+      },
+      "relevance": "0.914308",
+      "quotations": [
+        {
+          "quotation": "\n\"We were lost ten miles ago,\" said Hwel. \"There\u2019s got to be a new word for what we are now.\"",
+          "sentiment": {
+            "score": "-0.146591",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s just that you mentioned it,\" said Hwel ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"What river?\" said Hwel. \"We\u2019re on the moor, there can\u2019t be a river in miles.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Perhaps we should have asked her to wait while we went and looked for one,\" said Hwel sourly ...",
+          "sentiment": {
+            "score": "-0.0536362",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"She could have given more explicit instructions,\" said Hwel ...",
+          "sentiment": {
+            "score": "0.402453",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"I think I would,\" muttered Hwel ...",
+          "sentiment": {
+            "score": "-0.125603",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Ah,\" said Hwel, \"I thought we\u2019d get to that.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Fine,\" growled Hwel. \"Well, we won\u2019t keep you. I\u2019m sure you\u2019ve got a lot of wood to collect and so forth.\"",
+          "sentiment": {
+            "score": "0.372838",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"We won\u2019t be here long,\" said Hwel ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s salt pork, understand?\" said Hwel sharply. \"Take it or leave it, OK? Now\u2014which way\u2019s Lancre?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"No,\" said Hwel ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "20"
+    },
+    {
+      "type": "Person",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.191071",
+        "joy": "0.094323",
+        "sadness": "0.387537",
+        "anger": "0.327703",
+        "fear": "0.063746"
+      },
+      "sentiment": {
+        "score": "0.0267671",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.557406",
+      "quotations": [
+        {
+          "quotation": "\"I think,\" said Tomjon, \"that we\u2019re lost.\"",
+          "sentiment": {
+            "score": "-0.396771",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"You said the mountains were honeycombed with dwarf mines,\" said Tomjon. \"You said a dwarf could tell wherever he was in the mountains.\"",
+          "sentiment": {
+            "score": "-0.0162624",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"We could dig you a hole,\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"We are lost, aren\u2019t we?\" said Tomjon, after a while.\n\"Certainly not.\"",
+          "sentiment": {
+            "score": "-0.235495",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "Tomjon, after a while.\n\"Certainly not.\"\n\"Where are we, then?\"\n\"The mountains. Perfectly clear on any atlas.\"",
+          "sentiment": {
+            "score": "0.197676",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"That old woman in the funny hat,\" said Tomjon, pointing. \"I\u2019ve been watching her. She keeps ducking down behind a bush when she thinks I\u2019ve seen her.\"",
+          "sentiment": {
+            "score": "0.176435",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "Tomjon said, \"I\u2019m sorry?\"",
+          "sentiment": {
+            "score": "-0.249239",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Well, yes,\" said Tomjon. \"All day.\"",
+          "sentiment": {
+            "score": "0.41848",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"We could help you across the river if you like,\" shouted Tomjon ...",
+          "sentiment": {
+            "score": "0.147799",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Like ask at the next crone,\" said Tomjon. \"Look over there.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"There aren\u2019t any rivers around that you need helping over, are there?\" said Tomjon ...",
+          "sentiment": {
+            "score": "0.192326",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"To help you across,\" said Tomjon ...",
+          "sentiment": {
+            "score": "0.208905",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "18"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.148511",
+        "joy": "0.167603",
+        "sadness": "0.219158",
+        "anger": "0.257769",
+        "fear": "0.285253"
+      },
+      "sentiment": {
+        "score": "-0.489923",
+        "type": "negative"
+      },
+      "relevance": "0.303134",
+      "quotations": [
+        {
+          "quotation": "\n\"Keep on, left at the ravine, then you pick up the track that leads to a bridge, you can\u2019t miss it,\" said Nanny ...",
+          "sentiment": {
+            "score": "-0.0844578",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Spot on, lad,\" said Nanny cheerfully. \"Just about to make a start, as a matter of fact.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Can\u2019t abide salt pork without condiments,\" said Nanny ...",
+          "sentiment": {
+            "score": "0.0513259",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Pretty weak stuff,\" said Nanny ...",
+          "sentiment": {
+            "score": "0.387867",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "9"
+    },
+    {
+      "type": "Person",
+      "text": "Wimsloe",
+      "emotions": {
+        "disgust": "0.039952",
+        "joy": "0.610104",
+        "sadness": "0.299388",
+        "anger": "0.05449",
+        "fear": "0.06813"
+      },
+      "sentiment": {
+        "score": "0.21428",
+        "type": "positive"
+      },
+      "relevance": "0.241685",
+      "quotations": [
+        {
+          "quotation": "\n\"Y-you\u2019ve got to get them on y-your side,\" said Wimsloe. \"Then t-they help you.\"",
+          "sentiment": {
+            "score": "0.176194",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "4"
+    },
+    {
+      "type": "Person",
+      "text": "Granny",
+      "emotions": {
+        "disgust": "0.037517",
+        "joy": "0.354778",
+        "sadness": "0.460662",
+        "anger": "0.149564",
+        "fear": "0.041462"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.222734",
+      "quotations": [
+        {
+          "quotation": "\n\"What?\" said Granny.\n\"Your poor old heart what?\"",
+          "sentiment": {
+            "score": "-0.106352",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"What about my poor old heart?\" said Granny ...",
+          "sentiment": {
+            "score": "-0.0721441",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"You\u2019ve come too far,\" said Granny. \"Go back about two miles, and take the track on the right, past the stand of pines.\"",
+          "sentiment": {
+            "score": "0.0743936",
+            "type": "positive",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "5"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.219964",
+        "joy": "0.331029",
+        "sadness": "0.146679",
+        "anger": "0.220447",
+        "fear": "0.153536"
+      },
+      "sentiment": {
+        "score": "-0.582532",
+        "type": "negative"
+      },
+      "relevance": "0.22072",
+      "quotations": [
+        {
+          "quotation": "\n\"Meat is extremely bad for the digestive system,\" said Magrat. \"If you could see inside your colon you\u2019d be horrified.\"",
+          "sentiment": {
+            "score": "-0.488128",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Don\u2019t be silly,\" said Magrat. \"I\u2019m just a humble wood gatherer, lawks, collecting a few sticks and mayhap directing lost travelers on the road to Lancre.\"",
+          "sentiment": {
+            "score": "-0.181473",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"You fork left up ahead and turn right at the big stone with the crack in it, you can\u2019t miss it,\" said Magrat ...",
+          "sentiment": {
+            "score": "0.18533",
+            "type": "positive",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "5"
+    },
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.110223",
+        "joy": "0.028903",
+        "sadness": "0.559372",
+        "anger": "0.215701",
+        "fear": "0.201928"
+      },
+      "sentiment": {
+        "score": "-0.786122",
+        "type": "negative"
+      },
+      "relevance": "0.182631",
+      "quotations": [
+        {
+          "quotation": "\n\"Mistress,\" snapped Granny Weatherwax ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Lancre",
+      "emotions": {
+        "disgust": "0.103113",
+        "joy": "0.403319",
+        "sadness": "0.40614",
+        "anger": "0.09668",
+        "fear": "0.029852"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.170233",
+      "count": "2"
+    },
+    {
+      "type": "City",
+      "text": "describable",
+      "emotions": {
+        "disgust": "0.343129",
+        "joy": "0.25765",
+        "sadness": "0.097782",
+        "anger": "0.209906",
+        "fear": "0.149887"
+      },
+      "sentiment": {
+        "score": "0.224713",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.164499",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Bees",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.163247",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "bush",
+      "emotions": {
+        "disgust": "0.064344",
+        "joy": "0.388436",
+        "sadness": "0.093188",
+        "anger": "0.192997",
+        "fear": "0.32184"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.155366",
+      "count": "2"
+    },
+    {
+      "type": "Person",
+      "text": "Granny testily",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.150581",
+      "quotations": [
+        {
+          "quotation": "\n\"Well, it isn\u2019t important. Lawks. I expect you\u2019re looking for Lancre,\" said Granny testily ...",
+          "sentiment": {
+            "score": "-0.136418",
+            "type": "negative",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "1"
+    },
+    {
+      "type": "Movie",
+      "text": "Waiting",
+      "emotions": {
+        "disgust": "0.199328",
+        "joy": "0.0699",
+        "sadness": "0.440382",
+        "anger": "0.228246",
+        "fear": "0.169911"
+      },
+      "sentiment": {
+        "score": "-0.284114",
+        "type": "negative"
+      },
+      "relevance": "0.142315",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Lancre",
+      "emotions": {
+        "disgust": "0.103113",
+        "joy": "0.403319",
+        "sadness": "0.40614",
+        "anger": "0.09668",
+        "fear": "0.029852"
+      },
+      "sentiment": {
+        "score": "0.337264",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.139392",
+      "count": "1"
+    },
+    {
+      "relevance": "0.139392",
+      "count": "1",
+      "type": "Quantity",
+      "text": "five pounds",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.139392",
+      "count": "1",
+      "type": "Quantity",
+      "text": "ten miles",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.139392",
+      "count": "1",
+      "type": "Quantity",
+      "text": "two miles",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

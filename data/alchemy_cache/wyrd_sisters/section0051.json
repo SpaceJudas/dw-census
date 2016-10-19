@@ -1,0 +1,338 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.40097",
+        "joy": "0.00026",
+        "sadness": "0.063401",
+        "anger": "0.137414",
+        "fear": "0.563191"
+      },
+      "sentiment": {
+        "score": "-0.219304",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.801635",
+      "quotations": [
+        {
+          "quotation": "\n\"Shouldn\u2019t be difficult,\" screamed Granny, above the noise of the wind.\n\"I mean get down safely!\"",
+          "sentiment": {
+            "score": "-0.191641",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Right,\" said Granny. \"Well done. See you at Lancre Bridge.\"",
+          "sentiment": {
+            "score": "0.297919",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "20"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.432964",
+        "joy": "0.012697",
+        "sadness": "0.282286",
+        "anger": "0.207212",
+        "fear": "0.165851"
+      },
+      "sentiment": {
+        "score": "-0.450527",
+        "type": "negative"
+      },
+      "relevance": "0.520145",
+      "quotations": [
+        {
+          "quotation": "\n\"Oh dear,\" thought Magrat. \"I hope she hasn\u2019t happened to someone.\"",
+          "sentiment": {
+            "score": "0.144536",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Leave me a bit,\" shouted Magrat. \"I\u2019ve got to get down!\"",
+          "sentiment": {
+            "score": "-0.0422508",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Did I land on you?\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"You\u2019ve got a bloody hard head,\" said Magrat ...",
+          "sentiment": {
+            "score": "-0.347481",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Witches never get lost,\" said Magrat firmly. \"Although they can become temporarily mislaid. Lancre\u2019s over that way, I think. I\u2019ve got to find a hill, if you\u2019ll excuse me.\"",
+          "sentiment": {
+            "score": "0.315905",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "Magrat firmly. \"Although they can become temporarily mislaid. Lancre\u2019s over that way, I think. I\u2019ve got to find a hill, if you\u2019ll excuse me.\"\n\"To see where you are?\"\n\"To see when, I think. There\u2019s a lot of magic going on tonight.\"",
+          "sentiment": {
+            "score": "0.111948",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "14"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.313299",
+      "quotations": [
+        {
+          "quotation": "\n\"It was a bloody stupid idea,\" moaned Nanny. \"I never liked heights.\"",
+          "sentiment": {
+            "score": "-0.215035",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "Nanny. \"I never liked heights.\"\n\"Did you bring something to drink?\"\n\"Certainly. You said.\"",
+          "sentiment": {
+            "score": "-0.29968",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"I drank it, didn\u2019t I,\" said Nanny. \"Sitting around up there at my age. Our Jason would have a fit.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "5"
+    },
+    {
+      "type": "City",
+      "text": "Lancre",
+      "emotions": {
+        "disgust": "0.091444",
+        "joy": "0.029144",
+        "sadness": "0.121512",
+        "anger": "0.015807",
+        "fear": "0.793145"
+      },
+      "sentiment": {
+        "score": "-0.372207",
+        "type": "negative"
+      },
+      "relevance": "0.290515",
+      "count": "4"
+    },
+    {
+      "type": "City",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.432964",
+        "joy": "0.012697",
+        "sadness": "0.282286",
+        "anger": "0.207212",
+        "fear": "0.165851"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.284821",
+      "count": "3"
+    },
+    {
+      "type": "Facility",
+      "text": "Lancre Bridge",
+      "emotions": {
+        "disgust": "0.036988",
+        "joy": "0.170477",
+        "sadness": "0.411102",
+        "anger": "0.156547",
+        "fear": "0.293405"
+      },
+      "sentiment": {
+        "score": "-0.113075",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.213849",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Turnwise",
+      "emotions": {
+        "disgust": "0.302826",
+        "joy": "0.346875",
+        "sadness": "0.120505",
+        "anger": "0.097285",
+        "fear": "0.244036"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.195131",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Dunmanifestin",
+      "emotions": {
+        "disgust": "0.037182",
+        "joy": "0.390239",
+        "sadness": "0.406773",
+        "anger": "0.077714",
+        "fear": "0.140438"
+      },
+      "sentiment": {
+        "score": "0.2284",
+        "type": "positive"
+      },
+      "relevance": "0.188645",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "tinkle",
+      "emotions": {
+        "disgust": "0.122207",
+        "joy": "0.049316",
+        "sadness": "0.631737",
+        "anger": "0.242506",
+        "fear": "0.05294"
+      },
+      "sentiment": {
+        "score": "-0.642534",
+        "type": "negative"
+      },
+      "relevance": "0.187357",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Rimward",
+      "emotions": {
+        "disgust": "0.194107",
+        "joy": "0.219001",
+        "sadness": "0.395456",
+        "anger": "0.078865",
+        "fear": "0.190675"
+      },
+      "sentiment": {
+        "score": "0.540851",
+        "type": "positive"
+      },
+      "relevance": "0.185897",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Jason",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.183916",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Prithee",
+      "emotions": {
+        "disgust": "0.118256",
+        "joy": "0.095701",
+        "sadness": "0.4941",
+        "anger": "0.147519",
+        "fear": "0.224127"
+      },
+      "sentiment": {
+        "score": "-0.722957",
+        "type": "negative"
+      },
+      "relevance": "0.181123",
+      "count": "1"
+    },
+    {
+      "relevance": "0.181123",
+      "count": "1",
+      "type": "Quantity",
+      "text": "five hundred feet",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.181123",
+      "count": "1",
+      "type": "Quantity",
+      "text": "thousand feet",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.181123",
+      "count": "1",
+      "type": "Quantity",
+      "text": "thousand-mile",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.181123",
+      "count": "1",
+      "type": "Quantity",
+      "text": "hundred feet",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.181123",
+      "count": "1",
+      "type": "Quantity",
+      "text": "one hand",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

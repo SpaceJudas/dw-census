@@ -1,0 +1,454 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Nanny",
+      "emotions": {
+        "disgust": "0.195607",
+        "joy": "0.20039",
+        "sadness": "0.394421",
+        "anger": "0.120187",
+        "fear": "0.183835"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.866793",
+      "quotations": [
+        {
+          "quotation": "\n\"Best put the cloth over it when you\u2019ve done, Esme,\" said Nanny. \"I always get worried someone\u2019ll peer in at me when I\u2019m having my bath.\"",
+          "sentiment": {
+            "score": "0.0443374",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s a long road,\" said Nanny. \"There\u2019s many a slip twixt dress and drawers. There could be bandits.\"",
+          "sentiment": {
+            "score": "-0.077382",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s not proper meddling,\" said Nanny awkwardly. \"Just helping matters along.\"",
+          "sentiment": {
+            "score": "0.185065",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"A week is a long time in magic,\" said Nanny. \"Fifteen years, for one thing. Anyway, Esme is determined and I\u2019m in no mood to stop her.\"",
+          "sentiment": {
+            "score": "0.0825151",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Better than drowning,\" Nanny said ...",
+          "sentiment": {
+            "score": "0.0137172",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Feel free,\" said Nanny ...",
+          "sentiment": {
+            "score": "0.186937",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "10"
+    },
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.279505",
+        "joy": "0.210003",
+        "sadness": "0.282749",
+        "anger": "0.188664",
+        "fear": "0.106648"
+      },
+      "sentiment": {
+        "score": "0.211799",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.796624",
+      "quotations": [
+        {
+          "quotation": "\n\"I can\u2019t be having with that old stuff,\" said Granny. \"You can wait days for the damn things to hit and then they nearly take your arm off.\"",
+          "sentiment": {
+            "score": "-0.166707",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Can\u2019t abide strawberries,\" said Granny ...",
+          "sentiment": {
+            "score": "0.056879",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"He\u2019s on his way,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"We shall watch over him,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "8"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.168761",
+        "joy": "0.125735",
+        "sadness": "0.134492",
+        "anger": "0.313415",
+        "fear": "0.367353"
+      },
+      "sentiment": {
+        "score": "-0.339131",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.7419",
+      "quotations": [
+        {
+          "quotation": "\n\"Has he got a magic sword?\" said Magrat ...",
+          "sentiment": {
+            "score": "0.105687",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"A magic sword is important,\" said Magrat ...",
+          "sentiment": {
+            "score": "0.117174",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"That\u2019s not right. If he\u2019s going to be king he ought to be able to fight his own battles,\" said Magrat ...",
+          "sentiment": {
+            "score": "-0.0937306",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"And then, I hope, we shall leave him to fight his battles in his own way,\" said Magrat ...",
+          "sentiment": {
+            "score": "-0.0816644",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"So what you\u2019re saying,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Can I borrow the crystal?\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "12"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.284092",
+        "joy": "0.198879",
+        "sadness": "0.359302",
+        "anger": "0.157266",
+        "fear": "0.080098"
+      },
+      "sentiment": {
+        "score": "-0.409766",
+        "type": "negative"
+      },
+      "relevance": "0.592803",
+      "quotations": [
+        {
+          "quotation": "\n\"A fiery white charger would have been favorite,\" said Nanny Ogg. \"You know. Caparisoned, and that.\"",
+          "sentiment": {
+            "score": "0.305245",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"And a strawberry birthmark,\" said Nanny Ogg ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "3"
+    },
+    {
+      "type": "Facility",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.284092",
+        "joy": "0.198879",
+        "sadness": "0.359302",
+        "anger": "0.157266",
+        "fear": "0.080098"
+      },
+      "sentiment": {
+        "score": "0.061518",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.446773",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny primly",
+      "emotions": {
+        "disgust": "0.08071",
+        "joy": "0.532439",
+        "sadness": "0.237907",
+        "anger": "0.075312",
+        "fear": "0.135762"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.403495",
+      "quotations": [
+        {
+          "quotation": "\n\"We don\u2019t want him to go wasting his strength,\" said Nanny primly. \"We want him good and fresh for when he gets here.\"",
+          "sentiment": {
+            "score": "0.0433765",
+            "type": "positive",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "forn",
+      "emotions": {
+        "disgust": "0.065293",
+        "joy": "0.37219",
+        "sadness": "0.201994",
+        "anger": "0.133614",
+        "fear": "0.274461"
+      },
+      "sentiment": {
+        "score": "-0.531994",
+        "type": "negative"
+      },
+      "relevance": "0.275163",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Caparisoned",
+      "emotions": {
+        "disgust": "0.173949",
+        "joy": "0.165806",
+        "sadness": "0.440794",
+        "anger": "0.081745",
+        "fear": "0.208774"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.268863",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Esme",
+      "emotions": {
+        "disgust": "0.154572",
+        "joy": "0.144933",
+        "sadness": "0.338934",
+        "anger": "0.333984",
+        "fear": "0.088107"
+      },
+      "sentiment": {
+        "score": "-0.569915",
+        "type": "negative"
+      },
+      "relevance": "0.240775",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.240216",
+      "count": "1"
+    },
+    {
+      "type": "Organization",
+      "text": "duke",
+      "emotions": {
+        "disgust": "0.454456",
+        "joy": "0.100691",
+        "sadness": "0.432881",
+        "anger": "0.025412",
+        "fear": "0.062738"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.238567",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Gytha",
+      "emotions": {
+        "disgust": "0.169751",
+        "joy": "0.253374",
+        "sadness": "0.376801",
+        "anger": "0.226264",
+        "fear": "0.009545"
+      },
+      "sentiment": {
+        "score": "0.247622",
+        "type": "positive"
+      },
+      "relevance": "0.235797",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Lancre",
+      "emotions": {
+        "disgust": "0.162971",
+        "joy": "0.29846",
+        "sadness": "0.322022",
+        "anger": "0.167422",
+        "fear": "0.092064"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.232564",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Ramtops",
+      "emotions": {
+        "disgust": "0.364909",
+        "joy": "0.260438",
+        "sadness": "0.398065",
+        "anger": "0.019963",
+        "fear": "0.026343"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.231122",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Shawn",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "score": "-0.424324",
+        "type": "negative"
+      },
+      "relevance": "0.22215",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Jason",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.221072",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Greebo",
+      "emotions": {
+        "disgust": "0.133042",
+        "joy": "0.093807",
+        "sadness": "0.45359",
+        "anger": "0.15225",
+        "fear": "0.216049"
+      },
+      "sentiment": {
+        "score": "-0.472763",
+        "type": "negative"
+      },
+      "relevance": "0.218868",
+      "count": "1"
+    },
+    {
+      "relevance": "0.218868",
+      "count": "1",
+      "type": "Quantity",
+      "text": "five hundred miles",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.218868",
+      "count": "1",
+      "type": "Quantity",
+      "text": "Fifteen years",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

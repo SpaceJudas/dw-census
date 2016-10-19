@@ -1,0 +1,1193 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Granny",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.887277",
+      "quotations": [
+        {
+          "quotation": "\n\"I ain\u2019t worried about you, Gytha Ogg,\" snapped Granny. \"I only come along \u2019cos Magrat was fretting. What I say is, if a witch can\u2019t look after herself, she\u2019s got no business calling herself a witch.\"",
+          "sentiment": {
+            "score": "-0.0987899",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"I see \u2019em,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Will you shut up, you daft old besom!\" snapped Granny. \"And pull yourself together!\"",
+          "sentiment": {
+            "score": "-0.160561",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"You\u2019ve gone a long way too far,\" said Granny ...",
+          "sentiment": {
+            "score": "-0.177635",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"And now we are going to go, too,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"We\u2019re leaving,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I ain\u2019t despairing, I\u2019m thinking,\" said Granny. \"Go away.\"",
+          "sentiment": {
+            "score": "-0.419687",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"No, we didn\u2019t,\" said Granny.\n\"Right. We didn\u2019t.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "Granny.\n\"Right. We didn\u2019t.\"\n\"We ordered it to assist.\"\n\"S\u2019right.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Here, how did you get out of the castle?\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Not the first, either,\" said Granny, automatically.\n\"Esme!\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "Granny, automatically.\n\"Esme!\"\n\"And I beg you, Granny Weatherwax, to restore my son to the throne.\"\n\"Restore?\"",
+          "sentiment": {
+            "score": "0.078825",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Yes, well. Destiny is tricky, you know,\" said Granny.\n\"You will not help?\"",
+          "sentiment": {
+            "score": "-0.155241",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"We saw him safe out of the country, you see,\" said Granny ...",
+          "sentiment": {
+            "score": "0.471518",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Absolutely not,\" said Granny with considerable firmness as a vision of Vitoller floated across her imagination. \"Not common at all. Very uncommon. Er.\"",
+          "sentiment": {
+            "score": "0.109434",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s very vexing,\" said Granny ...",
+          "sentiment": {
+            "score": "-0.622488",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Reflect on things,\" said Granny. \"Think about it all.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s no good just reacting,\" said Granny. \"You\u2019ve got to\u2014\"",
+          "sentiment": {
+            "score": "0.0913169",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"He ran us down!\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Get out of the way?\" said Granny ...",
+          "sentiment": {
+            "score": "-0.137034",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s never happened to me before, ever,\" said Granny, still twanging like a bowstring. \"I\u2019ll teach him to run us down as though, as though, as though we was ordinary people!\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"We\u2019re witches!\" screamed Granny ...",
+          "sentiment": {
+            "score": "-0.301505",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"What\u2019ve I been doing all this time?\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Laughed at! Laughed at! On my own roads! In my own country!\" screamed Granny. \"That just about does it! I\u2019m not taking ten more years of this! I\u2019m not taking another day of it!\"",
+          "sentiment": {
+            "score": "-0.270397",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Lock up a witch, would he?\" Granny shouted ...",
+          "sentiment": {
+            "score": "-0.035712",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Wyrd sisters, indeed!\" Granny yelled. \"I\u2019ll make his\u2014\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "42"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.187168",
+        "joy": "0.113603",
+        "sadness": "0.550144",
+        "anger": "0.113304",
+        "fear": "0.128805"
+      },
+      "sentiment": {
+        "score": "0.124814",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.814592",
+      "quotations": [
+        {
+          "quotation": "\n\"You could give him boils or something,\" said Nanny Ogg ...",
+          "sentiment": {
+            "score": "-0.156189",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Mind you, that\u2019d probably make him worse,\" said Nanny ...",
+          "sentiment": {
+            "score": "-0.309882",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Well, I don\u2019t know,\" said Nanny. \"Our Jason and a few sharp lads could soon\u2014\"",
+          "sentiment": {
+            "score": "0.110955",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"If you say so, Esme,\" said Nanny meekly.\n\"I do. Magic\u2019s there to be ruled, not for ruling.\"",
+          "sentiment": {
+            "score": "-0.108354",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"There\u2019s our Jason,\" said Nanny happily. \"And Wane and Darron and Kev and Trev and Nev\u2014\"",
+          "sentiment": {
+            "score": "-0.253309",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"But there\u2019s our Reet and our Sharleen and their babbies,\" said Nanny. \"Coo-eee!\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Never laid a finger on me,\" said Nanny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Oh, I wouldn\u2019t of stood for it. I see you\u2019ve got a follower,\" said Nanny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"The young fellow with the bells,\" said Nanny. \"And the face like a spaniel what\u2019s just been kicked.\"",
+          "sentiment": {
+            "score": "0.0212339",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "Nanny. \"And the face like a spaniel what\u2019s just been kicked.\"\n\"Oh, him.\" Magrat blushed hotly under her pale makeup. \"Really, he\u2019s just this man. He just follows me around.\"",
+          "sentiment": {
+            "score": "0.0882652",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Can be difficult, can that,\" said Nanny ...",
+          "sentiment": {
+            "score": "-0.338681",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Next time you have a look at him like a witch, not like a woman,\" said Nanny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Very bad practice,\" nodded Nanny Ogg ...",
+          "sentiment": {
+            "score": "-0.710539",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Grodley,\" said Nanny Ogg. \"Sticks her little finger out when she drinks her tea and drops her Haitches all the time.\"",
+          "sentiment": {
+            "score": "-0.187357",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Yes, and over Skund way the trees talk to you and walk around of night,\" said Nanny. \"Without even asking permission. Very poor organization.\"",
+          "sentiment": {
+            "score": "-0.493151",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Ah, well,\" said Nanny. \"There\u2019s the problem, see. The more you get used to magic, the more you don\u2019t want to use it. The more it gets in your way. I expect, when you were just starting out, you learned a few spells from Goodie Whemper, maysherestinpeace, and you used them all the time, didn\u2019t you?\"",
+          "sentiment": {
+            "score": "0.134817",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Well-known fact,\" agreed Nanny. \"But when you get along in the Craft, you learn that the hardest magic is the sort you don\u2019t use at all.\"",
+          "sentiment": {
+            "score": "-0.0436097",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Well, Goodie wasn\u2019t much into rocks,\" said Nanny. \"It\u2019s not really hard. You just prod their memories. You know, of the old days. When they were hot and runny.\"",
+          "sentiment": {
+            "score": "0.248575",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Esme,\" said Nanny. \"There\u2019s someone to see you.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Were they?\" whispered Nanny Ogg. \"They didn\u2019t look it.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"One what?\" said Nanny Ogg ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"One what? Are one what?\" said Nanny Ogg ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"It was young Nesheley from over Inkcap way,\" said Nanny Ogg, from a nearby bush. \"His family were always a bit wild. Of course, his mother was a Whipple.\"",
+          "sentiment": {
+            "score": "0.0229138",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"People haven\u2019t got any respect anymore, that\u2019s what it is,\" said Nanny, as Magrat helped her with the thorns. \"It\u2019s all due to the king being one, I expect.\"",
+          "sentiment": {
+            "score": "0.193076",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Yes, yes, very good, very good,\" said Nanny. \"Only perhaps not just now and not just like this, eh?\"",
+          "sentiment": {
+            "score": "0.642315",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Hold her a minute, Magrat,\" said Nanny Ogg ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Ah,\" said Nanny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"When you break rules, break \u2019em good and hard,\" said Nanny ...",
+          "sentiment": {
+            "score": "0.0766006",
+            "type": "positive",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "41"
+    },
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.531245",
+        "joy": "0.021848",
+        "sadness": "0.220817",
+        "anger": "0.120479",
+        "fear": "0.215491"
+      },
+      "sentiment": {
+        "score": "0.183704",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.718861",
+      "quotations": [
+        {
+          "quotation": "Granny Weatherwax said, \"Thank you.\"",
+          "sentiment": {
+            "score": "0.297517",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "15"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.30372",
+        "joy": "0.001327",
+        "sadness": "0.18318",
+        "anger": "0.273507",
+        "fear": "0.386392"
+      },
+      "sentiment": {
+        "score": "0.137609",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.466111",
+      "quotations": [
+        {
+          "quotation": "\n\"Well\u2026I don\u2019t know,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Oh, no,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"All right,\" echoed Magrat ...",
+          "sentiment": {
+            "score": "0.12608",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Well, if I can,\" said Magrat ...",
+          "sentiment": {
+            "score": "0.382405",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Are you all right?\" said Magrat. \"They didn\u2019t do anything, did they?\"",
+          "sentiment": {
+            "score": "0.104795",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Sorry?\" said Magrat ...",
+          "sentiment": {
+            "score": "-0.335194",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Besides, he\u2019s so small. And he capers all over the place,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"But you asked a demon to help you,\" said Magrat ...",
+          "sentiment": {
+            "score": "-0.106437",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Not really good organization, like we\u2019ve got here?\" said Magrat ...",
+          "sentiment": {
+            "score": "-0.517987",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"She\u2019s very upset, isn\u2019t she,\" said Magrat ...",
+          "sentiment": {
+            "score": "-0.458589",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"They were Thespians,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"We\u2019ve got to do something,\" said Magrat, her voice choked with emotion. \"Rules or no rules!\"",
+          "sentiment": {
+            "score": "-0.412465",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"You\u2019ve been thinking about it for a year,\" Magrat said ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"You don\u2019t know what to do, do you?\" said Magrat.\n\"Nonsense. I\u2014\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"You could have got out of the way,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"He already knows,\" said Magrat. \"Just help me get Nanny out of this bush, will you?\"",
+          "sentiment": {
+            "score": "0.138002",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Yes, yes,\" said Magrat. \"The harmonious balance of the universe and everything. I think Nanny\u2019s a bit tired.\"",
+          "sentiment": {
+            "score": "0.0394683",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Not a lot,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Whatever happened to the rule about not meddling in politics?\" said Magrat ...",
+          "sentiment": {
+            "score": "0.0667384",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"I said, what about this rule about not meddling?\" said Magrat ...",
+          "sentiment": {
+            "score": "0.0676232",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "33"
+    },
+    {
+      "type": "Organization",
+      "text": "duke",
+      "emotions": {
+        "disgust": "0.06043",
+        "joy": "0.216686",
+        "sadness": "0.589828",
+        "anger": "0.11643",
+        "fear": "0.081438"
+      },
+      "sentiment": {
+        "score": "0.386212",
+        "type": "positive"
+      },
+      "relevance": "0.245702",
+      "quotations": [
+        {
+          "quotation": "\n\"Then smile and wave,\" said the duke. \"So that the people may know that all is well. After all, have you not been to see me today on matters of state?\"",
+          "sentiment": {
+            "score": "0.138128",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Jolly good, well done,\" said the duke ...",
+          "sentiment": {
+            "score": "0.3253",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"I have, haven\u2019t I!\" The duke giggled ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Is that all?\" said the duke.\n\"Yes.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "the duke.\n\"Yes.\"\n\"What about pledges of eternal allegiance?\"\n\"What about them? Gytha, will you stop waving at people!\"",
+          "sentiment": {
+            "score": "0.118431",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"But we were getting on so well,\" said the duke ...",
+          "sentiment": {
+            "score": "0.67619",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "8"
+    },
+    {
+      "type": "City",
+      "text": "Lancre",
+      "emotions": {
+        "disgust": "0.469894",
+        "joy": "0.180646",
+        "sadness": "0.184581",
+        "anger": "0.128079",
+        "fear": "0.123796"
+      },
+      "sentiment": {
+        "score": "-0.0467847",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.233439",
+      "count": "7"
+    },
+    {
+      "type": "Person",
+      "text": "Granny icily",
+      "emotions": {
+        "disgust": "0.080523",
+        "joy": "0.463862",
+        "sadness": "0.229225",
+        "anger": "0.133969",
+        "fear": "0.1492"
+      },
+      "sentiment": {
+        "score": "0.431903",
+        "type": "positive"
+      },
+      "relevance": "0.233364",
+      "quotations": [
+        {
+          "quotation": "\n\"Come, Gytha,\" said Granny icily. \"And where\u2019s Magrat got to?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.30372",
+        "joy": "0.001327",
+        "sadness": "0.18318",
+        "anger": "0.273507",
+        "fear": "0.386392"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.217241",
+      "count": "4"
+    },
+    {
+      "type": "Person",
+      "text": "King Verence",
+      "emotions": {
+        "disgust": "0.273545",
+        "joy": "0.142556",
+        "sadness": "0.475692",
+        "anger": "0.106855",
+        "fear": "0.060742"
+      },
+      "sentiment": {
+        "score": "-0.602683",
+        "type": "negative"
+      },
+      "relevance": "0.187593",
+      "quotations": [
+        {
+          "quotation": "\n\"Wherever it is, I hope that they know how to school a man in the arts of war,\" said Verence. \"I know Felmet. In ten years he\u2019ll be dug in here like a toad in a stone.\"",
+          "sentiment": {
+            "score": "-0.249321",
+            "type": "negative",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "5"
+    },
+    {
+      "type": "Person",
+      "text": "Gytha",
+      "emotions": {
+        "disgust": "0.058441",
+        "joy": "0.601724",
+        "sadness": "0.274951",
+        "anger": "0.048027",
+        "fear": "0.056765"
+      },
+      "sentiment": {
+        "score": "-0.255871",
+        "type": "negative"
+      },
+      "relevance": "0.168298",
+      "count": "3"
+    },
+    {
+      "type": "Facility",
+      "text": "Lancre Castle",
+      "emotions": {
+        "disgust": "0.21005",
+        "joy": "0.131219",
+        "sadness": "0.166733",
+        "anger": "0.071237",
+        "fear": "0.5191"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.167159",
+      "count": "1"
+    },
+    {
+      "type": "Company",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.30372",
+        "joy": "0.001327",
+        "sadness": "0.18318",
+        "anger": "0.273507",
+        "fear": "0.386392"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.165516",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Esme",
+      "emotions": {
+        "disgust": "0.175583",
+        "joy": "0.001482",
+        "sadness": "0.639334",
+        "anger": "0.037825",
+        "fear": "0.249881"
+      },
+      "sentiment": {
+        "score": "-0.324189",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.157995",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "King Gruneweld",
+      "emotions": {
+        "disgust": "0.361954",
+        "joy": "0.38397",
+        "sadness": "0.189547",
+        "anger": "0.077586",
+        "fear": "0.107095"
+      },
+      "sentiment": {
+        "score": "-0.711677",
+        "type": "negative"
+      },
+      "relevance": "0.15264",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Lord Felmet",
+      "emotions": {
+        "disgust": "0.053186",
+        "joy": "0.428445",
+        "sadness": "0.387472",
+        "anger": "0.072877",
+        "fear": "0.119895"
+      },
+      "sentiment": {
+        "score": "0.367876",
+        "type": "positive"
+      },
+      "relevance": "0.145154",
+      "quotations": [
+        {
+          "quotation": "\n\"I will remember their faces,\" said Lord Felmet, emerging between them and putting a hand on their shoulders. \"And do you see my archers, on the walls?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Reet",
+      "emotions": {
+        "disgust": "0.01383",
+        "joy": "0.237157",
+        "sadness": "0.226718",
+        "anger": "0.043913",
+        "fear": "0.558784"
+      },
+      "sentiment": {
+        "score": "0.238514",
+        "type": "positive"
+      },
+      "relevance": "0.14394",
+      "count": "1",
+      "disambiguated": {
+        "name": "Rumst",
+        "website": "http://www.rumst.be/",
+        "dbpedia": "http://dbpedia.org/resource/Rumst",
+        "geonames": "http://sws.geonames.org/2787522/",
+        "subType": [],
+        "yago": "http://yago-knowledge.org/resource/Rumst",
+        "freebase": "http://rdf.freebase.com/ns/m.014h1p"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Hoki",
+      "emotions": {
+        "disgust": "0.060606",
+        "joy": "0.127198",
+        "sadness": "0.383756",
+        "anger": "0.208135",
+        "fear": "0.321989"
+      },
+      "sentiment": {
+        "score": "-0.266153",
+        "type": "negative"
+      },
+      "relevance": "0.13777",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Greebo",
+      "emotions": {
+        "disgust": "0.085694",
+        "joy": "0.35566",
+        "sadness": "0.503501",
+        "anger": "0.078975",
+        "fear": "0.046931"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.137008",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Ramtops",
+      "emotions": {
+        "disgust": "0.114561",
+        "joy": "0.258697",
+        "sadness": "0.171047",
+        "anger": "0.179155",
+        "fear": "0.390341"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.136419",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Gerrh",
+      "emotions": {
+        "disgust": "0.126749",
+        "joy": "0.153708",
+        "sadness": "0.244813",
+        "anger": "0.374584",
+        "fear": "0.195082"
+      },
+      "sentiment": {
+        "score": "-0.183125",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.135011",
+      "count": "1"
+    },
+    {
+      "type": "Organization",
+      "text": "Wizards",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.134668",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Jason",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.134351",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "wossname",
+      "emotions": {
+        "disgust": "0.287662",
+        "joy": "0.107818",
+        "sadness": "0.28141",
+        "anger": "0.074046",
+        "fear": "0.328165"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.134341",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Darron",
+      "emotions": {
+        "disgust": "0.069522",
+        "joy": "0.11005",
+        "sadness": "0.35089",
+        "anger": "0.110021",
+        "fear": "0.448777"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.132262",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Thespia",
+      "emotions": {
+        "disgust": "0.132155",
+        "joy": "0.19629",
+        "sadness": "0.107569",
+        "anger": "0.076509",
+        "fear": "0.575442"
+      },
+      "sentiment": {
+        "score": "0.42389",
+        "type": "positive"
+      },
+      "relevance": "0.128878",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Vitoller",
+      "emotions": {
+        "disgust": "0.222213",
+        "joy": "0.045455",
+        "sadness": "0.33322",
+        "anger": "0.453465",
+        "fear": "0.048609"
+      },
+      "sentiment": {
+        "score": "-0.390188",
+        "type": "negative"
+      },
+      "relevance": "0.121883",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Nesheley",
+      "emotions": {
+        "disgust": "0.068965",
+        "joy": "0.030986",
+        "sadness": "0.753386",
+        "anger": "0.125761",
+        "fear": "0.114196"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.121293",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Trev",
+      "emotions": {
+        "disgust": "0.080523",
+        "joy": "0.463862",
+        "sadness": "0.229225",
+        "anger": "0.133969",
+        "fear": "0.1492"
+      },
+      "sentiment": {
+        "score": "0.431903",
+        "type": "positive"
+      },
+      "relevance": "0.119205",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Sharleen",
+      "emotions": {
+        "disgust": "0.06043",
+        "joy": "0.216686",
+        "sadness": "0.589828",
+        "anger": "0.11643",
+        "fear": "0.081438"
+      },
+      "sentiment": {
+        "score": "0.386212",
+        "type": "positive"
+      },
+      "relevance": "0.118354",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Inkcap",
+      "emotions": {
+        "disgust": "0.156202",
+        "joy": "0.048723",
+        "sadness": "0.505112",
+        "anger": "0.129638",
+        "fear": "0.277859"
+      },
+      "sentiment": {
+        "score": "0.398929",
+        "type": "positive"
+      },
+      "relevance": "0.114961",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Kev",
+      "emotions": {
+        "disgust": "0.080523",
+        "joy": "0.463862",
+        "sadness": "0.229225",
+        "anger": "0.133969",
+        "fear": "0.1492"
+      },
+      "sentiment": {
+        "score": "0.431903",
+        "type": "positive"
+      },
+      "relevance": "0.112909",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "bush",
+      "emotions": {
+        "disgust": "0.161604",
+        "joy": "0.034383",
+        "sadness": "0.506956",
+        "anger": "0.143514",
+        "fear": "0.31075"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.104455",
+      "count": "1"
+    },
+    {
+      "relevance": "0.104455",
+      "count": "1",
+      "type": "Quantity",
+      "text": "Ninety percent",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.104455",
+      "count": "1",
+      "type": "Quantity",
+      "text": "one minute",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.104455",
+      "count": "1",
+      "type": "Quantity",
+      "text": "two inches",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.104455",
+      "count": "1",
+      "type": "Quantity",
+      "text": "ten years",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.104455",
+      "count": "1",
+      "type": "Quantity",
+      "text": "one hand",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.104455",
+      "count": "1",
+      "type": "Quantity",
+      "text": "one day",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

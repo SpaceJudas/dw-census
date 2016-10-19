@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.205985",
+        "joy": "0.069814",
+        "sadness": "0.250126",
+        "anger": "0.280383",
+        "fear": "0.286016"
+      },
+      "sentiment": {
+        "score": "-0.0447365",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.914995",
+      "quotations": [
+        {
+          "quotation": "\"Apart from these stocks, you mean?\" she said ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"OK,\" said Nanny.\n\"OK?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s only got this side,\" said Nanny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"All right,\" she said. \"I can see you. Who are you?\"",
+          "sentiment": {
+            "score": "0.139134",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"I saw you making faces behind him,\" said Nanny Ogg. \"All I could do to keep a straight face myself.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\"\u2019Ere, I know you,\" she said. \"You\u2019re dead.\"",
+          "sentiment": {
+            "score": "-0.0852547",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"I\u2019d bow,\" said Nanny. \"Only there\u2019s all these chains and things. You haven\u2019t seen a cat around here, have you?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\"That\u2019s all right, then,\" she said ...",
+          "sentiment": {
+            "score": "0.371853",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"What a busy little mind he\u2019s got,\" she said ...",
+          "sentiment": {
+            "score": "-0.383517",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Solid iron,\" said Nanny. \"You might be able to walk through it, but I can\u2019t.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Young man,\" said Nanny, \"you will oblige me by shutting up.\"",
+          "sentiment": {
+            "type": "neutral",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "Nanny, \"you will oblige me by shutting up.\"\n\"Madam! I am a king!\"\n\"You are also dead, so I wouldn\u2019t aspire to hold any opinions if I was you. Now just be quiet and wait, like a good boy.\"",
+          "sentiment": {
+            "score": "0.272765",
+            "type": "positive",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "24"
+    },
+    {
+      "type": "Person",
+      "text": "King Verence",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.232108",
+      "quotations": [
+        {
+          "quotation": "\n\"I fear, madam, that I may be responsible for your present predicament,\" said Verence, sitting down on or at least just above a handy anvil. \"I wished to attract a witch.\"",
+          "sentiment": {
+            "type": "neutral",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"I didn\u2019t realize,\" said Verence. \"I thought witches could do magic.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "4"
+    },
+    {
+      "type": "Person",
+      "text": "Lord Felmet",
+      "emotions": {
+        "disgust": "0.153628",
+        "joy": "0.376009",
+        "sadness": "0.263518",
+        "anger": "0.088991",
+        "fear": "0.175474"
+      },
+      "sentiment": {
+        "score": "0.208316",
+        "type": "positive"
+      },
+      "relevance": "0.160436",
+      "quotations": [
+        {
+          "quotation": "\n\"Quite comfortable, are we?\" he said ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "3"
+    },
+    {
+      "type": "City",
+      "text": "Leonal",
+      "emotions": {
+        "disgust": "0.099696",
+        "joy": "0.219084",
+        "sadness": "0.340197",
+        "anger": "0.179452",
+        "fear": "0.227573"
+      },
+      "sentiment": {
+        "score": "-0.408994",
+        "type": "negative"
+      },
+      "relevance": "0.133728",
+      "count": "1"
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

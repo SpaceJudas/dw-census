@@ -1,0 +1,186 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.674612",
+        "joy": "0.057053",
+        "sadness": "0.091345",
+        "anger": "0.162433",
+        "fear": "0.100004"
+      },
+      "sentiment": {
+        "score": "-0.496931",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.912339",
+      "quotations": [
+        {
+          "quotation": "\n\"Well done,\" he said. \"The love scene\u2014just right. And when you turned around and roared at the wizard I shouldn\u2019t think there was a dry seat in the house.\"",
+          "sentiment": {
+            "score": "0.0824263",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"We can afford a tavern tonight,\" he said. \"So if we just\u2014\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "he said, \"You\u2019re right, boss.\"",
+          "sentiment": {
+            "score": "0.371853",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Hmm? What play?\" said Hwel ...",
+          "sentiment": {
+            "score": "0.0115644",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Oh. Coming along. Coming along, you know. I\u2019ll get it right one of these days.\" Hwel changed the subject with speed. \"You know, we could work our way down to the river and take a boat home. That would be nice, wouldn\u2019t it?\"",
+          "sentiment": {
+            "score": "0.0896718",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"You\u2019re your father\u2019s son, and no mistake,\" said Hwel ...",
+          "sentiment": {
+            "score": "-0.184103",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "12"
+    },
+    {
+      "type": "Person",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.267885",
+        "joy": "0.039336",
+        "sadness": "0.51991",
+        "anger": "0.086159",
+        "fear": "0.149148"
+      },
+      "sentiment": {
+        "score": "-0.324109",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.521666",
+      "quotations": [
+        {
+          "quotation": "\n\"We\u2019ll sleep in the carts,\" said Tomjon firmly, squinting at himself in the shard of mirror.\n\"But you know how much the Fo\u2014the king gave us! It could be feather beds all the way home!\"",
+          "sentiment": {
+            "type": "neutral",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s straw mattresses and a good profit for us,\" said Tomjon. \"And that\u2019ll buy you gods from heaven and demons from hell and the wind and the waves and more trapdoors than you can count, my lawn ornament.\"",
+          "sentiment": {
+            "score": "-0.0455085",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"You know,\" he said. \"That one. The Lancre King.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"But we could work our way home over land and pick up some more cash. That would be better, wouldn\u2019t it?\" Tomjon grinned. \"We took one hundred and three pence tonight; I counted heads during the Judgment speech. That\u2019s nearly one silver piece after expenses.\"",
+          "sentiment": {
+            "score": "0.1633",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Yes,\" he said, \"I thought I had better be.\"",
+          "sentiment": {
+            "score": "0.0822225",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "11"
+    },
+    {
+      "type": "City",
+      "text": "Rham Nitz",
+      "emotions": {
+        "disgust": "0.157238",
+        "joy": "0.225321",
+        "sadness": "0.526036",
+        "anger": "0.093839",
+        "fear": "0.063553"
+      },
+      "sentiment": {
+        "score": "-0.579359",
+        "type": "negative"
+      },
+      "relevance": "0.251331",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Lancre",
+      "emotions": {
+        "disgust": "0.098652",
+        "joy": "0.660603",
+        "sadness": "0.121089",
+        "anger": "0.109579",
+        "fear": "0.09482"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.201237",
+      "count": "1"
+    },
+    {
+      "type": "FieldTerminology",
+      "text": "the house",
+      "emotions": {
+        "disgust": "0.103067",
+        "joy": "0.123784",
+        "sadness": "0.268502",
+        "anger": "0.283208",
+        "fear": "0.351079"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.141315",
+      "count": "1"
+    },
+    {
+      "relevance": "0.141315",
+      "count": "1",
+      "type": "Quantity",
+      "text": "ninety miles",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

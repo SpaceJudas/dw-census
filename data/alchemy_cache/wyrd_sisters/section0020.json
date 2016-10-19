@@ -1,0 +1,672 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Granny",
+      "emotions": {
+        "disgust": "0.350204",
+        "joy": "0.00414",
+        "sadness": "0.371851",
+        "anger": "0.203042",
+        "fear": "0.252129"
+      },
+      "sentiment": {
+        "score": "0.371526",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.923667",
+      "quotations": [
+        {
+          "quotation": "\n\"Good evening,\" said Granny ...",
+          "sentiment": {
+            "score": "0.361161",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"That makes fifteen this year,\" said Granny. \"Not counting the horse. What\u2019s this one?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Well, at least it should last,\" said Granny ...",
+          "sentiment": {
+            "score": "0.0778335",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"I know that man,\" said Granny. \"He\u2019s the one who sells goldfish that tarnish after a day or two.\"",
+          "sentiment": {
+            "score": "-0.418108",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Yes, yes, all right, I\u2019m sure,\" said Granny. \"Anyway, how goes it, sisters? It is two months since last we met.\"",
+          "sentiment": {
+            "score": "0.154793",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"I have excellent night vision, Magrat,\" said Granny sternly. \"And you\u2019ve been reading them funny books. Grimmers.\"",
+          "sentiment": {
+            "score": "0.365756",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Right,\" said Granny ...",
+          "sentiment": {
+            "score": "0.12608",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"He used to let people get out first, though,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"And every Hogswatchnight, a side of venison. Regular,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"But next day he\u2019d send his housekeeper around with a bag of silver and a hamper of stuff for the wedding,\" said Granny. \"Many a couple got a proper start in life thanks to that.\"",
+          "sentiment": {
+            "score": "0.122284",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Every inch a king,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"That\u2019s kings for you,\" said Granny. \"They come and go, good and bad. His father poisoned the king we had before.\"",
+          "sentiment": {
+            "score": "0.129762",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"What?\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Well, being assassinated is natural causes for a king,\" said Granny. \"I don\u2019t see why he\u2019s so sheepish about it. When old Thargum was killed they stuck his head on a pole, had a big bonfire and everyone in the palace got drunk for a week.\"",
+          "sentiment": {
+            "score": "-0.0506803",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"I think we might have to keep an eye on this one, though,\" said Granny. \"I think he might be a bit clever. That\u2019s not a good thing, in a king. And I don\u2019t think he knows how to show respect.\"",
+          "sentiment": {
+            "score": "-0.0586334",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Small man, bald, black cloak?\" said Granny ...",
+          "sentiment": {
+            "score": "-0.102099",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"He was hanging about in my raspberry bushes,\" said Granny. \"Only, when I went out to see what he wanted, he ran away.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "23"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.226358",
+        "joy": "0.174102",
+        "sadness": "0.452572",
+        "anger": "0.128507",
+        "fear": "0.119309"
+      },
+      "sentiment": {
+        "score": "0.249144",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.808815",
+      "quotations": [
+        {
+          "quotation": "\n\"Wotcha,\" said Nanny Ogg ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s a rock,\" chuckled Nanny Ogg ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"It was our Grame\u2019s youngest\u2019s wedding,\" said Nanny Ogg. \"Couldn\u2019t miss it.\"",
+          "sentiment": {
+            "score": "-0.222144",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"But we got this lovely new lamp our Tracie sent me,\" said Nanny Ogg innocently. \"And I was going to poke up the fire a bit.\"",
+          "sentiment": {
+            "score": "0.105077",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"You ain\u2019t going to draw on the floor again, neither,\" warned Nanny Ogg. \"It took our Dreen days to clean up all those wossnames last time\u2014\"",
+          "sentiment": {
+            "score": "-0.0713352",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"All right,\" said Nanny Ogg, relenting a bit. \"If it makes you feel any better. Just the one, mind. And a decent white one. Nothing fancy.\"",
+          "sentiment": {
+            "score": "0.161116",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"What about this new duke, then,\" said Nanny ...",
+          "sentiment": {
+            "score": "0.148432",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Old King Verence used to do that,\" said Nanny. \"Terrible temper he had.\"",
+          "sentiment": {
+            "score": "-0.367923",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Oh yes,\" said Nanny, who was a staunch royalist. \"He could be very gracious like that. He\u2019d pay for them to be rebuilt, as often as not. If he remembered.\"",
+          "sentiment": {
+            "score": "0.308517",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Oh, yes. Very respectful to witches, he was,\" added Nanny Ogg. \"When he was out hunting people, if he met me in the woods, it was always off with his helmet and \u2018I hope I finds you well, Mistress Ogg\u2019 and next day he\u2019d send his butler down with a couple of bottles of something. He was a proper king.\"",
+          "sentiment": {
+            "score": "0.311639",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"And then there was that great hairy thing of his,\" said Nanny Ogg ...",
+          "sentiment": {
+            "score": "0.24065",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Needed a lot of exercise,\" said Nanny Ogg ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Ah,\" agreed Nanny. \"One or two individuals, too.\"",
+          "sentiment": {
+            "score": "0.198705",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"That was old Thargum,\" said Nanny Ogg. \"Had a big red beard, I recall. He was very gracious too, you know.\"",
+          "sentiment": {
+            "score": "0.368345",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"I remember,\" said Nanny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"He came to see me, too,\" said Nanny Ogg. \"But our Jason and our Wane went out and tole him we didn\u2019t want to join.\"",
+          "sentiment": {
+            "score": "-0.247016",
+            "type": "negative",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "18"
+    },
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.215463",
+        "joy": "0.461446",
+        "sadness": "0.180331",
+        "anger": "0.085302",
+        "fear": "0.121056"
+      },
+      "sentiment": {
+        "score": "0.20169",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.618898",
+      "quotations": [
+        {
+          "quotation": "\n\"And I was up all night with a sick goat,\" said Granny Weatherwax ...",
+          "sentiment": {
+            "score": "-0.408926",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Well, no,\" Granny Weatherwax conceded",
+          "sentiment": {
+            "score": "0.279025",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Well, no,\" Granny Weatherwax conceded. \"But it was only if they\u2019d done something bad. He said they enjoyed it really. And he used to let them go if they gave him a good run.\"",
+          "sentiment": {
+            "score": "0.268829",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Ah,\" said Granny Weatherwax distantly. \"His droit de seigneur.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "7"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.11569",
+        "joy": "0.006221",
+        "sadness": "0.677944",
+        "anger": "0.171081",
+        "fear": "0.099687"
+      },
+      "sentiment": {
+        "score": "-0.324414",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.542875",
+      "quotations": [
+        {
+          "quotation": "\n\"Well met by moonlight,\" said Magrat politely. \"Merry meet. A star shines on\u2014\"",
+          "sentiment": {
+            "score": "0.257205",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"It wandered off,\" muttered Magrat. \"Anyway, it wasn\u2019t very good.\"",
+          "sentiment": {
+            "score": "0.208741",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s a tortoise,\" said Magrat. \"I bought it down in Sheep-ridge market. It\u2019s incredibly old and knows many secrets, the man said.\"",
+          "sentiment": {
+            "score": "-0.0499642",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Anyway, I shall call him Lightfoot,\" said Magrat, her voice warm with defiance. \"I can if I want.\"",
+          "sentiment": {
+            "score": "0.145468",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"It should be every new moon,\" said Magrat sternly. \"Regular.\"",
+          "sentiment": {
+            "score": "0.159871",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Yes, well,\" said Magrat ...",
+          "sentiment": {
+            "score": "0.514284",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Runes,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"But a lot of young girls in my village\u2026\" said Magrat. \"You know. They could be keen.\"",
+          "sentiment": {
+            "score": "0.0426426",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Yes, yes,\" said Magrat. \"Sorry.\"",
+          "sentiment": {
+            "score": "-0.360966",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"How horrible,\" said Magrat ...",
+          "sentiment": {
+            "score": "-0.484799",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Hunting people isn\u2019t really right, though,\" said Magrat ...",
+          "sentiment": {
+            "score": "0.6104",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"What are you talking about?\" said Magrat suspiciously. \"Did he keep pets?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I must say,\" Magrat went on, in severe tones, \"if you think ...",
+          "sentiment": {
+            "score": "-0.420121",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Only now no one must say Felmet killed the king,\" said Magrat ...",
+          "sentiment": {
+            "score": "-0.394074",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"A man came to see me last week to ask if I wanted to pay any taxes,\" said Magrat. \"I told him no.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Actually, I gave him tuppence,\" said Magrat. \"He said he was going to be tortured, you see, if he didn\u2019t get witches to pay their taxes\u2026\"",
+          "sentiment": {
+            "score": "-0.104721",
+            "type": "negative",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "25"
+    },
+    {
+      "type": "Person",
+      "text": "Granny disapprovingly",
+      "emotions": {
+        "disgust": "0.260473",
+        "joy": "0.207178",
+        "sadness": "0.49731",
+        "anger": "0.070339",
+        "fear": "0.032051"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.280615",
+      "quotations": [
+        {
+          "quotation": "\n\"That\u2019s not how we do it, as well you know,\" said Granny disapprovingly. \"People don\u2019t go and find witchcraft, it comes and finds them.\"",
+          "sentiment": {
+            "score": "0.0899782",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "King Verence",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.178429",
+      "count": "2"
+    },
+    {
+      "type": "City",
+      "text": "Lancre",
+      "emotions": {
+        "disgust": "0.078533",
+        "joy": "0.010819",
+        "sadness": "0.736674",
+        "anger": "0.14988",
+        "fear": "0.114793"
+      },
+      "sentiment": {
+        "score": "-0.522908",
+        "type": "negative"
+      },
+      "relevance": "0.171402",
+      "count": "2"
+    },
+    {
+      "type": "City",
+      "text": "Ramtops",
+      "emotions": {
+        "disgust": "0.110476",
+        "joy": "0.334482",
+        "sadness": "0.420983",
+        "anger": "0.082952",
+        "fear": "0.149787"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.162896",
+      "count": "1"
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Gammer Dismass",
+      "emotions": {
+        "disgust": "0.072089",
+        "joy": "0.387724",
+        "sadness": "0.441361",
+        "anger": "0.113161",
+        "fear": "0.057448"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.146351",
+      "count": "1"
+    },
+    {
+      "type": "FieldTerminology",
+      "text": "desperate search",
+      "emotions": {
+        "disgust": "0.082006",
+        "joy": "0.118696",
+        "sadness": "0.650267",
+        "anger": "0.152702",
+        "fear": "0.077636"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.140416",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Dreen",
+      "emotions": {
+        "disgust": "0.020606",
+        "joy": "0.064197",
+        "sadness": "0.685966",
+        "anger": "0.147642",
+        "fear": "0.171783"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.138758",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Tracie",
+      "emotions": {
+        "disgust": "0.004522",
+        "joy": "0.726128",
+        "sadness": "0.129281",
+        "anger": "0.081951",
+        "fear": "0.115534"
+      },
+      "sentiment": {
+        "score": "0.600988",
+        "type": "positive"
+      },
+      "relevance": "0.137473",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Jason",
+      "emotions": {
+        "disgust": "0.185275",
+        "joy": "0.002778",
+        "sadness": "0.647956",
+        "anger": "0.202826",
+        "fear": "0.127433"
+      },
+      "sentiment": {
+        "score": "-0.333772",
+        "type": "negative"
+      },
+      "relevance": "0.137386",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Lightfoot",
+      "emotions": {
+        "disgust": "0.093535",
+        "joy": "0.075281",
+        "sadness": "0.051414",
+        "anger": "0.610372",
+        "fear": "0.271353"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.132325",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Thargum",
+      "emotions": {
+        "disgust": "0.396251",
+        "joy": "0.232934",
+        "sadness": "0.231474",
+        "anger": "0.074753",
+        "fear": "0.154386"
+      },
+      "sentiment": {
+        "score": "-0.510142",
+        "type": "negative"
+      },
+      "relevance": "0.130351",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Felmet",
+      "emotions": {
+        "disgust": "0.113676",
+        "joy": "0.014584",
+        "sadness": "0.839641",
+        "anger": "0.036166",
+        "fear": "0.084792"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.126701",
+      "count": "1"
+    },
+    {
+      "relevance": "0.126701",
+      "count": "1",
+      "type": "Quantity",
+      "text": "two months",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

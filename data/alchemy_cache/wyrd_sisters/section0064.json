@@ -1,0 +1,248 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.449819",
+        "joy": "0.169698",
+        "sadness": "0.273661",
+        "anger": "0.032034",
+        "fear": "0.141826"
+      },
+      "sentiment": {
+        "score": "-0.142789",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.930199",
+      "quotations": [
+        {
+          "quotation": "\n\"That\u2019s right, it said the Halls of Elven Perfume and Rouge Co.,\" said Hwel ...",
+          "sentiment": {
+            "score": "0.0979587",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Chop them up with that, do you?\" said Hwel innocently, pointing to the axe. \"Or is it your night off?\"",
+          "sentiment": {
+            "score": "0.0422365",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "Hwel innocently, pointing to the axe. \"Or is it your night off?\"\nThundergust\u2019s brows beetled again like a cockroach convention.\n\"Here, you\u2019re not with the theater?\"",
+          "sentiment": {
+            "score": "0.0345226",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"That\u2019s about enough,\" said Hwel ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Absolutely human,\" said Hwel. \"I know his father.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "12"
+    },
+    {
+      "type": "Person",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.435446",
+        "joy": "0.105654",
+        "sadness": "0.36384",
+        "anger": "0.065827",
+        "fear": "0.119922"
+      },
+      "sentiment": {
+        "score": "-0.21303",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.491796",
+      "quotations": [
+        {
+          "quotation": "\n\"Where?\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Ver\u2019 good stuff,\" said Tomjon, who was trying to stop himself from sliding off the tiny bench. \"Especially your No. 19, Corpse Green, my father swears it\u2019s the best. First class.\"",
+          "sentiment": {
+            "score": "0.274933",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Tha\u2019s us,\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"No. 19 and a layer of powder,\" said Tomjon cheerfully. \"Plus a bit of brown eyeshadow.\"",
+          "sentiment": {
+            "score": "-0.0265229",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"What ho, what ho,\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "9"
+    },
+    {
+      "type": "Person",
+      "text": "Grabpot Thundergust",
+      "emotions": {
+        "disgust": "0.154091",
+        "joy": "0.274103",
+        "sadness": "0.38187",
+        "anger": "0.096927",
+        "fear": "0.169877"
+      },
+      "sentiment": {
+        "score": "-0.378887",
+        "type": "negative"
+      },
+      "relevance": "0.366485",
+      "quotations": [
+        {
+          "quotation": "\n\"Yes, but dressing up as women, it\u2019s a bit\u2014\" said Thundergust ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "5"
+    },
+    {
+      "type": "City",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.449819",
+        "joy": "0.169698",
+        "sadness": "0.273661",
+        "anger": "0.032034",
+        "fear": "0.141826"
+      },
+      "sentiment": {
+        "score": "-0.343741",
+        "type": "negative"
+      },
+      "relevance": "0.341601",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.435446",
+        "joy": "0.105654",
+        "sadness": "0.36384",
+        "anger": "0.065827",
+        "fear": "0.119922"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.18143",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "wossname",
+      "emotions": {
+        "disgust": "0.157386",
+        "joy": "0.375396",
+        "sadness": "0.340798",
+        "anger": "0.08217",
+        "fear": "0.11996"
+      },
+      "sentiment": {
+        "score": "-0.338669",
+        "type": "negative"
+      },
+      "relevance": "0.177983",
+      "count": "1"
+    },
+    {
+      "type": "HealthCondition",
+      "text": "short neck",
+      "emotions": {
+        "disgust": "0.100432",
+        "joy": "0.040195",
+        "sadness": "0.596383",
+        "anger": "0.078383",
+        "fear": "0.310164"
+      },
+      "sentiment": {
+        "score": "-0.900815",
+        "type": "negative"
+      },
+      "relevance": "0.177618",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "wassisplace",
+      "emotions": {
+        "disgust": "0.104926",
+        "joy": "0.49673",
+        "sadness": "0.297666",
+        "anger": "0.091626",
+        "fear": "0.072788"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.173877",
+      "count": "1"
+    },
+    {
+      "type": "Company",
+      "text": "Rouge Co.",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.17119",
+      "count": "1"
+    },
+    {
+      "relevance": "0.17119",
+      "count": "1",
+      "type": "Quantity",
+      "text": "five hundred miles",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

@@ -1,0 +1,188 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.23532",
+        "joy": "0.088171",
+        "sadness": "0.595708",
+        "anger": "0.064453",
+        "fear": "0.114677"
+      },
+      "sentiment": {
+        "score": "0.0890433",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.915787",
+      "quotations": [
+        {
+          "quotation": "\"I still reckon you were up to something,\" said Granny Weatherwax ...",
+          "sentiment": {
+            "score": "-0.0140079",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"You won\u2019t go and put any drink in it, will you,\" Granny said flatly. \"It was the drink what did it last night. I would never have put myself forward like that. It\u2019s shameful.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"And she let all weeds grow over it,\" she observed primly.\n\"Right enough.\"",
+          "sentiment": {
+            "score": "0.12155",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Anyway,\" she said ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"He\u2019ll be in Ankh-Morpork,\" said Granny. \"Mark my words. Everyone ends up there. We\u2019ll start with Ankh-Morpork. You don\u2019t have to search for people when destiny is involved, you just wait for them in Ankh-Morpork.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"We needn\u2019t actually go. The whole point is that he should come here. There\u2019s something about that city,\" said Granny. \"It\u2019s like a drain.\"",
+          "sentiment": {
+            "score": "-0.165119",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "10"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.666298",
+      "quotations": [
+        {
+          "quotation": "\n\"Have another cup of tea,\" said Nanny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Black Aliss never done anything like it,\" said Nanny, encouragingly. \"I mean, it was a hundred years, all right, but it was only one castle she moved. I reckon anyone could do a castle.\"",
+          "sentiment": {
+            "score": "0.141092",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Very good, your graciousness,\" said Nanny Ogg ...",
+          "sentiment": {
+            "score": "0.55671",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"But you lot can bugger off back to the outhouse,\" she said",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s chicken,\" said Nanny. \"And you\u2019re tired. Besides, making a decent search will take a long time.\"",
+          "sentiment": {
+            "score": "0.27025",
+            "type": "positive",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "8"
+    },
+    {
+      "type": "City",
+      "text": "Ankh-Morpork",
+      "emotions": {
+        "disgust": "0.060901",
+        "joy": "0.047651",
+        "sadness": "0.25766",
+        "anger": "0.114698",
+        "fear": "0.597472"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.295313",
+      "count": "3"
+    },
+    {
+      "type": "Person",
+      "text": "King Verence",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.216225",
+      "quotations": [
+        {
+          "quotation": "\n\"Very well done,\" said King Verence, eagerly. \"We all thought it was superb. Being in the ethereal plane, of course, we were in a position to observe closely.\"",
+          "sentiment": {
+            "score": "0.0880764",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "2"
+    },
+    {
+      "type": "Person",
+      "text": "Karen",
+      "emotions": {
+        "disgust": "0.090382",
+        "joy": "0.138215",
+        "sadness": "0.565617",
+        "anger": "0.122479",
+        "fear": "0.159625"
+      },
+      "sentiment": {
+        "score": "0.418797",
+        "type": "positive"
+      },
+      "relevance": "0.143775",
+      "count": "1"
+    },
+    {
+      "relevance": "0.143775",
+      "count": "1",
+      "type": "Quantity",
+      "text": "hundred years",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

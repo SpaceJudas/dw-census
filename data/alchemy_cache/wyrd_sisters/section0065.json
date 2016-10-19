@@ -1,0 +1,400 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.558954",
+        "joy": "0.013646",
+        "sadness": "0.411359",
+        "anger": "0.134854",
+        "fear": "0.02093"
+      },
+      "sentiment": {
+        "score": "-0.499242",
+        "type": "negative"
+      },
+      "relevance": "0.91528",
+      "quotations": [
+        {
+          "quotation": "\n\"It\u2019s got a certain something,\" Hwel conceded. \"But\u2026I don\u2019t know\u2026\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"The way I see it\u2014\" Hwel began ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I was going to say, we could afford to build the Dysk anyway,\" said Hwel ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"We used to manage without all that stuff,\" said Hwel ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"How much do you owe him?\" said Hwel ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"All right, all right!\" shouted Hwel. \"I\u2019ll write it!\"",
+          "sentiment": {
+            "score": "0.19414",
+            "type": "positive",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "14"
+    },
+    {
+      "type": "Person",
+      "text": "Vitoller",
+      "emotions": {
+        "disgust": "0.148204",
+        "joy": "0.034264",
+        "sadness": "0.339722",
+        "anger": "0.090165",
+        "fear": "0.481898"
+      },
+      "sentiment": {
+        "score": "-0.362815",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.550479",
+      "quotations": [
+        {
+          "quotation": "\n\"Can you do it?\" said Vitoller ...",
+          "sentiment": {
+            "score": "-0.0592345",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Showers of rose petals could be arranged,\" said Vitoller. \"I know a man who can get them at practically cost.\"",
+          "sentiment": {
+            "score": "-0.0863323",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"You\u2019ll do it then, will you?\" said Vitoller ...",
+          "sentiment": {
+            "score": "-0.030412",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"I\u2019m not trying to pressure you,\" said Vitoller ...",
+          "sentiment": {
+            "score": "0.0547808",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"On the other hand,\" said Vitoller ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I said, the play\u2019s the thing,\" said Vitoller ...",
+          "sentiment": {
+            "score": "0.0106089",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"The thing is\u2014\" Vitoller began ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Just the shell and the stage,\" said Vitoller. \"But not all the other things. Not the trapdoor mechanism, or the machine for lowering gods out of heaven. Or the big turntable, or the wind fans.\"",
+          "sentiment": {
+            "score": "0.0916141",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s all right,\" said Vitoller ...",
+          "sentiment": {
+            "score": "0.345304",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"I\u2019m not forcing you, mind,\" said Vitoller. \"It\u2019s your own choice.\"",
+          "sentiment": {
+            "score": "0.0508792",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"So we can tell this Fool that we\u2019ll do it, can we?\" said Vitoller ...",
+          "sentiment": {
+            "score": "-0.0850682",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Yes, but I can\u2019t remember where,\" said Vitoller. \"All those little mountain towns looked the same to me. We spent more time pushing the lattys across rivers and dragging them up hills than we ever did on the stage.\"",
+          "sentiment": {
+            "score": "-0.120966",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Hwel\u2019s still got to write the play,\" Vitoller pointed ...",
+          "sentiment": {
+            "score": "0.0108953",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "18"
+    },
+    {
+      "type": "Person",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.265611",
+        "joy": "0.18632",
+        "sadness": "0.278928",
+        "anger": "0.287416",
+        "fear": "0.061325"
+      },
+      "sentiment": {
+        "score": "-0.126333",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.399455",
+      "quotations": [
+        {
+          "quotation": "\n\"I expect,\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"It seems a bit fishy,\" Tomjon conceded. \"I mean, the Fool is decent enough. But the way he tells it\u2026it\u2019s very odd. His mouth says the words, and his eyes say something else. And I got the impression he\u2019d much rather we believed his eyes.\"",
+          "sentiment": {
+            "score": "0.103482",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"But we\u2019ve had some huge audiences!\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"He\u2019s the one that has people\u2019s limbs torn off!\" said Tomjon ...",
+          "sentiment": {
+            "score": "-0.0507542",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"I\u2019ll act it,\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I\u2019d like to go, anyway,\" said Tomjon. \"That\u2019s where I was born.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I could take some of the younger lads and we could make a summer of it,\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "10"
+    },
+    {
+      "type": "City",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.558954",
+        "joy": "0.013646",
+        "sadness": "0.411359",
+        "anger": "0.134854",
+        "fear": "0.02093"
+      },
+      "sentiment": {
+        "score": "-0.412013",
+        "type": "negative"
+      },
+      "relevance": "0.377047",
+      "count": "2"
+    },
+    {
+      "type": "Facility",
+      "text": "Dysk theater",
+      "emotions": {
+        "disgust": "0.214693",
+        "joy": "0.296896",
+        "sadness": "0.074183",
+        "anger": "0.277149",
+        "fear": "0.229298"
+      },
+      "sentiment": {
+        "score": "-0.405096",
+        "type": "negative"
+      },
+      "relevance": "0.18266",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "lattys",
+      "emotions": {
+        "disgust": "0.122711",
+        "joy": "0.022525",
+        "sadness": "0.737202",
+        "anger": "0.081534",
+        "fear": "0.166032"
+      },
+      "sentiment": {
+        "score": "-0.396073",
+        "type": "negative"
+      },
+      "relevance": "0.171612",
+      "count": "2"
+    },
+    {
+      "type": "Holiday",
+      "text": "Same Day",
+      "emotions": {
+        "disgust": "0.0511",
+        "joy": "0.459859",
+        "sadness": "0.388558",
+        "anger": "0.084162",
+        "fear": "0.052846"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.169253",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Thundergust",
+      "emotions": {
+        "disgust": "0.02513",
+        "joy": "0.093672",
+        "sadness": "0.80617",
+        "anger": "0.10394",
+        "fear": "0.028798"
+      },
+      "sentiment": {
+        "score": "-0.599674",
+        "type": "negative"
+      },
+      "relevance": "0.162901",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Klatchian",
+      "emotions": {
+        "disgust": "0.095622",
+        "joy": "0.029006",
+        "sadness": "0.798633",
+        "anger": "0.156978",
+        "fear": "0.046826"
+      },
+      "sentiment": {
+        "score": "-0.322213",
+        "type": "negative"
+      },
+      "relevance": "0.156381",
+      "count": "1"
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Soulcake Day",
+      "emotions": {
+        "disgust": "0.0115",
+        "joy": "0.537592",
+        "sadness": "0.372124",
+        "anger": "0.076821",
+        "fear": "0.048674"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.154678",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Chrystophrase",
+      "emotions": {
+        "disgust": "0.146452",
+        "joy": "0.07809",
+        "sadness": "0.432",
+        "anger": "0.342981",
+        "fear": "0.146285"
+      },
+      "sentiment": {
+        "score": "-0.714742",
+        "type": "negative"
+      },
+      "relevance": "0.14048",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Dafe",
+      "emotions": {
+        "disgust": "0.085507",
+        "joy": "0.140539",
+        "sadness": "0.599412",
+        "anger": "0.10463",
+        "fear": "0.151496"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.133703",
+      "count": "1"
+    },
+    {
+      "relevance": "0.133703",
+      "count": "1",
+      "type": "Quantity",
+      "text": "one hand",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

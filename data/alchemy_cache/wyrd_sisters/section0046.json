@@ -1,0 +1,210 @@
+{
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "duke",
+      "emotions": {
+        "disgust": "0.065687",
+        "joy": "0.298121",
+        "sadness": "0.264837",
+        "anger": "0.011624",
+        "fear": "0.428986"
+      },
+      "sentiment": {
+        "score": "-0.272663",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.886013",
+      "quotations": [
+        {
+          "quotation": "\n\"But, my love, we will run out of people,\" murmured the duke ...",
+          "sentiment": {
+            "score": "0.0671576",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Sorry?\" said the duke ...",
+          "sentiment": {
+            "score": "-0.335194",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"I didn\u2019t do it, you know,\" said the duke ...",
+          "sentiment": {
+            "score": "-0.0560367",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Find one,\" murmured the duke. \"Find the best. Find the best. The truth will out. Find one.\"",
+          "sentiment": {
+            "score": "-0.0398102",
+            "type": "negative",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "11",
+      "disambiguated": {
+        "name": "Boyz n da Hood",
+        "website": "http://boyzndahood.com",
+        "dbpedia": "http://dbpedia.org/resource/Boyz_n_da_Hood",
+        "subType": [
+          "MusicalGroup",
+          "BroadcastArtist",
+          "MusicalArtist"
+        ],
+        "yago": "http://yago-knowledge.org/resource/Boyz_n_da_Hood",
+        "freebase": "http://rdf.freebase.com/ns/m.06py59"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Lord Felmet",
+      "emotions": {
+        "disgust": "0.028548",
+        "joy": "0.258438",
+        "sadness": "0.300686",
+        "anger": "0.273895",
+        "fear": "0.199551"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.406037",
+      "quotations": [
+        {
+          "quotation": "\n\"The trees talk about me,\" whispered Lord Felmet. \"I hear them whisper when I go riding. They tell lies about me!\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"No more trees!\" shouted Felmet.\n\"Oh, it\u2019s all right. They won\u2019t survive. The important thing is to have planted them.\"",
+          "sentiment": {
+            "score": "0.0937215",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "Felmet.\n\"Oh, it\u2019s all right. They won\u2019t survive. The important thing is to have planted them.\"\n\"But I also want us to raise taxes,\" said the duchess.\n\"Why, nuncle\u2014\"",
+          "sentiment": {
+            "score": "0.068482",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Ah, yes. I saw a play once,\" said Felmet. \"Bunch of funny fellows in tights. A lot of shouting. The people liked it.\"",
+          "sentiment": {
+            "score": "0.177907",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "4"
+    },
+    {
+      "type": "Person",
+      "text": "Lady Felmet",
+      "emotions": {
+        "disgust": "0.289163",
+        "joy": "0.513",
+        "sadness": "0.231736",
+        "anger": "0.02275",
+        "fear": "0.025998"
+      },
+      "sentiment": {
+        "score": "0.402148",
+        "type": "positive"
+      },
+      "relevance": "0.341689",
+      "quotations": [
+        {
+          "quotation": "\n\"And now, Fool,\" said Lady Felmet. \"I was saying, I believe, that perhaps there are matters that should be properly recorded.\"",
+          "sentiment": {
+            "score": "0.0516157",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"It was a very good play, the play that I saw,\" said Felmet dreamily. \"There were fights, and no one really died. Some very good speeches, I thought.\"",
+          "sentiment": {
+            "score": "0.26637",
+            "type": "positive",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "2"
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Lord Felmet",
+      "emotions": {
+        "disgust": "0.028548",
+        "joy": "0.258438",
+        "sadness": "0.300686",
+        "anger": "0.273895",
+        "fear": "0.199551"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.291849",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Bedde",
+      "emotions": {
+        "disgust": "0.060452",
+        "joy": "0.564687",
+        "sadness": "0.282475",
+        "anger": "0.097273",
+        "fear": "0.069444"
+      },
+      "sentiment": {
+        "score": "0.20426",
+        "type": "positive"
+      },
+      "relevance": "0.242316",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "King Gruneberry",
+      "emotions": {
+        "disgust": "0.177312",
+        "joy": "0.51345",
+        "sadness": "0.195806",
+        "anger": "0.157757",
+        "fear": "0.058956"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.234171",
+      "count": "1"
+    },
+    {
+      "relevance": "0.234171",
+      "count": "1",
+      "type": "Quantity",
+      "text": "thousand years",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

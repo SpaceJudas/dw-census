@@ -1,0 +1,434 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.104258",
+        "joy": "0.325374",
+        "sadness": "0.376362",
+        "anger": "0.074456",
+        "fear": "0.171911"
+      },
+      "sentiment": {
+        "score": "0.324874",
+        "type": "positive"
+      },
+      "relevance": "0.921664",
+      "quotations": [
+        {
+          "quotation": "\n\"That\u2019s right,\" said Granny, draining her cup.\n\"Is there any more?\"",
+          "sentiment": {
+            "score": "0.0839124",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Well, we\u2019ve got a king,\" said Granny. \"And there\u2019s an end of it.\"",
+          "sentiment": {
+            "score": "0.244226",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Only because we was asked,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Yes,\" said Granny Weatherwax. \"Well.\"",
+          "sentiment": {
+            "score": "0.553826",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"He made friends easily,\" said Granny ...",
+          "sentiment": {
+            "score": "0.278671",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"He was very popular at court,\" said Granny. \"I know that much.\"",
+          "sentiment": {
+            "score": "0.341729",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"The king used to go out hunting such a lot,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Yes?\" said Granny.\n\"You told everyone they were brothers and that Verence was the older!\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "Granny.\n\"You told everyone they were brothers and that Verence was the older!\"\n\"That\u2019s right.\"\n\"And you let everyone believe that\u2014\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"What I\u2019m saying is,\" said Granny firmly, \"that we\u2019ve got a king who is no worse than most and better than many and who\u2019s got his head screwed on right\u2014\"",
+          "sentiment": {
+            "score": "-0.0359829",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"And you\u2019re not going to tell him, are you?\" said Granny Weatherwax ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Right, then,\" said Granny ...",
+          "sentiment": {
+            "score": "0.111437",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"That\u2019s where you\u2019ve been getting it all wrong,\" said Granny. \"Destiny is important, see, but people go wrong when they think it controls them. It\u2019s the other way around.\"",
+          "sentiment": {
+            "score": "-0.191548",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"I thought you sent them back to the castle,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"That\u2019s nice,\" said Granny. \"What about you, Magrat?\"",
+          "sentiment": {
+            "score": "0.18067",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Quite,\" said Granny Weatherwax, pleasantly. \"It\u2019s no good getting yourself tied down to appointments all the time, is it? Let\u2019s just leave the whole question open, shall we?\"",
+          "sentiment": {
+            "score": "0.260156",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "19"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.032973",
+        "joy": "0.50906",
+        "sadness": "0.430599",
+        "anger": "0.030905",
+        "fear": "0.040725"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.559227",
+      "quotations": [
+        {
+          "quotation": "\n\"Oh yes,\" said Gytha Ogg. \"Definitely. I saw to his mother when your\u2014when the new king was born. And to the queen when young Tomjon was born, and she told me who his father was.\"",
+          "sentiment": {
+            "score": "0.0653017",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "Gytha Ogg. \"Definitely. I saw to his mother when your\u2014when the new king was born. And to the queen when young Tomjon was born, and she told me who his father was.\"\n\"Gytha!\"\n\"Sorry.\"",
+          "sentiment": {
+            "score": "-0.278381",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"I remember the Fool\u2019s father,\" said Nanny Ogg, speaking slowly and deliberately. \"Very personable young man, he was. He didn\u2019t get on with his dad, you know, but he used to visit sometimes. To see old friends.\"",
+          "sentiment": {
+            "score": "0.0935178",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Among the ladies,\" agreed Nanny. \"Very athletic, wasn\u2019t he? Could climb walls like nobody\u2019s business, I remember hearing.\"",
+          "sentiment": {
+            "score": "0.071209",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"It was that droit of his,\" said Nanny. \"Always out and about with it, he was. Hardly ever home o\u2019nights.\"",
+          "sentiment": {
+            "score": "-0.114272",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Even if it is against the thread,\" said Nanny.\n\"\u2014and the old king\u2019s ghost has been laid to rest happy, there\u2019s been an enjoyable coronation and some of us got mugs we weren\u2019t entitled to, them being only for the kiddies and, all in all, things are a lot more satisfactory than they might be. That\u2019s what I\u2019m saying. Never mind what should be or what might be or what ought to be. It\u2019s what things are that\u2019s important.\"",
+          "sentiment": {
+            "score": "0.142165",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"He might be,\" said Nanny.\n\"But you just said\u2014\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Bugger destiny,\" agreed Nanny ...",
+          "sentiment": {
+            "score": "0.0767421",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Me too,\" said Nanny Ogg. \"Our Shirl frets if I\u2019m not home when she comes to get my breakfast.\"",
+          "sentiment": {
+            "score": "-0.249267",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"I\u2019m a bit busy next month,\" said Nanny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Well, they didn\u2019t want to go,\" said Nanny vaguely. \"To be honest, I\u2019ve got used to them around the place. They\u2019re company of an evening. They hardly scream at all, now.\"",
+          "sentiment": {
+            "score": "0.100217",
+            "type": "positive",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "12"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.197026",
+        "joy": "0.100627",
+        "sadness": "0.668211",
+        "anger": "0.054655",
+        "fear": "0.054046"
+      },
+      "sentiment": {
+        "score": "-0.548543",
+        "type": "negative"
+      },
+      "relevance": "0.36329",
+      "quotations": [
+        {
+          "quotation": "\n\"It tastes better at the bottom of the bottle, doesn\u2019t it,\" Magrat said ...",
+          "sentiment": {
+            "score": "0.31076",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s thanks to you and Nanny, really,\" said Magrat, and hiccupped.\n\"Why?\"",
+          "sentiment": {
+            "score": "0.1628",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Just a minute,\" Magrat repeated ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I\u2019m learning,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"There always seems to be such a lot to do at this time of year, don\u2019t you find?\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "10"
+    },
+    {
+      "type": "Person",
+      "text": "Gytha",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.173624",
+      "count": "2"
+    },
+    {
+      "type": "City",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.197026",
+        "joy": "0.100627",
+        "sadness": "0.668211",
+        "anger": "0.054655",
+        "fear": "0.054046"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.1542",
+      "count": "1"
+    },
+    {
+      "type": "FieldTerminology",
+      "text": "the queen",
+      "emotions": {
+        "disgust": "0.040186",
+        "joy": "0.761732",
+        "sadness": "0.132285",
+        "anger": "0.058016",
+        "fear": "0.054425"
+      },
+      "sentiment": {
+        "score": "0.298424",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.148082",
+      "count": "2"
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "droit de seigneur",
+      "emotions": {
+        "disgust": "0.06551",
+        "joy": "0.562015",
+        "sadness": "0.299008",
+        "anger": "0.096987",
+        "fear": "0.039774"
+      },
+      "sentiment": {
+        "score": "0.550424",
+        "type": "positive"
+      },
+      "relevance": "0.144463",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "heather",
+      "emotions": {
+        "disgust": "0.072894",
+        "joy": "0.388581",
+        "sadness": "0.482694",
+        "anger": "0.034931",
+        "fear": "0.073753"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.144284",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Goodie Whemper",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.138214",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Verence",
+      "emotions": {
+        "disgust": "0.103336",
+        "joy": "0.495227",
+        "sadness": "0.308805",
+        "anger": "0.073821",
+        "fear": "0.079342"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.126388",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Lancre",
+      "emotions": {
+        "disgust": "0.11429",
+        "joy": "0.495889",
+        "sadness": "0.307523",
+        "anger": "0.0826",
+        "fear": "0.085531"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.125327",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.348736",
+        "joy": "0.020998",
+        "sadness": "0.372309",
+        "anger": "0.19971",
+        "fear": "0.173477"
+      },
+      "sentiment": {
+        "score": "0.427861",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.122518",
+      "count": "1"
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

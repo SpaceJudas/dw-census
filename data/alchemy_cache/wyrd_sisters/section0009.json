@@ -1,0 +1,256 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Duke Felmet",
+      "emotions": {
+        "disgust": "0.228555",
+        "joy": "0.126002",
+        "sadness": "0.226396",
+        "anger": "0.055871",
+        "fear": "0.424588"
+      },
+      "sentiment": {
+        "score": "-0.538765",
+        "type": "negative"
+      },
+      "relevance": "0.863826",
+      "quotations": [
+        {
+          "quotation": "\n\"Cut what down?\" said Lady Felmet ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "6"
+    },
+    {
+      "type": "Facility",
+      "text": "Lancre Castle",
+      "emotions": {
+        "disgust": "0.429095",
+        "joy": "0.075242",
+        "sadness": "0.239624",
+        "anger": "0.088618",
+        "fear": "0.24985"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.418121",
+      "count": "2"
+    },
+    {
+      "type": "Person",
+      "text": "Bentzen",
+      "emotions": {
+        "disgust": "0.183961",
+        "joy": "0.008007",
+        "sadness": "0.1965",
+        "anger": "0.261772",
+        "fear": "0.48377"
+      },
+      "sentiment": {
+        "score": "-0.850005",
+        "type": "negative"
+      },
+      "relevance": "0.351001",
+      "count": "3"
+    },
+    {
+      "type": "Person",
+      "text": "porter",
+      "emotions": {
+        "disgust": "0.448655",
+        "joy": "0.013088",
+        "sadness": "0.218751",
+        "anger": "0.392457",
+        "fear": "0.074131"
+      },
+      "sentiment": {
+        "score": "-0.562103",
+        "type": "negative"
+      },
+      "relevance": "0.330607",
+      "count": "2"
+    },
+    {
+      "type": "Facility",
+      "text": "Great Hall",
+      "emotions": {
+        "disgust": "0.130728",
+        "joy": "0.342486",
+        "sadness": "0.168746",
+        "anger": "0.11483",
+        "fear": "0.337004"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.305866",
+      "count": "2"
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Lancre river",
+      "emotions": {
+        "disgust": "0.144036",
+        "joy": "0.098924",
+        "sadness": "0.460369",
+        "anger": "0.081025",
+        "fear": "0.308597"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.258866",
+      "count": "1"
+    },
+    {
+      "type": "StateOrCounty",
+      "text": "Oh.",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.248888",
+      "count": "1"
+    },
+    {
+      "type": "Organization",
+      "text": "Turnwise Klatch",
+      "emotions": {
+        "disgust": "0.172594",
+        "joy": "0.096961",
+        "sadness": "0.446217",
+        "anger": "0.135911",
+        "fear": "0.213626"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.247789",
+      "count": "1"
+    },
+    {
+      "type": "Company",
+      "text": "apple",
+      "emotions": {
+        "disgust": "0.296226",
+        "joy": "0.095889",
+        "sadness": "0.459686",
+        "anger": "0.139506",
+        "fear": "0.10036"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.23387",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "King Verence",
+      "emotions": {
+        "disgust": "0.089575",
+        "joy": "0.00995",
+        "sadness": "0.455516",
+        "anger": "0.066883",
+        "fear": "0.478084"
+      },
+      "sentiment": {
+        "score": "-0.439466",
+        "type": "negative"
+      },
+      "relevance": "0.233043",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Sumtin",
+      "emotions": {
+        "disgust": "0.172594",
+        "joy": "0.096961",
+        "sadness": "0.446217",
+        "anger": "0.135911",
+        "fear": "0.213626"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.22652",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Gormenghast",
+      "emotions": {
+        "disgust": "0.389473",
+        "joy": "0.054453",
+        "sadness": "0.307003",
+        "anger": "0.0994",
+        "fear": "0.227447"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.225116",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Mister Onion",
+      "emotions": {
+        "disgust": "0.236493",
+        "joy": "0.303648",
+        "sadness": "0.147671",
+        "anger": "0.166312",
+        "fear": "0.221464"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.224672",
+      "count": "1"
+    },
+    {
+      "relevance": "0.224672",
+      "count": "1",
+      "type": "Quantity",
+      "text": "thousand feet",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.224672",
+      "count": "1",
+      "type": "Quantity",
+      "text": "five minutes",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.224672",
+      "count": "1",
+      "type": "Quantity",
+      "text": "three hands",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

@@ -1,0 +1,426 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.405336",
+        "joy": "0.0012",
+        "sadness": "0.191348",
+        "anger": "0.22367",
+        "fear": "0.330932"
+      },
+      "sentiment": {
+        "score": "-0.306239",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.778809",
+      "quotations": [
+        {
+          "quotation": "\n\"I SAID,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Thank you,\" said Magrat sweetly. \"Would you like an apple?\"",
+          "sentiment": {
+            "score": "0.180452",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"I was looking for the dungeons,\" said Magrat, to whom the words \"sexual harassment\"",
+          "sentiment": {
+            "score": "-0.25604",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Let go of him,\" said Magrat ...",
+          "sentiment": {
+            "score": "-0.0455285",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\"You\u2019re wondering whether I really would cut your throat,\" panted Magrat. \"I don\u2019t know either. Think of the fun we could have together, finding out.\"",
+          "sentiment": {
+            "score": "0.0612821",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Well, you\u2019ve found me,\" said Magrat ...",
+          "sentiment": {
+            "score": "0.233377",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"I can\u2019t do rocks,\" said Magrat.\n\"Well, no, rocks is an acquired taste\u2014\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "24"
+    },
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.283435",
+        "joy": "0.06102",
+        "sadness": "0.384824",
+        "anger": "0.193062",
+        "fear": "0.139502"
+      },
+      "sentiment": {
+        "score": "0.244013",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.705719",
+      "quotations": [
+        {
+          "quotation": "\n\"I reckon you did,\" said Granny Weatherwax, stepping out of the shadows. \"I never would have thought of it myself.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "Granny Weatherwax, stepping out of the shadows. \"I never would have thought of it myself.\"\nMagrat peered at her.\n\"You\u2019ve been here all the time?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"If it had been me,\" said Granny Weatherwax ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Oh,\" said Granny. \"Yes. Come on, Magrat. We\u2019d better see what she\u2019s been getting up to.\"",
+          "sentiment": {
+            "score": "0.255567",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"I daresay,\" said Granny, pushing him aside and stepping over a writhing taproot. \"If anyone locked me in a dungeon, there\u2019d be screams.\"",
+          "sentiment": {
+            "score": "-0.0752489",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"They\u2019re busy. We were just leaving,\" said Granny. \"Which one of you is the duke?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Yes,\" said Granny. \"It is true\u2026\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"\u2026but there is one who could defeat you,\" said Granny ...",
+          "sentiment": {
+            "score": "-0.22481",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "16"
+    },
+    {
+      "type": "Organization",
+      "text": "duke",
+      "emotions": {
+        "disgust": "0.397162",
+        "joy": "0.293944",
+        "sadness": "0.175782",
+        "anger": "0.06727",
+        "fear": "0.137473"
+      },
+      "sentiment": {
+        "score": "-0.639555",
+        "type": "negative"
+      },
+      "relevance": "0.413221",
+      "quotations": [
+        {
+          "quotation": "\n\"I won\u2019t,\" said the duke.\n\"What did you say?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"If you defeat me by magic, magic will rule,\" said the duke ...",
+          "sentiment": {
+            "score": "-0.0115578",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"The child? Let him come when he is grown. A young man with a sword, seeking his destiny.\" The duke sneered",
+          "sentiment": {
+            "score": "-0.0292584",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"The child? Let him come when he is grown. A young man with a sword, seeking his destiny.\" The duke sneered. \"Very romantic. But I have many years to prepare. Let him try.\"",
+          "sentiment": {
+            "score": "0.0194008",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "8"
+    },
+    {
+      "type": "City",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.405336",
+        "joy": "0.0012",
+        "sadness": "0.191348",
+        "anger": "0.22367",
+        "fear": "0.330932"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.383154",
+      "count": "3"
+    },
+    {
+      "type": "Company",
+      "text": "apple",
+      "emotions": {
+        "disgust": "0.241972",
+        "joy": "0.004454",
+        "sadness": "0.398454",
+        "anger": "0.399477",
+        "fear": "0.136165"
+      },
+      "sentiment": {
+        "score": "-0.368146",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.368179",
+      "count": "9"
+    },
+    {
+      "type": "Person",
+      "text": "Hron",
+      "emotions": {
+        "disgust": "0.168285",
+        "joy": "0.015661",
+        "sadness": "0.466466",
+        "anger": "0.17045",
+        "fear": "0.329675"
+      },
+      "sentiment": {
+        "score": "-0.555667",
+        "type": "negative"
+      },
+      "relevance": "0.323761",
+      "quotations": [
+        {
+          "quotation": "\n\"You got to tie her hands and gag her,\" said Hron hurriedly. \"They can\u2019t do no magic if they can\u2019t speak or wave their hands about\u2026\"",
+          "sentiment": {
+            "type": "neutral",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Oh, you\u2019ll report us, will you?\" said Hron. \"And will anyone listen to you, you earwax-colored little twerp?\"",
+          "sentiment": {
+            "score": "-0.237599",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "7"
+    },
+    {
+      "type": "Person",
+      "text": "King Verence",
+      "emotions": {
+        "disgust": "0.150838",
+        "joy": "0.478179",
+        "sadness": "0.201561",
+        "anger": "0.073114",
+        "fear": "0.185562"
+      },
+      "sentiment": {
+        "score": "0.292642",
+        "type": "positive"
+      },
+      "relevance": "0.278392",
+      "count": "2"
+    },
+    {
+      "type": "Crime",
+      "text": "harassment",
+      "emotions": {
+        "disgust": "0.682751",
+        "joy": "0.212574",
+        "sadness": "0.068207",
+        "anger": "0.065015",
+        "fear": "0.037974"
+      },
+      "sentiment": {
+        "score": "-0.407416",
+        "type": "negative"
+      },
+      "relevance": "0.228289",
+      "count": "1"
+    },
+    {
+      "type": "Facility",
+      "text": "Great Hall",
+      "emotions": {
+        "disgust": "0.051498",
+        "joy": "0.61851",
+        "sadness": "0.185762",
+        "anger": "0.088681",
+        "fear": "0.114085"
+      },
+      "sentiment": {
+        "score": "0.37872",
+        "type": "positive"
+      },
+      "relevance": "0.228082",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Knotholes",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.21377",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.117655",
+        "joy": "0.51314",
+        "sadness": "0.23752",
+        "anger": "0.088171",
+        "fear": "0.108154"
+      },
+      "sentiment": {
+        "score": "-0.54587",
+        "type": "negative"
+      },
+      "relevance": "0.21317",
+      "quotations": [
+        {
+          "quotation": "\n\"He\u2019s doing well, isn\u2019t he,\" said Nanny, as Magrat helped her out of her prison.\n\"Isn\u2019t that the old king? Can they see him?\"",
+          "sentiment": {
+            "score": "0.167507",
+            "type": "positive",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "2"
+    },
+    {
+      "type": "Person",
+      "text": "Felmet",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.204307",
+      "count": "1"
+    },
+    {
+      "type": "Degree",
+      "text": "half-crouch",
+      "emotions": {
+        "disgust": "0.085932",
+        "joy": "0.394829",
+        "sadness": "0.460523",
+        "anger": "0.037551",
+        "fear": "0.13015"
+      },
+      "sentiment": {
+        "score": "-0.657944",
+        "type": "negative"
+      },
+      "relevance": "0.201927",
+      "count": "1"
+    },
+    {
+      "relevance": "0.201927",
+      "count": "1",
+      "type": "Quantity",
+      "text": "thousand miles",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.201927",
+      "count": "1",
+      "type": "Quantity",
+      "text": "six inches",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.201927",
+      "count": "1",
+      "type": "Quantity",
+      "text": "one years",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.201927",
+      "count": "1",
+      "type": "Quantity",
+      "text": "one foot",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

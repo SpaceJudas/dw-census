@@ -1,0 +1,250 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.312689",
+        "joy": "0.028889",
+        "sadness": "0.366626",
+        "anger": "0.189591",
+        "fear": "0.16072"
+      },
+      "sentiment": {
+        "score": "0.132834",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.911464",
+      "quotations": [
+        {
+          "quotation": "\n\"Are you calling me a liar, my girl?\" snapped Granny. \"I saw it all!\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s shameful!\" snapped Granny. \"And the poor dead thing still lying there!\"",
+          "sentiment": {
+            "score": "-0.341952",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "Granny on the shoulder and a voice said, \"Madam, will you kindly remove your hat?\"",
+          "sentiment": {
+            "score": "0.265711",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "Granny said, in a piercing voice that made one actor drop his wooden sword, \"There\u2019s a man over on the side there whispering to them!\"",
+          "sentiment": {
+            "score": "-0.0168583",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Are they?\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "19"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.275131",
+        "joy": "0.006724",
+        "sadness": "0.382068",
+        "anger": "0.269242",
+        "fear": "0.200178"
+      },
+      "sentiment": {
+        "score": "-0.364469",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.343509",
+      "quotations": [
+        {
+          "quotation": "\n\"He\u2019s saying how sorry he was that the other man\u2019s dead,\" said Magrat, and in an attempt to change the subject added hurriedly, \"There\u2019s a lot of crowns, isn\u2019t there?\"",
+          "sentiment": {
+            "score": "-0.171992",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Well, it\u2019s a bit complicated\u2014\" said Magrat ...",
+          "sentiment": {
+            "score": "0.343966",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"They don\u2019t allow no women on the stage,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"He\u2019s a prompter,\" said Magrat. \"He tells them what to say.\"",
+          "sentiment": {
+            "score": "-0.0497666",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "11"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.297893",
+      "quotations": [
+        {
+          "quotation": "\n\"And look at his boots, too,\" said Nanny critically. \"A real king\u2019d be ashamed of boots like that.\"",
+          "sentiment": {
+            "score": "-0.318865",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Don\u2019t make a fuss, Esme,\" said Nanny, who also knew about Granny\u2019s Views. \"This is a good bit. I reckon I\u2019m getting the hang of it.\"",
+          "sentiment": {
+            "score": "-0.0627847",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s a banquet, see,\" said Nanny Ogg authoritatively. \"Because of the dead king, him in the boots, as was, only now if you look, you\u2019ll see he\u2019s pretending to be a soldier, and everyone\u2019s making speeches about how good he was and wondering who killed him.\"",
+          "sentiment": {
+            "score": "-0.150016",
+            "type": "negative",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "6"
+    },
+    {
+      "type": "City",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.275131",
+        "joy": "0.006724",
+        "sadness": "0.382068",
+        "anger": "0.269242",
+        "fear": "0.200178"
+      },
+      "sentiment": {
+        "score": "-0.235624",
+        "type": "negative"
+      },
+      "relevance": "0.165494",
+      "count": "1"
+    },
+    {
+      "type": "Company",
+      "text": "apple",
+      "emotions": {
+        "disgust": "0.399565",
+        "joy": "0.37544",
+        "sadness": "0.097484",
+        "anger": "0.162099",
+        "fear": "0.075704"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.145507",
+      "count": "3"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat sourly",
+      "emotions": {
+        "disgust": "0.522489",
+        "joy": "0.199502",
+        "sadness": "0.107835",
+        "anger": "0.17806",
+        "fear": "0.101124"
+      },
+      "sentiment": {
+        "score": "-0.262793",
+        "type": "negative"
+      },
+      "relevance": "0.133339",
+      "quotations": [
+        {
+          "quotation": "\n\"I think they\u2019re forgetting,\" said Magrat sourly. \"For some reason.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "wretchedly",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.111908",
+      "count": "1"
+    },
+    {
+      "type": "JobTitle",
+      "text": "research scientist",
+      "emotions": {
+        "disgust": "0.128455",
+        "joy": "0.484981",
+        "sadness": "0.265855",
+        "anger": "0.133117",
+        "fear": "0.055525"
+      },
+      "sentiment": {
+        "score": "0.478179",
+        "type": "positive"
+      },
+      "relevance": "0.109553",
+      "count": "1"
+    },
+    {
+      "relevance": "0.109553",
+      "count": "1",
+      "type": "Quantity",
+      "text": "hundred kilowatt",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

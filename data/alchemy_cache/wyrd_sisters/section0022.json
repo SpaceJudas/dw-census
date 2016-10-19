@@ -1,0 +1,254 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.205978",
+        "joy": "0.113365",
+        "sadness": "0.683269",
+        "anger": "0.078737",
+        "fear": "0.015853"
+      },
+      "sentiment": {
+        "score": "-0.390719",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.8785",
+      "quotations": [
+        {
+          "quotation": "\n\"We did it the year before,\" said Hwel calmly. \"Anyway, people are fed up with kings. They want a bit of a chuckle.\"",
+          "sentiment": {
+            "score": "0.0834425",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"To laugh,\" said Hwel, flatly. \"Have a look at this one.\"",
+          "sentiment": {
+            "score": "0.144536",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"I\u2019m rather pleased with Act II, Scene IV,\" said Hwel, propelling the toddler toward the props box. \"Comic Washing Up with Two Servants.\"",
+          "sentiment": {
+            "score": "0.130639",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"No-o,\" said Hwel. \"But I can do you a humorous monologue in Act III.\"",
+          "sentiment": {
+            "score": "0.151245",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"All right, there\u2019s room for a soliloquy in the last act,\" said Hwel hurriedly. \"I\u2019ll write one tonight, no problem.\"",
+          "sentiment": {
+            "type": "neutral",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "10"
+    },
+    {
+      "type": "Person",
+      "text": "Vitoller",
+      "emotions": {
+        "disgust": "0.344765",
+        "joy": "0.104786",
+        "sadness": "0.308751",
+        "anger": "0.094164",
+        "fear": "0.264043"
+      },
+      "sentiment": {
+        "score": "0.0274183",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.469713",
+      "quotations": [
+        {
+          "quotation": "\n\"All right, then. We\u2019ll give them Mallo, the Tyrant of Klatch,\" said Vitoller, and his larynx smoothly changed gear as his voice became a great rolling thing that could rattle the windows across the width of the average town square. \"\u2018In blood I came, And by blood rule, That none will dare assay these walls of blood\u2014\u2019\"",
+          "sentiment": {
+            "score": "0.012093",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"They are not fed up with my kings,\" said Vitoller. \"My dear boy, people do not come to the theater to laugh, they come to Experience, to Learn, to Wonder\u2014\"",
+          "sentiment": {
+            "score": "0.0818778",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"What\u2019s this?\" said Vitoller. \"Wizards? Demons? Imps? Merchants?\"",
+          "sentiment": {
+            "score": "-0.281231",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Any death-bed scenes?\" said Vitoller ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"And a stabbing,\" said Vitoller, getting to his feet. \"A foul murder. That always goes down well.\"",
+          "sentiment": {
+            "score": "-0.0645977",
+            "type": "negative",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "9"
+    },
+    {
+      "type": "City",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.205978",
+        "joy": "0.113365",
+        "sadness": "0.683269",
+        "anger": "0.078737",
+        "fear": "0.015853"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.427147",
+      "count": "2"
+    },
+    {
+      "type": "Person",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.385823",
+        "joy": "0.124083",
+        "sadness": "0.364191",
+        "anger": "0.094363",
+        "fear": "0.128067"
+      },
+      "sentiment": {
+        "score": "-0.710271",
+        "type": "negative"
+      },
+      "relevance": "0.247279",
+      "count": "3"
+    },
+    {
+      "type": "City",
+      "text": "Ramtops",
+      "emotions": {
+        "disgust": "0.307007",
+        "joy": "0.128769",
+        "sadness": "0.277235",
+        "anger": "0.175846",
+        "fear": "0.233753"
+      },
+      "sentiment": {
+        "score": "-0.320551",
+        "type": "negative"
+      },
+      "relevance": "0.181998",
+      "count": "2"
+    },
+    {
+      "type": "City",
+      "text": "Vitoller",
+      "emotions": {
+        "disgust": "0.344765",
+        "joy": "0.104786",
+        "sadness": "0.308751",
+        "anger": "0.094164",
+        "fear": "0.264043"
+      },
+      "sentiment": {
+        "score": "-0.285161",
+        "type": "negative"
+      },
+      "relevance": "0.17422",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.385823",
+        "joy": "0.124083",
+        "sadness": "0.364191",
+        "anger": "0.094363",
+        "fear": "0.128067"
+      },
+      "sentiment": {
+        "score": "-0.788528",
+        "type": "negative"
+      },
+      "relevance": "0.154592",
+      "count": "1"
+    },
+    {
+      "type": "Crime",
+      "text": "murder",
+      "emotions": {
+        "disgust": "0.776666",
+        "joy": "0.005773",
+        "sadness": "0.102505",
+        "anger": "0.14941",
+        "fear": "0.054636"
+      },
+      "sentiment": {
+        "score": "-0.853406",
+        "type": "negative"
+      },
+      "relevance": "0.15211",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Hangdog",
+      "emotions": {
+        "disgust": "0.060616",
+        "joy": "0.387968",
+        "sadness": "0.09354",
+        "anger": "0.173178",
+        "fear": "0.34107"
+      },
+      "sentiment": {
+        "score": "-0.477601",
+        "type": "negative"
+      },
+      "relevance": "0.15103",
+      "count": "1"
+    },
+    {
+      "type": "OperatingSystem",
+      "text": "windows",
+      "emotions": {
+        "disgust": "0.058469",
+        "joy": "0.424986",
+        "sadness": "0.286029",
+        "anger": "0.080984",
+        "fear": "0.233393"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.14884",
+      "count": "1"
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

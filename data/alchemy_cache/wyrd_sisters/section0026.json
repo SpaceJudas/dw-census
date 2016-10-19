@@ -1,0 +1,392 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.333418",
+        "joy": "0.003994",
+        "sadness": "0.286843",
+        "anger": "0.381143",
+        "fear": "0.149738"
+      },
+      "sentiment": {
+        "score": "0.209393",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.904025",
+      "quotations": [
+        {
+          "quotation": "\n\"Sounds to me as if there\u2019s a deal too many bottles in there already,\" said Granny Weatherwax ...",
+          "sentiment": {
+            "score": "0.0617185",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "Granny, said, \"Happy Hogswatchnight, missus,\" ...",
+          "sentiment": {
+            "score": "0.536262",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Miss,\" snapped Granny ...",
+          "sentiment": {
+            "score": "-0.151678",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"It might be a good idea if we can go and talk somewhere more private,\" said Granny ...",
+          "sentiment": {
+            "score": "0.101395",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Searching,\" said Granny ...",
+          "sentiment": {
+            "score": "0.0463011",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Yes,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I know what a troll\u2019s mind feels like, Gytha,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"What are you going to try?\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s not her fault,\" said Granny ...",
+          "sentiment": {
+            "score": "0.138527",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "19"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.659974",
+      "quotations": [
+        {
+          "quotation": "\n\"Could be a troll,\" said Nanny Ogg ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "8"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny",
+      "emotions": {
+        "disgust": "0.339272",
+        "joy": "0.117144",
+        "sadness": "0.190793",
+        "anger": "0.097958",
+        "fear": "0.339487"
+      },
+      "sentiment": {
+        "score": "-0.492884",
+        "type": "negative"
+      },
+      "relevance": "0.417224",
+      "quotations": [
+        {
+          "quotation": "\n\"They say there\u2019s really big trolls up toward the Hub,\" said Nanny slowly. \"And ice giants, and big hairy wossnames that live above the snowline. But you don\u2019t mean anything like that, do you?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "Nanny slowly. \"And ice giants, and big hairy wossnames that live above the snowline. But you don\u2019t mean anything like that, do you?\"\n\"No.\"\n\"Oh.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I always say you can\u2019t go wrong with a good Invocation,\" said Nanny. \"Haven\u2019t done one for years.\"",
+          "sentiment": {
+            "score": "-0.0542918",
+            "type": "negative",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "6"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.068058",
+        "joy": "0.517686",
+        "sadness": "0.254403",
+        "anger": "0.092396",
+        "fear": "0.113152"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.316602",
+      "quotations": [
+        {
+          "quotation": "\n\"I thought it was looking for someone,\" said Magrat. \"It put me in mind of a large dog. You know, lost. Puzzled.\"",
+          "sentiment": {
+            "score": "-0.139578",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Worried,\" said Magrat ...",
+          "sentiment": {
+            "score": "-0.324739",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"And getting angry,\" said Magrat ...",
+          "sentiment": {
+            "score": "-0.435855",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "7"
+    },
+    {
+      "type": "Company",
+      "text": "Nanny",
+      "emotions": {
+        "disgust": "0.339272",
+        "joy": "0.117144",
+        "sadness": "0.190793",
+        "anger": "0.097958",
+        "fear": "0.339487"
+      },
+      "sentiment": {
+        "score": "-0.232493",
+        "type": "negative"
+      },
+      "relevance": "0.230214",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.068058",
+        "joy": "0.517686",
+        "sadness": "0.254403",
+        "anger": "0.092396",
+        "fear": "0.113152"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.217531",
+      "count": "3"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat diffidently",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.179924",
+      "quotations": [
+        {
+          "quotation": "\n\"Do you think we should go in?\" said Magrat diffidently. \"It\u2019s not as though we were invited. And we haven\u2019t brought a bottle.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Reet",
+      "emotions": {
+        "disgust": "0.158182",
+        "joy": "0.411393",
+        "sadness": "0.281173",
+        "anger": "0.094",
+        "fear": "0.11091"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.143403",
+      "count": "1",
+      "disambiguated": {
+        "name": "Rumst",
+        "website": "http://www.rumst.be/",
+        "dbpedia": "http://dbpedia.org/resource/Rumst",
+        "geonames": "http://sws.geonames.org/2787522/",
+        "subType": [],
+        "yago": "http://yago-knowledge.org/resource/Rumst",
+        "freebase": "http://rdf.freebase.com/ns/m.014h1p"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Darron",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "score": "-0.376592",
+        "type": "negative"
+      },
+      "relevance": "0.137243",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Greebo",
+      "emotions": {
+        "disgust": "0.080862",
+        "joy": "0.167407",
+        "sadness": "0.690915",
+        "anger": "0.058028",
+        "fear": "0.070861"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.131165",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Esme",
+      "emotions": {
+        "disgust": "0.069563",
+        "joy": "0.409581",
+        "sadness": "0.295458",
+        "anger": "0.067792",
+        "fear": "0.193897"
+      },
+      "sentiment": {
+        "score": "0.275427",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.130591",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Wotcher",
+      "emotions": {
+        "disgust": "0.307186",
+        "joy": "0.1089",
+        "sadness": "0.389877",
+        "anger": "0.192647",
+        "fear": "0.079789"
+      },
+      "sentiment": {
+        "score": "-0.548792",
+        "type": "negative"
+      },
+      "relevance": "0.129217",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Hogswatchnight",
+      "emotions": {
+        "disgust": "0.137802",
+        "joy": "0.291575",
+        "sadness": "0.392386",
+        "anger": "0.102768",
+        "fear": "0.152928"
+      },
+      "sentiment": {
+        "score": "-0.496981",
+        "type": "negative"
+      },
+      "relevance": "0.128679",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Gytha",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.114231",
+      "count": "1"
+    },
+    {
+      "relevance": "0.114231",
+      "count": "1",
+      "type": "Quantity",
+      "text": "ten years",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.114231",
+      "count": "1",
+      "type": "Quantity",
+      "text": "one hand",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

@@ -1,0 +1,210 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Miss Magrat",
+      "emotions": {
+        "disgust": "0.185257",
+        "joy": "0.009978",
+        "sadness": "0.386953",
+        "anger": "0.143094",
+        "fear": "0.438934"
+      },
+      "sentiment": {
+        "score": "-0.394814",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.786887",
+      "quotations": [
+        {
+          "quotation": "\n\"Where were you going?\" demanded Magrat.\n\"To fetch our Jason and our Wane and our Darron and our\u2014\"",
+          "sentiment": {
+            "score": "-0.13063",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "Magrat.\n\"To fetch our Jason and our Wane and our Darron and our\u2014\"\n\"Wait a moment.\"\n\"Oh, Miss Magrat, suppose they try to torture her? You know what a tongue she\u2019s got on her when she gets angry\u2014\"",
+          "sentiment": {
+            "score": "-0.183288",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"I\u2019m thinking,\" said Magrat.\n\"He\u2019s put his own bodyguards on the gates and everything\u2014\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "Magrat.\n\"He\u2019s put his own bodyguards on the gates and everything\u2014\"\n\"Look, just shut up a minute, will you, Shawn?\"\n\"When our Jason finds out, he\u2019s going to give the duke a real seeing-to, miz. He says it\u2019s about time someone did.\"",
+          "sentiment": {
+            "score": "0.0166111",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Don\u2019t tell him yet,\" she said thoughtfully. \"There could be another way\u2026\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"If you happen to see Granny Weatherwax,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "36"
+    },
+    {
+      "type": "Person",
+      "text": "Shawn frowned\u2014",
+      "emotions": {
+        "disgust": "0.364008",
+        "joy": "0.000179",
+        "sadness": "0.125531",
+        "anger": "0.623727",
+        "fear": "0.041879"
+      },
+      "sentiment": {
+        "score": "-0.342383",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.503284",
+      "quotations": [
+        {
+          "quotation": "\n\"Is that you, Miss Magrat?\" said Shawn, raising the flap of mail that covered his eyes. \"It\u2019s mam!\"",
+          "sentiment": {
+            "score": "-0.0918914",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"I\u2019ll go and find Granny Weatherwax, shall I, miz?\" said Shawn, hopping from one leg to another. \"She\u2019ll know what to do, she\u2019s a witch.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Oops,\" said Shawn.",
+          "sentiment": {
+            "score": "-0.238214",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "14"
+    },
+    {
+      "type": "Person",
+      "text": "Jason",
+      "emotions": {
+        "disgust": "0.171153",
+        "joy": "0.003078",
+        "sadness": "0.309877",
+        "anger": "0.554727",
+        "fear": "0.138644"
+      },
+      "sentiment": {
+        "score": "-0.344894",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.267897",
+      "count": "8"
+    },
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.149732",
+        "joy": "0.220136",
+        "sadness": "0.46546",
+        "anger": "0.100178",
+        "fear": "0.147094"
+      },
+      "sentiment": {
+        "score": "0.391346",
+        "type": "positive"
+      },
+      "relevance": "0.264278",
+      "count": "2"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.247204",
+      "count": "3"
+    },
+    {
+      "type": "Person",
+      "text": "Lancre",
+      "emotions": {
+        "disgust": "0.133917",
+        "joy": "0.270104",
+        "sadness": "0.319111",
+        "anger": "0.194376",
+        "fear": "0.162161"
+      },
+      "sentiment": {
+        "score": "0.517038",
+        "type": "positive"
+      },
+      "relevance": "0.229296",
+      "count": "6"
+    },
+    {
+      "type": "Person",
+      "text": "holly bush",
+      "emotions": {
+        "disgust": "0.079871",
+        "joy": "0.051095",
+        "sadness": "0.505512",
+        "anger": "0.077379",
+        "fear": "0.374193"
+      },
+      "sentiment": {
+        "score": "-0.904557",
+        "type": "negative"
+      },
+      "relevance": "0.182277",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Darron",
+      "emotions": {
+        "disgust": "0.250198",
+        "joy": "0.099559",
+        "sadness": "0.260832",
+        "anger": "0.209822",
+        "fear": "0.269482"
+      },
+      "sentiment": {
+        "score": "0.47514",
+        "type": "positive"
+      },
+      "relevance": "0.17547",
+      "count": "1"
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

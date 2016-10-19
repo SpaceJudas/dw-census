@@ -1,0 +1,209 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.128532",
+        "joy": "0.063041",
+        "sadness": "0.633841",
+        "anger": "0.153391",
+        "fear": "0.09595"
+      },
+      "sentiment": {
+        "score": "0.354375",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.935525",
+      "quotations": [
+        {
+          "quotation": "Granny Weatherwax said, \"It was a good banquet, I thought.\"",
+          "sentiment": {
+            "score": "0.167716",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"I heard,\" said Granny coldly. \"Half a pig and three bottles of fizzy wine went missing, they say.\"",
+          "sentiment": {
+            "score": "-0.0724806",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "Granny said, \"We were a bit surprised you weren\u2019t there, Magrat.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Well, I don\u2019t know about invited,\" said Granny ...",
+          "sentiment": {
+            "score": "0.142816",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\"We weren\u2019t invited. People don\u2019t have to invite witches, they just know we\u2019ll turn up if we want to. They soon find room for us,\" she added ...",
+          "sentiment": {
+            "score": "0.0573648",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s a very good thing he\u2019s paying so much attention to getting the kingdom working again,\" said Granny, soothingly. \"It shows proper consideration. I daresay he\u2019ll get around to everything, sooner or later. It\u2019s very demanding, being a king.\"",
+          "sentiment": {
+            "score": "0.110545",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"You drink up, girl,\" said Granny Weatherwax. \"It\u2019s a chilly night. It\u2019d be good for your chest.\"",
+          "sentiment": {
+            "score": "0.242017",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "9"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.109939",
+        "joy": "0.183494",
+        "sadness": "0.392595",
+        "anger": "0.088604",
+        "fear": "0.293536"
+      },
+      "sentiment": {
+        "score": "0.0881231",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.909838",
+      "quotations": [
+        {
+          "quotation": "\n\"I was nearly sick,\" said Nanny Ogg proudly. \"And my Shirl helped out in the kitchen and brought me home some scraps.\"",
+          "sentiment": {
+            "score": "0.107589",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s nice that some people think of the old folk,\" said Nanny Ogg ...",
+          "sentiment": {
+            "score": "0.140501",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"We thought you\u2019d be up at the top of the table, kind of thing,\" said Nanny. \"We thought you\u2019d have moved in up there.\"",
+          "sentiment": {
+            "score": "0.165496",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"I wasn\u2019t invited,\" she said ...",
+          "sentiment": {
+            "score": "0.0461873",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Very sober lad,\" said Nanny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Have y\u2014?\" Nanny Ogg began ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Well, I brought a bottle of that fizzy wine with me,\" she said ...",
+          "sentiment": {
+            "score": "0.300271",
+            "type": "positive",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "12"
+    },
+    {
+      "type": "City",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.587142",
+      "quotations": [
+        {
+          "quotation": "\n\"You see, he\u2019s been very busy,\" said Magrat to her feet. \"Sorting everything out, you know. He\u2019s very clever, you know. Underneath.\"",
+          "sentiment": {
+            "score": "0.101317",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Anyway, it\u2019s full moon,\" said Magrat quickly. \"You\u2019ve got to go to coven meetings at full moon, no matter what other pressing engagements there may be.\"",
+          "sentiment": {
+            "score": "-0.030063",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Yes,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I don\u2019t want any,\" said Magrat ...",
+          "sentiment": {
+            "score": "0.0905955",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "8"
+    },
+    {
+      "type": "Person",
+      "text": "Mussorgsky",
+      "emotions": {
+        "disgust": "0.243352",
+        "joy": "0.274481",
+        "sadness": "0.402319",
+        "anger": "0.10361",
+        "fear": "0.053748"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.237088",
+      "count": "1"
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

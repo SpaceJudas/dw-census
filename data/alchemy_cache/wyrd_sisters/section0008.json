@@ -1,0 +1,219 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Champot",
+      "emotions": {
+        "disgust": "0.248751",
+        "joy": "0.03473",
+        "sadness": "0.470081",
+        "anger": "0.185547",
+        "fear": "0.171923"
+      },
+      "sentiment": {
+        "score": "-0.517193",
+        "type": "negative"
+      },
+      "relevance": "0.837176",
+      "quotations": [
+        {
+          "quotation": "\n\"Oh, all that was after my time,\" said Champot dismissively.\n\"How long have you been here, then?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\"About a thousand years,\" he said, his voice tinged with pride. \"Man and ghost.\"",
+          "sentiment": {
+            "score": "-0.165386",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "he said, his voice tinged with pride. \"Man and ghost.\"\n\"A thousand years!\"\n\"I built this place, in fact. Just got it nicely decorated when my nephew cut my head off while I was asleep. I can\u2019t tell you how much that upset me.\"",
+          "sentiment": {
+            "score": "-0.0609229",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\"You\u2019ll soon get used to it,\" he said.\n\"I don\u2019t want to get used to it!\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"You\u2019ve got a strong morphogenic field,\" said Champot. \"I can tell. I look for these things. Yes. Very strong, I should say.\"",
+          "sentiment": {
+            "score": "0.161802",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"I was never very good with words, you know,\" said Champot ...",
+          "sentiment": {
+            "score": "-0.616057",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"We don\u2019t,\" he said. \"We\u2019re ghosts.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "he said. \"We\u2019re ghosts.\"\n\"But I\u2019m hungry!\"\n\"You\u2019re not, you know. It\u2019s just your imagination.\"",
+          "sentiment": {
+            "score": "0.0812539",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\"Black pudding,\" he whispered ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Yes, but you can\u2019t actually touch anything, you see,\" Champot explained",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Yes, but you can\u2019t actually touch anything, you see,\" Champot explained gently. \"Nothing at all.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "16"
+    },
+    {
+      "type": "Person",
+      "text": "King Verence",
+      "emotions": {
+        "disgust": "0.113113",
+        "joy": "0.02058",
+        "sadness": "0.531648",
+        "anger": "0.310619",
+        "fear": "0.191405"
+      },
+      "sentiment": {
+        "score": "-0.286938",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.828984",
+      "quotations": [
+        {
+          "quotation": "\n\"You can see me?\" he said ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"It was the head under your arm,\" said Verence, pleased with himself. \"That gave me a clue.\"",
+          "sentiment": {
+            "score": "0.177007",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"But\u2026a thousand years\u2026\" Verence repeated ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"They must be bloody strange ways, then!\" snapped Verence. \"I liked being alive!\"",
+          "sentiment": {
+            "score": "-0.0323091",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\"I tried to keep myself busy,\" he said ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Sausages,\" he said ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "21"
+    },
+    {
+      "type": "City",
+      "text": "Lancre",
+      "emotions": {
+        "disgust": "0.172056",
+        "joy": "0.361723",
+        "sadness": "0.268511",
+        "anger": "0.065935",
+        "fear": "0.193907"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.237263",
+      "count": "1"
+    },
+    {
+      "type": "Facility",
+      "text": "Great Hall",
+      "emotions": {
+        "disgust": "0.146805",
+        "joy": "0.200573",
+        "sadness": "0.123149",
+        "anger": "0.102243",
+        "fear": "0.489553"
+      },
+      "sentiment": {
+        "score": "0.354643",
+        "type": "positive"
+      },
+      "relevance": "0.232142",
+      "count": "1"
+    },
+    {
+      "relevance": "0.232142",
+      "count": "3",
+      "type": "Quantity",
+      "text": "thousand years",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.232142",
+      "count": "1",
+      "type": "Quantity",
+      "text": "one hundred percent",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.232142",
+      "count": "1",
+      "type": "Quantity",
+      "text": "forty years",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

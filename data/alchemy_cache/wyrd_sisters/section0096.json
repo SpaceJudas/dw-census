@@ -1,0 +1,360 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.277234",
+        "joy": "0.135323",
+        "sadness": "0.288091",
+        "anger": "0.183585",
+        "fear": "0.19819"
+      },
+      "sentiment": {
+        "score": "-0.302521",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.939827",
+      "count": "7"
+    },
+    {
+      "type": "Person",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.187578",
+        "joy": "0.278284",
+        "sadness": "0.356244",
+        "anger": "0.117658",
+        "fear": "0.134935"
+      },
+      "sentiment": {
+        "score": "0.442687",
+        "type": "positive"
+      },
+      "relevance": "0.845213",
+      "quotations": [
+        {
+          "quotation": "\n\"\u2018And calls me forth for vengeance,\u2019\" prompted Tomjon ...",
+          "sentiment": {
+            "score": "-0.437557",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"\u2018And calls me forth for vengeance\u2019\" hissed Tomjon ...",
+          "sentiment": {
+            "score": "-0.281622",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Aha, it calls you forth for vengeance, does it?\" said Tomjon, in desperation. \"And the heavens cry revenge, too, I expect.\"",
+          "sentiment": {
+            "score": "-0.216647",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Aha, thou callst me an evil king, though thou wisperest it so none save I may hear it,\" Tomjon croaked. \"And thou hast summoned the guard, possibly by some most secret signal, owing nought to artifice of lips or tongue.\"",
+          "sentiment": {
+            "score": "-0.0171128",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"What was that?\" said Tomjon. \"Did I hear you say I come, my lady?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "10"
+    },
+    {
+      "type": "Person",
+      "text": "Wimsloe",
+      "emotions": {
+        "disgust": "0.294717",
+        "joy": "0.242726",
+        "sadness": "0.133138",
+        "anger": "0.084962",
+        "fear": "0.313645"
+      },
+      "sentiment": {
+        "score": "-0.31784",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.686743",
+      "quotations": [
+        {
+          "quotation": "\n\"The very soil cries out at tyranny\u2014\" said Wimsloe ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"B-but\u2014\" whispered Wimsloe ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Wha?\" said Wimsloe ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I dare not,\" Wimsloe said ...",
+          "sentiment": {
+            "score": "-0.1186",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "7"
+    },
+    {
+      "type": "Movie",
+      "text": "Thunder",
+      "emotions": {
+        "disgust": "0.046642",
+        "joy": "0.071064",
+        "sadness": "0.093449",
+        "anger": "0.041728",
+        "fear": "0.802934"
+      },
+      "sentiment": {
+        "score": "-0.29127",
+        "type": "negative"
+      },
+      "relevance": "0.51634",
+      "count": "5"
+    },
+    {
+      "type": "City",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.277234",
+        "joy": "0.135323",
+        "sadness": "0.288091",
+        "anger": "0.183585",
+        "fear": "0.19819"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.48015",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Granny",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.4113",
+      "quotations": [
+        {
+          "quotation": "\n\"Never mind,\" said Granny. \"Just look busy, and wait until I say.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Be quiet, you two,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "2"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.098953",
+        "joy": "0.024855",
+        "sadness": "0.744641",
+        "anger": "0.087135",
+        "fear": "0.123898"
+      },
+      "sentiment": {
+        "score": "-0.27336",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.390488",
+      "quotations": [
+        {
+          "quotation": "\n\"It\u2019s just tin, this one,\" hissed Nanny. \"And it\u2019s full of all yuk.\"",
+          "sentiment": {
+            "score": "-0.156176",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "Nanny. \"And it\u2019s full of all yuk.\"\n\"And the fire is just red paper,\" whispered Magrat. \"It looked so real from up there, it\u2019s just red paper! Look, you can poke it\u2014\"",
+          "sentiment": {
+            "score": "-0.0686005",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"I wouldn\u2019t be seen dead with a cauldron like this,\" said Nanny Ogg, in a whisper loud enough to carry to the back of the courtyard. \"Two days\u2019 work with a scourer and a bucket of sand, is this.\"",
+          "sentiment": {
+            "score": "-0.08772",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "2"
+    },
+    {
+      "type": "Person",
+      "text": "Gumridge",
+      "emotions": {
+        "disgust": "0.178723",
+        "joy": "0.132614",
+        "sadness": "0.68693",
+        "anger": "0.066314",
+        "fear": "0.022121"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.381509",
+      "quotations": [
+        {
+          "quotation": "\n\"Do you fear him now?\" said Gumridge. \"And he so amazed with drink? Take his dagger, husband\u2014you are a blade\u2019s width from the kingdom.\"",
+          "sentiment": {
+            "score": "0.258093",
+            "type": "positive",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "3"
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.336181",
+        "joy": "0.08342",
+        "sadness": "0.407121",
+        "anger": "0.162896",
+        "fear": "0.119694"
+      },
+      "sentiment": {
+        "score": "0.44579",
+        "type": "positive"
+      },
+      "relevance": "0.362756",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.187578",
+        "joy": "0.278284",
+        "sadness": "0.356244",
+        "anger": "0.117658",
+        "fear": "0.134935"
+      },
+      "sentiment": {
+        "score": "-0.400921",
+        "type": "negative"
+      },
+      "relevance": "0.356097",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.336181",
+        "joy": "0.08342",
+        "sadness": "0.407121",
+        "anger": "0.162896",
+        "fear": "0.119694"
+      },
+      "sentiment": {
+        "score": "-0.42991",
+        "type": "negative"
+      },
+      "relevance": "0.338394",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Wimsloe",
+      "emotions": {
+        "disgust": "0.294717",
+        "joy": "0.242726",
+        "sadness": "0.133138",
+        "anger": "0.084962",
+        "fear": "0.313645"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.327022",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.10293",
+        "joy": "0.354488",
+        "sadness": "0.254292",
+        "anger": "0.126532",
+        "fear": "0.218533"
+      },
+      "sentiment": {
+        "score": "0.0372569",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.298102",
+      "quotations": [
+        {
+          "quotation": "\n\"How do they make it flicker?\" said Magrat ...",
+          "sentiment": {
+            "score": "0.151161",
+            "type": "positive",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "1"
+    },
+    {
+      "relevance": "0.298102",
+      "count": "1",
+      "type": "Quantity",
+      "text": "Two days",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

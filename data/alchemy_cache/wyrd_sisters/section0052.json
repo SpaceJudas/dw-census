@@ -1,0 +1,579 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.191135",
+        "joy": "0.017404",
+        "sadness": "0.293417",
+        "anger": "0.376144",
+        "fear": "0.249887"
+      },
+      "sentiment": {
+        "score": "-0.170915",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.975166",
+      "quotations": [
+        {
+          "quotation": "\n\"Ice!\" screamed Granny. \"It\u2019s iced up!\"",
+          "sentiment": {
+            "score": "-0.301505",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"I can follow the river,\" Granny Weatherwax screamed, above the crackle of flames. \"Don\u2019t you worry!\"",
+          "sentiment": {
+            "score": "-0.245411",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "Granny Weatherwax saying, \"Don\u2019t you ever do that again, Gytha Ogg.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "Granny Weatherwax saying, \"Don\u2019t you ever do that again, Gytha Ogg.\"\n\"I promise.\"\n\"Now turn us around. We\u2019re heading for Lancre Bridge, remember?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I mean to do it,\" said Granny. \"There\u2019s plenty of night left.\"",
+          "sentiment": {
+            "score": "0.0277023",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "Granny. \"There\u2019s plenty of night left.\"\n\"Not enough, I\u2019m thinking.\"\n\"A witch doesn\u2019t know the meaning of the word \u2018failure,\u2019 Gytha.\"",
+          "sentiment": {
+            "score": "0.0436564",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"I was speaking wossname. Figuratively,\" said Granny.\n\"Oh. Well. You should of said.\"",
+          "sentiment": {
+            "score": "-0.125439",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Did you hear that?\" said Granny. \"Over Razorback way?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"And that? What was that, then?\" demanded Granny.\n\"Fowl pest. Careful, I\u2019m bringing us down.\"",
+          "sentiment": {
+            "score": "0.166809",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "Granny.\n\"Fowl pest. Careful, I\u2019m bringing us down.\"\n\"Are you laughing at me?\"\n\"Just pleased for you, Esme. You\u2019ll go down in history for this, you know.\"",
+          "sentiment": {
+            "score": "0.14195",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Some people will say anything,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "20"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.725091",
+      "quotations": [
+        {
+          "quotation": "\n\"What the hell you doing?\" roared Nanny ...",
+          "sentiment": {
+            "score": "-0.200507",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Esme?\" said Nanny Ogg, after a while.\n\"What?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Can\u2019t say I did, Esme,\" said Nanny, smiling at the sky. \"Lancre Bridge up ahead.\"",
+          "sentiment": {
+            "score": "0.0562105",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "13"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.618717",
+        "joy": "0.049782",
+        "sadness": "0.226522",
+        "anger": "0.180969",
+        "fear": "0.048662"
+      },
+      "sentiment": {
+        "score": "-0.505454",
+        "type": "negative"
+      },
+      "relevance": "0.606117",
+      "quotations": [
+        {
+          "quotation": "\n\"You\u2019ve been a Fool long?\" said Magrat ...",
+          "sentiment": {
+            "score": "-0.180049",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"I suppose it gets handed on, from father to son?\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Still,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Didn\u2019t you want to be anything else?\" said Magrat ...",
+          "sentiment": {
+            "score": "0.0722681",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"When the other witches treat you as one, I suppose.\" Magrat sighed ...",
+          "sentiment": {
+            "score": "-0.138672",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Very,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Look, I wish you\u2019d stop working for the duke,\" said Magrat desperately. \"You know what he\u2019s like. Torturing people and setting fire to their cottages and everything.\"",
+          "sentiment": {
+            "score": "0.202619",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "Magrat desperately. \"You know what he\u2019s like. Torturing people and setting fire to their cottages and everything.\"\n\"But I\u2019m his Fool,\" said the Fool. \"A Fool has to be loyal to his master. Right up until he dies. I\u2019m afraid it\u2019s tradition. Tradition is very important.\"",
+          "sentiment": {
+            "score": "0.054235",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "Magrat desperately. \"You know what he\u2019s like. Torturing people and setting fire to their cottages and everything.\"\n\"But I\u2019m his Fool,\" said the Fool. \"A Fool has to be loyal to his master. Right up until he dies. I\u2019m afraid it\u2019s tradition. Tradition is very important.\"\n\"But you don\u2019t even like being a Fool!\"\n\"I hate it. But that\u2019s got nothing to do with it. If I\u2019ve got to be a Fool, I\u2019ll do it properly.\"",
+          "sentiment": {
+            "type": "neutral",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"That\u2019s really stupid,\" said Magrat.\n\"Foolish, I\u2019d prefer.\"",
+          "sentiment": {
+            "score": "-0.127009",
+            "type": "negative",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "14"
+    },
+    {
+      "type": "Facility",
+      "text": "Gytha Ogg",
+      "emotions": {
+        "disgust": "0.258591",
+        "joy": "0.045312",
+        "sadness": "0.317717",
+        "anger": "0.044528",
+        "fear": "0.43394"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.372039",
+      "count": "3"
+    },
+    {
+      "type": "City",
+      "text": "Lancre",
+      "emotions": {
+        "disgust": "0.068058",
+        "joy": "0.517686",
+        "sadness": "0.254403",
+        "anger": "0.092396",
+        "fear": "0.113152"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.352489",
+      "count": "3"
+    },
+    {
+      "type": "Person",
+      "text": "Esme",
+      "emotions": {
+        "disgust": "0.280752",
+        "joy": "0.080226",
+        "sadness": "0.425231",
+        "anger": "0.067401",
+        "fear": "0.244909"
+      },
+      "sentiment": {
+        "score": "-0.463177",
+        "type": "negative"
+      },
+      "relevance": "0.31184",
+      "count": "4"
+    },
+    {
+      "type": "Organization",
+      "text": "Guild",
+      "emotions": {
+        "disgust": "0.237992",
+        "joy": "0.328415",
+        "sadness": "0.309162",
+        "anger": "0.158087",
+        "fear": "0.047269"
+      },
+      "sentiment": {
+        "score": "-0.661824",
+        "type": "negative"
+      },
+      "relevance": "0.305368",
+      "count": "3",
+      "disambiguated": {
+        "name": "Guild",
+        "dbpedia": "http://dbpedia.org/resource/Guild",
+        "freebase": "http://rdf.freebase.com/ns/m.037wh"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Brother Jape",
+      "emotions": {
+        "disgust": "0.210261",
+        "joy": "0.197438",
+        "sadness": "0.485118",
+        "anger": "0.169207",
+        "fear": "0.029254"
+      },
+      "sentiment": {
+        "score": "-0.445408",
+        "type": "negative"
+      },
+      "relevance": "0.293542",
+      "count": "2"
+    },
+    {
+      "type": "Facility",
+      "text": "Lancre Bridge",
+      "emotions": {
+        "disgust": "0.183947",
+        "joy": "0.121177",
+        "sadness": "0.252747",
+        "anger": "0.083576",
+        "fear": "0.472919"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.283778",
+      "count": "2"
+    },
+    {
+      "type": "Organization",
+      "text": "Guild of Fools",
+      "emotions": {
+        "disgust": "0.301525",
+        "joy": "0.136258",
+        "sadness": "0.361561",
+        "anger": "0.151937",
+        "fear": "0.149755"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.281997",
+      "count": "1",
+      "disambiguated": {
+        "subType": [],
+        "name": "Fools Guild",
+        "dbpedia": "http://dbpedia.org/resource/Fools_Guild",
+        "yago": "http://yago-knowledge.org/resource/Fools_Guild",
+        "freebase": "http://rdf.freebase.com/ns/m.08lfkj"
+      }
+    },
+    {
+      "type": "City",
+      "text": "Gytha",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.274022",
+      "count": "2"
+    },
+    {
+      "type": "FieldTerminology",
+      "text": "log on",
+      "emotions": {
+        "disgust": "0.353784",
+        "joy": "0.233611",
+        "sadness": "0.274702",
+        "anger": "0.056178",
+        "fear": "0.184423"
+      },
+      "sentiment": {
+        "score": "0.716646",
+        "type": "positive"
+      },
+      "relevance": "0.267733",
+      "count": "1"
+    },
+    {
+      "type": "Organization",
+      "text": "Guild of Assassins",
+      "emotions": {
+        "disgust": "0.132851",
+        "joy": "0.059654",
+        "sadness": "0.316378",
+        "anger": "0.132424",
+        "fear": "0.480747"
+      },
+      "sentiment": {
+        "score": "-0.558332",
+        "type": "negative"
+      },
+      "relevance": "0.264566",
+      "count": "1"
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Lancre Gorge",
+      "emotions": {
+        "disgust": "0.266005",
+        "joy": "0.000667",
+        "sadness": "0.37317",
+        "anger": "0.217258",
+        "fear": "0.333664"
+      },
+      "sentiment": {
+        "score": "0.137328",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.25106",
+      "count": "1"
+    },
+    {
+      "type": "Facility",
+      "text": "Lancre Castle",
+      "emotions": {
+        "disgust": "0.330344",
+        "joy": "0.186233",
+        "sadness": "0.146974",
+        "anger": "0.042739",
+        "fear": "0.365048"
+      },
+      "sentiment": {
+        "score": "-0.840202",
+        "type": "negative"
+      },
+      "relevance": "0.240871",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Lords",
+      "emotions": {
+        "disgust": "0.144266",
+        "joy": "0.221156",
+        "sadness": "0.529049",
+        "anger": "0.05064",
+        "fear": "0.106971"
+      },
+      "sentiment": {
+        "score": "-0.375239",
+        "type": "negative"
+      },
+      "relevance": "0.23879",
+      "count": "1"
+    },
+    {
+      "type": "Organization",
+      "text": "Council",
+      "emotions": {
+        "disgust": "0.291967",
+        "joy": "0.181982",
+        "sadness": "0.24552",
+        "anger": "0.160721",
+        "fear": "0.223706"
+      },
+      "sentiment": {
+        "score": "-0.562352",
+        "type": "negative"
+      },
+      "relevance": "0.230961",
+      "count": "1"
+    },
+    {
+      "type": "Organization",
+      "text": "Bladder of Honor",
+      "emotions": {
+        "disgust": "0.142187",
+        "joy": "0.42807",
+        "sadness": "0.310204",
+        "anger": "0.064002",
+        "fear": "0.067085"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.229598",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "squawks",
+      "emotions": {
+        "disgust": "0.089589",
+        "joy": "0.272763",
+        "sadness": "0.441279",
+        "anger": "0.123152",
+        "fear": "0.158631"
+      },
+      "sentiment": {
+        "score": "-0.226729",
+        "type": "negative"
+      },
+      "relevance": "0.224352",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Ankh-Morpork",
+      "emotions": {
+        "disgust": "0.291967",
+        "joy": "0.181982",
+        "sadness": "0.24552",
+        "anger": "0.160721",
+        "fear": "0.223706"
+      },
+      "sentiment": {
+        "score": "-0.562352",
+        "type": "negative"
+      },
+      "relevance": "0.222936",
+      "count": "1"
+    },
+    {
+      "type": "Sport",
+      "text": "planking",
+      "emotions": {
+        "disgust": "0.067943",
+        "joy": "0.51732",
+        "sadness": "0.254115",
+        "anger": "0.092652",
+        "fear": "0.113666"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.219803",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Jason",
+      "emotions": {
+        "disgust": "0.037663",
+        "joy": "0.516323",
+        "sadness": "0.28568",
+        "anger": "0.098683",
+        "fear": "0.091276"
+      },
+      "sentiment": {
+        "score": "0.402529",
+        "type": "positive"
+      },
+      "relevance": "0.206666",
+      "count": "1"
+    },
+    {
+      "relevance": "0.206666",
+      "count": "1",
+      "type": "Quantity",
+      "text": "one hand",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.206666",
+      "count": "1",
+      "type": "Quantity",
+      "text": "one day",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

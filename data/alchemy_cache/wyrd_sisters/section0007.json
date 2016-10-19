@@ -1,0 +1,323 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.536083",
+        "joy": "0.007694",
+        "sadness": "0.154689",
+        "anger": "0.133228",
+        "fear": "0.276869"
+      },
+      "sentiment": {
+        "score": "0.199899",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.913085",
+      "quotations": [
+        {
+          "quotation": "\n\"The pricking of my ears,\" said Granny ...",
+          "sentiment": {
+            "score": "-0.0392602",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Us,\" said Granny Weatherwax ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Not that I\u2019m aware,\" said Granny, levelly. \"You could give it a try.\"",
+          "sentiment": {
+            "score": "0.0241604",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "Granny, levelly. \"You could give it a try.\"\nOne of the soldiers stepped forward and touched the man\u2019s arm gingerly.\n\"Sir, with respect, sir, it\u2019s not a good idea\u2014\"",
+          "sentiment": {
+            "score": "-0.108323",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "Granny, levelly. \"You could give it a try.\"\nOne of the soldiers stepped forward and touched the man\u2019s arm gingerly.\n\"Sir, with respect, sir, it\u2019s not a good idea\u2014\"\n\"Be silent.\"\n\"But it\u2019s terrible bad luck to\u2014\"",
+          "sentiment": {
+            "score": "-0.10651",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Then strike, man,\" said Granny, looking over his shoulder. \"If your heart tells you, strike as hard as you dare.\"",
+          "sentiment": {
+            "score": "-0.114514",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Are you from around these parts, young man?\" said Granny ...",
+          "sentiment": {
+            "score": "0.0320062",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"But you did what you thought was right,\" said Granny.\n\"I didn\u2019t become a soldier for this. Not to go around killing people.\"",
+          "sentiment": {
+            "score": "0.317592",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Exactly right. If I was you, I\u2019d become a sailor,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"And now perhaps someone will tell us what this is all about?\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Who\u2019s he?\" said Granny Weatherwax ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Oh. That king,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Oh, dear,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "20"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.210217",
+        "joy": "0.358553",
+        "sadness": "0.172718",
+        "anger": "0.168967",
+        "fear": "0.138723"
+      },
+      "sentiment": {
+        "score": "0.49565",
+        "type": "positive"
+      },
+      "relevance": "0.324157",
+      "quotations": [
+        {
+          "quotation": "\n\"Hoofbeats?\" said Nanny Ogg. \"No one would come up here this time of night.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Soldiers fighting one another. Doesn\u2019t make sense,\" said Nanny Ogg. \"Magrat, you have a look in the coach.\"",
+          "sentiment": {
+            "score": "-0.0310269",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "7"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.239494",
+        "joy": "0.045596",
+        "sadness": "0.15142",
+        "anger": "0.109098",
+        "fear": "0.515245"
+      },
+      "sentiment": {
+        "score": "-0.274666",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.208315",
+      "quotations": [
+        {
+          "quotation": "\n\"Can you tell by the pricking of your thumbs?\" said Magrat ...",
+          "sentiment": {
+            "score": "-0.0392602",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s the badge of King Verence,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"He rules this country,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s a crown,\" said Magrat. \"It\u2019s got all spiky bits on it.\"",
+          "sentiment": {
+            "score": "-0.0614723",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "7"
+    },
+    {
+      "type": "Person",
+      "text": "Goodie Whemper",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.137064",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.239494",
+        "joy": "0.045596",
+        "sadness": "0.15142",
+        "anger": "0.109098",
+        "fear": "0.515245"
+      },
+      "sentiment": {
+        "score": "-0.0897527",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.136094",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat tremulously",
+      "emotions": {
+        "disgust": "0.164066",
+        "joy": "0.419383",
+        "sadness": "0.243544",
+        "anger": "0.073483",
+        "fear": "0.183175"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.123743",
+      "quotations": [
+        {
+          "quotation": "\n\"Perhaps they were bandits,\" said Magrat tremulously ...",
+          "sentiment": {
+            "score": "-0.295157",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "1"
+    },
+    {
+      "type": "Movie",
+      "text": "Mad Wolf",
+      "emotions": {
+        "disgust": "0.083763",
+        "joy": "0.202781",
+        "sadness": "0.351952",
+        "anger": "0.098487",
+        "fear": "0.335009"
+      },
+      "sentiment": {
+        "score": "-0.566497",
+        "type": "negative"
+      },
+      "relevance": "0.11548",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "bush",
+      "emotions": {
+        "disgust": "0.169824",
+        "joy": "0.294691",
+        "sadness": "0.439336",
+        "anger": "0.09689",
+        "fear": "0.082275"
+      },
+      "sentiment": {
+        "score": "-0.411161",
+        "type": "negative"
+      },
+      "relevance": "0.113919",
+      "count": "1"
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "King Verence",
+      "emotions": {
+        "disgust": "0.008842",
+        "joy": "0.047853",
+        "sadness": "0.397005",
+        "anger": "0.567314",
+        "fear": "0.047327"
+      },
+      "sentiment": {
+        "score": "-0.274404",
+        "type": "negative"
+      },
+      "relevance": "0.110573",
+      "count": "1"
+    },
+    {
+      "relevance": "0.110574",
+      "count": "1",
+      "type": "Quantity",
+      "text": "hundred yards",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.110574",
+      "count": "1",
+      "type": "Quantity",
+      "text": "two years",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

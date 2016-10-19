@@ -1,0 +1,291 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Granny",
+      "emotions": {
+        "disgust": "0.294755",
+        "joy": "0.000302",
+        "sadness": "0.19355",
+        "anger": "0.422321",
+        "fear": "0.279982"
+      },
+      "sentiment": {
+        "score": "0.211162",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.929777",
+      "quotations": [
+        {
+          "quotation": "\n\"You listen to me, my girl,\" said Granny. \"Demons don\u2019t care about the outward shape of things. It\u2019s what you think that matters. Get on with it.\"",
+          "sentiment": {
+            "score": "-0.220044",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Who\u2019re you?\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I\u2019ll be the judge of that,\" warned Granny, and added, \"Don\u2019t you call me woman.\"",
+          "sentiment": {
+            "score": "-0.0988138",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Well, Mr.\u2014\" Granny hesitated only fractionally\u2014\"WxrtHltl-jwlpklz, I except you\u2019re wondering why we called you here tonight.\"",
+          "sentiment": {
+            "score": "0.331318",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "Granny hesitated only fractionally\u2014\"WxrtHltl-jwlpklz, I except you\u2019re wondering why we called you here tonight.\"\n\"You\u2019re not supposed to say that,\" said the demon. \"You\u2019re supposed to say\u2014\"",
+          "sentiment": {
+            "score": "-0.101832",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Is there something strange at large in the kingdom?\" said Granny ...",
+          "sentiment": {
+            "score": "-0.202799",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Hold on, hold on,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Magrat, just kick that kindling over here, will you?\" said Granny ...",
+          "sentiment": {
+            "score": "-0.0827357",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Yes, well, we haven\u2019t got time to bandy legs with you all night,\" said Granny. \"These word games might be all right for wizards, but we\u2019ve got other fish to fry.\"",
+          "sentiment": {
+            "score": "0.224971",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Yes?\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Not a word,\" promised Granny ...",
+          "sentiment": {
+            "score": "0.253357",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"What do you mean?\" said Granny.\n\"It\u2019s unhappy. It wants a king that cares for it.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"What?\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "22"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.410378",
+      "quotations": [
+        {
+          "quotation": "\n\"Honesty is all very well,\" whispered Magrat, wretchedly, \"but somehow it isn\u2019t the same.\"",
+          "sentiment": {
+            "score": "0.317068",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"And no lying,\" said Magrat earnestly. \"Otherwise it\u2019ll be the scrubbing brush for you.\"",
+          "sentiment": {
+            "score": "-0.0812686",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"But we felt it\u2014\" Magrat began ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Lips are sealed,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"How\u2014\" Magrat began ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Yes?\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "12"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.135835",
+        "joy": "0.339232",
+        "sadness": "0.396229",
+        "anger": "0.082883",
+        "fear": "0.114262"
+      },
+      "sentiment": {
+        "score": "-0.438608",
+        "type": "negative"
+      },
+      "relevance": "0.397536",
+      "quotations": [
+        {
+          "quotation": "\n\"And I invoke and bind thee with the balding scrubbing brush of Art and the washboard of Protection,\" said Nanny ...",
+          "sentiment": {
+            "score": "0.147333",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Where were you when the vowels were handed out? Behind the door?\" said Nanny Ogg ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Get on with it,\" said Nanny. \"My feet are freezing out here.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Or boil,\" said Nanny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"There\u2019s some old oil in the can on the shelf, Magrat,\" said Nanny ...",
+          "sentiment": {
+            "score": "-0.0249567",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"What\u2014\" Nanny began ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "8"
+    },
+    {
+      "type": "City",
+      "text": "Gytha",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.16442",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Klatch",
+      "emotions": {
+        "disgust": "0.066628",
+        "joy": "0.013746",
+        "sadness": "0.496146",
+        "anger": "0.147849",
+        "fear": "0.359605"
+      },
+      "sentiment": {
+        "score": "-0.244547",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.156498",
+      "count": "1"
+    },
+    {
+      "type": "Degree",
+      "text": "sword of Art",
+      "emotions": {
+        "disgust": "0.076277",
+        "joy": "0.297161",
+        "sadness": "0.208524",
+        "anger": "0.096112",
+        "fear": "0.388761"
+      },
+      "sentiment": {
+        "score": "0.301549",
+        "type": "positive"
+      },
+      "relevance": "0.150316",
+      "count": "1"
+    },
+    {
+      "relevance": "0.150316",
+      "count": "1",
+      "type": "Quantity",
+      "text": "two feet",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

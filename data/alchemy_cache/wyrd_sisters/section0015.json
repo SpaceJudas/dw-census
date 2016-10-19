@@ -1,0 +1,343 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Granny",
+      "emotions": {
+        "disgust": "0.359286",
+        "joy": "0.016524",
+        "sadness": "0.48258",
+        "anger": "0.085754",
+        "fear": "0.183805"
+      },
+      "sentiment": {
+        "score": "0.358482",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.859959",
+      "quotations": [
+        {
+          "quotation": "Granny thought sourly, was well along that path which would probably end up with her usual dancing on the table, showing her petticoats and singing \"The Hedgehog Can Never be Buggered at All.\"",
+          "sentiment": {
+            "score": "0.202069",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Only, you see, there is this child,\" said Granny, indicating the baby in Nanny Ogg\u2019s arms. \"And he needs a home.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"He hasn\u2019t got one,\" said Granny. \"At least, not one where he would be welcome.\"",
+          "sentiment": {
+            "score": "-0.137065",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"We don\u2019t, do we?\" said Granny, calmly. \"Naturally we\u2019d like to hear how he gets along. You could send us letters and suchlike. But it would not be a good idea to talk about all this after you\u2019ve left, do you see? For the sake of the child.\"",
+          "sentiment": {
+            "score": "-0.281944",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Tom,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Good,\" said Granny.\n\"Our crown looked really tatty compared to the others!\"",
+          "sentiment": {
+            "score": "-0.421222",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"It just goes to show, doesn\u2019t it,\" said Granny. \"Did anyone see you?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Did he?\" said Granny. \"And then what?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "Granny. \"And then what?\"\n\"And then, and then\u2014\"\n\"Yes?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "Granny. \"And then what?\"\n\"And then, and then\u2014\"\n\"Yes?\"\n\"He said, he said\u2014\"\n\"What did he say?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"You know,\" said Granny, with an edge of desperation in her voice. \"Men and such.\"",
+          "sentiment": {
+            "score": "-0.545577",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "Granny, with an edge of desperation in her voice. \"Men and such.\"\nMagrat looked as if she was about to panic. \"What about them?\"",
+          "sentiment": {
+            "score": "-0.492732",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "20"
+    },
+    {
+      "type": "Person",
+      "text": "Mrs. Vitoller",
+      "emotions": {
+        "disgust": "0.316677",
+        "joy": "0.019971",
+        "sadness": "0.493037",
+        "anger": "0.123301",
+        "fear": "0.137316"
+      },
+      "sentiment": {
+        "score": "0.0586207",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.357972",
+      "quotations": [
+        {
+          "quotation": "\n\"No, I see,\" said Mrs. Vitoller, quietly. \"No. We had a little girl once.\"",
+          "sentiment": {
+            "score": "-0.321033",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\nMrs. Vitoller said, \"Why does he need a home?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "Mrs. Vitoller said, \"And you, who ask this, you are by way of being his\u2014?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Money is, alas, tight\u2014\" Vitoller began ...",
+          "sentiment": {
+            "score": "-0.347074",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"A hundred times over, I should think,\" said Vitoller weakly. \"Why didn\u2019t you mention this before?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"But you don\u2019t know anything about us!\" said Mrs. Vitoller ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"What\u2019s his name?\" said Vitoller ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "13"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.062741",
+        "joy": "0.56398",
+        "sadness": "0.177574",
+        "anger": "0.060364",
+        "fear": "0.191946"
+      },
+      "sentiment": {
+        "score": "0.295976",
+        "type": "positive"
+      },
+      "relevance": "0.287141",
+      "quotations": [
+        {
+          "quotation": "\n\"She means\u2014\" Nanny Ogg began ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Godmothers,\" said Nanny Ogg ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"John,\" said Nanny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "5"
+    },
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.07206",
+        "joy": "0.473501",
+        "sadness": "0.216088",
+        "anger": "0.057764",
+        "fear": "0.22901"
+      },
+      "sentiment": {
+        "score": "0.461205",
+        "type": "positive"
+      },
+      "relevance": "0.269499",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Granny ruminated",
+      "emotions": {
+        "disgust": "0.475587",
+        "joy": "0.021125",
+        "sadness": "0.329304",
+        "anger": "0.184933",
+        "fear": "0.105338"
+      },
+      "sentiment": {
+        "score": "-0.494385",
+        "type": "negative"
+      },
+      "relevance": "0.247188",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.139054",
+        "joy": "0.476783",
+        "sadness": "0.25399",
+        "anger": "0.064672",
+        "fear": "0.115526"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.183755",
+      "quotations": [
+        {
+          "quotation": "\n\"No, everyone was too busy, but\u2014\" Magrat hesitated, and blushed.\n\"Out with it, girl.\"",
+          "sentiment": {
+            "score": "-0.0933052",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"It was her leg, you know,\" said Magrat.\n\"But she taught you all the midwifery and everything?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Oh, yes, that,\" said Magrat. \"I done lots.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "Magrat. \"I done lots.\"\n\"But\u2014\" Granny hesitated, groping her way across unfamiliar territory\u2014\"she never talked about what you might call the previous.\"\n\"Sorry?\"",
+          "sentiment": {
+            "score": "-0.179509",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "5"
+    },
+    {
+      "type": "City",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.139054",
+        "joy": "0.476783",
+        "sadness": "0.25399",
+        "anger": "0.064672",
+        "fear": "0.115526"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.127245",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Vitollers",
+      "emotions": {
+        "disgust": "0.12528",
+        "joy": "0.308129",
+        "sadness": "0.497535",
+        "anger": "0.06702",
+        "fear": "0.10029"
+      },
+      "sentiment": {
+        "score": "-0.596629",
+        "type": "negative"
+      },
+      "relevance": "0.12291",
+      "count": "2"
+    },
+    {
+      "type": "Person",
+      "text": "Tom John",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.119326",
+      "count": "3",
+      "disambiguated": {
+        "name": "Tom John",
+        "dbpedia": "http://dbpedia.org/resource/Tom_John",
+        "freebase": "http://rdf.freebase.com/ns/m.0h94vf2"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

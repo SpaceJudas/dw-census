@@ -1,0 +1,262 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Granny",
+      "emotions": {
+        "disgust": "0.151934",
+        "joy": "0.012226",
+        "sadness": "0.308011",
+        "anger": "0.404227",
+        "fear": "0.234544"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.872294",
+      "quotations": [
+        {
+          "quotation": "\n\"I wonder how they get all them kings and lords to come here and do this?\" said Granny, totally unabashed. \"I\u2019d have thought they\u2019d been too busy. Ruling and similar.\"",
+          "sentiment": {
+            "score": "0.0248694",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Well, I\u2019m going to get to the bottom of it,\" snapped Granny ...",
+          "sentiment": {
+            "score": "0.211552",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"You!\" she shouted. \"You\u2019re dead!\"",
+          "sentiment": {
+            "score": "-0.22332",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"I know you,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\"You done the murder.\" She looked sideways at Magrat, and admitted, grudgingly, \"Leastways, it looked like it.\"",
+          "sentiment": {
+            "score": "-0.184378",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Yes, well,\" said Granny ...",
+          "sentiment": {
+            "score": "0.514284",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"I expect you could,\" said Granny. \"I expect you could say anything, Mr. Vitoller.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "18"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.127814",
+        "joy": "0.383346",
+        "sadness": "0.234188",
+        "anger": "0.15963",
+        "fear": "0.17707"
+      },
+      "sentiment": {
+        "score": "-0.332164",
+        "type": "negative"
+      },
+      "relevance": "0.356143",
+      "quotations": [
+        {
+          "quotation": "\n\"No,\" said Magrat, wearily. \"I still don\u2019t think you quite understand.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I hope we didn\u2019t upset things,\" said Magrat ...",
+          "sentiment": {
+            "score": "-0.293786",
+            "type": "negative",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "6"
+    },
+    {
+      "type": "Person",
+      "text": "Olwyn Vitoller",
+      "emotions": {
+        "disgust": "0.191613",
+        "joy": "0.012896",
+        "sadness": "0.578556",
+        "anger": "0.202052",
+        "fear": "0.164456"
+      },
+      "sentiment": {
+        "score": "-0.588084",
+        "type": "negative"
+      },
+      "relevance": "0.354746",
+      "quotations": [
+        {
+          "quotation": "\n\"My dear lady,\" said Vitoller. \"Could I begin to tell you how gratifying it is for a mere mummer to learn that his audience has seen behind the mere shell of greasepaint to the spirit beneath?\"",
+          "sentiment": {
+            "score": "0.0431272",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"And now,\" he said",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"And now,\" he said, \"to what do I owe this visit from three such charming ladies?\"",
+          "sentiment": {
+            "score": "0.311934",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "8"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.073427",
+        "joy": "0.563619",
+        "sadness": "0.218836",
+        "anger": "0.075809",
+        "fear": "0.130438"
+      },
+      "sentiment": {
+        "score": "0.241819",
+        "type": "positive"
+      },
+      "relevance": "0.241879",
+      "quotations": [
+        {
+          "quotation": "\n\"I thought you was very good, too,\" said Nanny Ogg. \"The way you shouted all them words so graciously. I could tell you was a king.\"",
+          "sentiment": {
+            "score": "0.323657",
+            "type": "positive",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "2"
+    },
+    {
+      "type": "Person",
+      "text": "bush",
+      "emotions": {
+        "disgust": "0.145832",
+        "joy": "0.269558",
+        "sadness": "0.390512",
+        "anger": "0.20172",
+        "fear": "0.072749"
+      },
+      "sentiment": {
+        "score": "-0.0519224",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.189674",
+      "quotations": [
+        {
+          "quotation": "\n\"See?\" she said to the world in general in a strangely satisfied voice. \"Nothing\u2019s real! It\u2019s all just paint, and sticks and paper at the back.\"",
+          "sentiment": {
+            "score": "0.0390387",
+            "type": "positive",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "2"
+    },
+    {
+      "type": "Crime",
+      "text": "murder.",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "score": "-0.236462",
+        "type": "negative"
+      },
+      "relevance": "0.185389",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Mr. Vitoller.",
+      "emotions": {
+        "disgust": "0.089002",
+        "joy": "0.401007",
+        "sadness": "0.39176",
+        "anger": "0.056696",
+        "fear": "0.116957"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.171064",
+      "quotations": [
+        {
+          "quotation": "\n\"We\u2019d like to talk to you, Mr. Vitoller.\" She indicated the actors, who were dismantling the set and staying well out of her way, and added in a conspiratorial whisper, \"Somewhere private.\"",
+          "sentiment": {
+            "score": "0.231643",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "She indicated the actors, who were dismantling the set and staying well out of her way, and added in a conspiratorial whisper, \"Somewhere private.\"\n\"Dear lady, but of a certain,\" he said. \"Currently I have lodgings in yonder esteemed watering hole.\"",
+          "sentiment": {
+            "score": "0.127649",
+            "type": "positive",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "2"
+    },
+    {
+      "relevance": "0.171064",
+      "count": "1",
+      "type": "Quantity",
+      "text": "one hand",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

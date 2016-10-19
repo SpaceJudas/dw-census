@@ -1,0 +1,260 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.198044",
+        "joy": "0.153744",
+        "sadness": "0.281708",
+        "anger": "0.296274",
+        "fear": "0.151673"
+      },
+      "sentiment": {
+        "score": "-0.0750574",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.954397",
+      "quotations": [
+        {
+          "quotation": "\n\"Calm down, calm down,\" screamed Hwel. \"It\u2019ll all be all right on the night!\"",
+          "sentiment": {
+            "score": "0.0601198",
+            "type": "positive",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "12"
+    },
+    {
+      "type": "City",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.198044",
+        "joy": "0.153744",
+        "sadness": "0.281708",
+        "anger": "0.296274",
+        "fear": "0.151673"
+      },
+      "sentiment": {
+        "score": "-0.504238",
+        "type": "negative"
+      },
+      "relevance": "0.471897",
+      "count": "4"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.165245",
+        "joy": "0.468871",
+        "sadness": "0.230798",
+        "anger": "0.121407",
+        "fear": "0.088565"
+      },
+      "sentiment": {
+        "score": "0.343689",
+        "type": "positive"
+      },
+      "relevance": "0.401109",
+      "quotations": [
+        {
+          "quotation": "\n\"Yes,\" said Nanny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"He\u2019s the Prologue,\" said Nanny. \"You have to have him at the beginning so everyone knows what the play\u2019s about.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "Nanny. \"You have to have him at the beginning so everyone knows what the play\u2019s about.\"\n\"Can\u2019t understand a word of it,\" muttered Granny. \"What\u2019s a gentle, anyway?\"",
+          "sentiment": {
+            "score": "-0.0275585",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Type of maggot,\" said Nanny.\n\"That\u2019s nice, isn\u2019t it? \u2018Hallo maggots, welcome to the show.\u2019 Puts people in a nice frame of mind, doesn\u2019t it?\"",
+          "sentiment": {
+            "score": "0.0716475",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"These walnuts are damn tough,\" said Nanny, spitting one out into her hand. \"I\u2019m going to have to take my shoe off to this one.\"",
+          "sentiment": {
+            "score": "-0.0852936",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "6"
+    },
+    {
+      "type": "Person",
+      "text": "Granny",
+      "emotions": {
+        "disgust": "0.139294",
+        "joy": "0.366762",
+        "sadness": "0.371005",
+        "anger": "0.085491",
+        "fear": "0.113729"
+      },
+      "sentiment": {
+        "score": "0.200276",
+        "type": "positive"
+      },
+      "relevance": "0.389652",
+      "quotations": [
+        {
+          "quotation": "\n\"What\u2019s this?\" hissed Granny. \"Who\u2019s the fellow in the tights?\"",
+          "sentiment": {
+            "score": "-0.13418",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "4"
+    },
+    {
+      "type": "Person",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.129525",
+        "joy": "0.278988",
+        "sadness": "0.588564",
+        "anger": "0.051362",
+        "fear": "0.030443"
+      },
+      "sentiment": {
+        "score": "-0.660367",
+        "type": "negative"
+      },
+      "relevance": "0.235584",
+      "count": "2"
+    },
+    {
+      "type": "Person",
+      "text": "Lancre",
+      "emotions": {
+        "disgust": "0.17584",
+        "joy": "0.058136",
+        "sadness": "0.455433",
+        "anger": "0.142675",
+        "fear": "0.288185"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.223548",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "King Verence",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.211234",
+      "quotations": [
+        {
+          "quotation": "\n\"No, thank you,\" said King Verence, waving a spectral hand. \"They go right through me, you know.\"",
+          "sentiment": {
+            "score": "-0.026609",
+            "type": "negative",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Dysk",
+      "emotions": {
+        "disgust": "0.076334",
+        "joy": "0.104632",
+        "sadness": "0.69289",
+        "anger": "0.091877",
+        "fear": "0.121536"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.191586",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Corporal Walkowski",
+      "emotions": {
+        "disgust": "0.280695",
+        "joy": "0.324076",
+        "sadness": "0.256478",
+        "anger": "0.030019",
+        "fear": "0.218817"
+      },
+      "sentiment": {
+        "score": "-0.30714",
+        "type": "negative"
+      },
+      "relevance": "0.187277",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Wimsloe",
+      "emotions": {
+        "disgust": "0.214924",
+        "joy": "0.003765",
+        "sadness": "0.268442",
+        "anger": "0.075699",
+        "fear": "0.573001"
+      },
+      "sentiment": {
+        "score": "-0.508235",
+        "type": "negative"
+      },
+      "relevance": "0.172344",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Brattsley",
+      "emotions": {
+        "disgust": "0.116972",
+        "joy": "0.031172",
+        "sadness": "0.563662",
+        "anger": "0.24268",
+        "fear": "0.14461"
+      },
+      "sentiment": {
+        "score": "-0.489418",
+        "type": "negative"
+      },
+      "relevance": "0.163759",
+      "count": "1"
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

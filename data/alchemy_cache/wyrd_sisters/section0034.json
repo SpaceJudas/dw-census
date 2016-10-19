@@ -1,0 +1,488 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.079405",
+        "joy": "0.194041",
+        "sadness": "0.247538",
+        "anger": "0.165388",
+        "fear": "0.354031"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.878224",
+      "quotations": [
+        {
+          "quotation": "\n\"Don\u2019t matter! Don\u2019t matter!\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"What are you going to do about the burghers?\" said Granny.\n\"I told them they\u2019ll have to sort it out themselves. Once we use magic, I said, it\u2019d never stop. You know that.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Right,\" said Granny ...",
+          "sentiment": {
+            "score": "0.12608",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"He\u2019s just called Fool,\" said Granny. \"No job for a man, that. Running around with bells on.\"",
+          "sentiment": {
+            "score": "-0.138071",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Why d\u2019you want to know, Magrat?\" said Granny Weatherwax ...",
+          "sentiment": {
+            "score": "0.0789797",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Huh,\" said Granny. \"A man who tinkles all day. No kind of husband for anyone, I\u2019d say.\"",
+          "sentiment": {
+            "type": "neutral",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Never trust a man with horns on his hat,\" said Granny ...",
+          "sentiment": {
+            "score": "-0.100981",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s all these books they read today,\" said Granny. \"It overheats the brain. You haven\u2019t been putting ideas in her head, have you?\"",
+          "sentiment": {
+            "score": "0.114346",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "Granny. \"It overheats the brain. You haven\u2019t been putting ideas in her head, have you?\"\n\"What do you mean?\"\n\"You know what I mean.\"",
+          "sentiment": {
+            "score": "0.120806",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"None of your girls is a witch,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"If I\u2019d ever what?\" said Granny Weatherwax ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"At least I spent most of the time upright,\" said Granny. \"Disgustin\u2019, that was. Everyone thought so.\"",
+          "sentiment": {
+            "score": "-0.113209",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"You were the talk of the whole village,\" said Granny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I wouldn\u2019t sully my lips by sayin\u2019 what they called you,\" shouted Granny ...",
+          "sentiment": {
+            "score": "-0.0922706",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"I should have known better than to listen to Magrat,\" growled Granny. \"This coven business is ridiculous. It attracts entirely the wrong sort of people.\"",
+          "sentiment": {
+            "score": "-0.171342",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"I really don\u2019t have time for all this,\" snapped Granny, trembling. \"I have far more important things to do.\"",
+          "sentiment": {
+            "score": "0.2044",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "18"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny",
+      "emotions": {
+        "disgust": "0.431498",
+        "joy": "0.193578",
+        "sadness": "0.256264",
+        "anger": "0.096969",
+        "fear": "0.113584"
+      },
+      "sentiment": {
+        "score": "0.292763",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.823557",
+      "quotations": [
+        {
+          "quotation": "\"I can see you\u2019ve been thinking about this a lot,\" said Nanny, speaking very slowly and carefully. \"And this kingdom wants a better king, is that it?\"",
+          "sentiment": {
+            "score": "0.0125657",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Well, then,\" said Nanny. \"No one and nothing likes Felmet. What are we going to do about it?\"",
+          "sentiment": {
+            "score": "-0.0634214",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"You saved that baby,\" said Nanny.\n\"That\u2019s not meddling!\"",
+          "sentiment": {
+            "score": "0.0558852",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Have it your way,\" said Nanny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I\u2019ll tell you this, though,\" said Nanny. \"They didn\u2019t like it much. They was muttering when they left.\"",
+          "sentiment": {
+            "score": "-0.0383956",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Little man with runny eyes?\" said Nanny ...",
+          "sentiment": {
+            "score": "-0.168022",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"It\u2019s a steady job,\" said Nanny. \"I\u2019ll grant you that.\"",
+          "sentiment": {
+            "score": "0.259247",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"You\u2014she\u2019d always know where he was,\" said Nanny, who was enjoying this. \"You\u2019d just have to listen.\"",
+          "sentiment": {
+            "score": "0.0500565",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Well!\" said Nanny ...",
+          "sentiment": {
+            "score": "0.514284",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"They could have been,\" said Nanny defensively.\n\"Yes, if you\u2019d let them work it out for themselves, instead of encouragin\u2019 them to throw themselves at men.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I knew you when you were a gel,\" said Nanny sullenly. \"Stuck-up, you were.\"",
+          "sentiment": {
+            "score": "0.0504529",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"How would you know?\" snapped Nanny ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"And you were, too! They called you the Ice Maiden. Never knew that, did you?\" sneered Nanny ...",
+          "sentiment": {
+            "score": "-0.0749683",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"Oh yes?\" shrieked Nanny. \"Well, let me tell you, my good woman\u2014\"",
+          "sentiment": {
+            "score": "0.310278",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"And me,\" said Nanny.\n\"Good night to you.\"",
+          "sentiment": {
+            "score": "0.396716",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "17"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.043467",
+        "joy": "0.261959",
+        "sadness": "0.313982",
+        "anger": "0.075815",
+        "fear": "0.363211"
+      },
+      "sentiment": {
+        "score": "0.0286651",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.44245",
+      "quotations": [
+        {
+          "quotation": "\n\"His mother was a Beldame, from over Blackglass way,\" said Nanny Ogg ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I\u2019m very glad we had this little talk,\" hissed Nanny Ogg. \"Cleared the air.\"",
+          "sentiment": {
+            "score": "0.176459",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "Nanny Ogg. \"Cleared the air.\"\nShe looked down.\n\"And you\u2019re in my territory, madam.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "3"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny wretchedly",
+      "emotions": {
+        "disgust": "0.184437",
+        "joy": "0.308035",
+        "sadness": "0.261664",
+        "anger": "0.109631",
+        "fear": "0.215648"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.337166",
+      "quotations": [
+        {
+          "quotation": "\n\"Yes, but,\" said Nanny wretchedly ...",
+          "sentiment": {
+            "score": "-0.438864",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.088523",
+        "joy": "0.235304",
+        "sadness": "0.534399",
+        "anger": "0.10911",
+        "fear": "0.127178"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.312428",
+      "quotations": [
+        {
+          "quotation": "\n\"It\u2019s a bit like a dog, really,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Not that little,\" said Magrat. \"What\u2019s his name, do you happen to know?\"",
+          "sentiment": {
+            "score": "0.258872",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Oh\u2026one of the girls in the village was asking me,\" said Magrat ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "7"
+    },
+    {
+      "type": "City",
+      "text": "Lancre",
+      "emotions": {
+        "disgust": "0.16128",
+        "joy": "0.020903",
+        "sadness": "0.73613",
+        "anger": "0.044027",
+        "fear": "0.115525"
+      },
+      "sentiment": {
+        "score": "-0.386528",
+        "type": "negative"
+      },
+      "relevance": "0.193277",
+      "count": "2"
+    },
+    {
+      "type": "Crime",
+      "text": "murder",
+      "emotions": {
+        "disgust": "0.306007",
+        "joy": "0.005783",
+        "sadness": "0.590037",
+        "anger": "0.170813",
+        "fear": "0.051239"
+      },
+      "sentiment": {
+        "score": "-0.400353",
+        "type": "negative"
+      },
+      "relevance": "0.171712",
+      "count": "2"
+    },
+    {
+      "type": "City",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0.088523",
+        "joy": "0.235304",
+        "sadness": "0.534399",
+        "anger": "0.10911",
+        "fear": "0.127178"
+      },
+      "sentiment": {
+        "score": "-0.700661",
+        "type": "negative"
+      },
+      "relevance": "0.166601",
+      "count": "1"
+    },
+    {
+      "type": "Degree",
+      "text": "Beldame",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.142216",
+      "count": "1"
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Ice Maiden",
+      "emotions": {
+        "disgust": "0.564473",
+        "joy": "0.050218",
+        "sadness": "0.20173",
+        "anger": "0.175072",
+        "fear": "0.071319"
+      },
+      "sentiment": {
+        "score": "0.316178",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.141486",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Lancre",
+      "emotions": {
+        "disgust": "0.16128",
+        "joy": "0.020903",
+        "sadness": "0.73613",
+        "anger": "0.044027",
+        "fear": "0.115525"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.135172",
+      "count": "1"
+    },
+    {
+      "type": "City",
+      "text": "Blackglass",
+      "emotions": {
+        "disgust": "0.254533",
+        "joy": "0.277665",
+        "sadness": "0.273419",
+        "anger": "0.138586",
+        "fear": "0.136115"
+      },
+      "sentiment": {
+        "score": "-0.489083",
+        "type": "negative"
+      },
+      "relevance": "0.129268",
+      "count": "1"
+    },
+    {
+      "relevance": "0.129268",
+      "count": "1",
+      "type": "Quantity",
+      "text": "one day",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

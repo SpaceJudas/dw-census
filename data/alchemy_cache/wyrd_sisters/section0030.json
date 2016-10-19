@@ -1,0 +1,224 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.18727",
+        "joy": "0.072833",
+        "sadness": "0.548064",
+        "anger": "0.064808",
+        "fear": "0.231874"
+      },
+      "sentiment": {
+        "score": "-0.49156",
+        "type": "negative"
+      },
+      "relevance": "0.821372",
+      "quotations": [
+        {
+          "quotation": "\n\"That was the Worm speech from The Tyrant,\" whispered Hwel ...",
+          "sentiment": {
+            "score": "-0.224779",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\"Bloody hell,\" he said.\n\"But he sounded just like\u2014\"",
+          "sentiment": {
+            "score": "-0.428699",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"I\u2019m going to get Vitoller,\" said Hwel ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\"He\u2019s quoting!\" he shouted. \"You\u2019ve got to come! He sounds just like\u2014\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"He spends all his time around the stage, master. It\u2019s only natural that he should pick things up,\" said Hwel ...",
+          "sentiment": {
+            "score": "0.134432",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"I believe I heard a voice that took my doggerel and shaped it and fired it back through my ears and straight into my heart,\" said Hwel simply. \"I believe I heard a voice that got behind the crude shape of the words and said the things I had meant them to say, but had not the skill to achieve. Who knows where such things come from?\"",
+          "sentiment": {
+            "score": "-0.236445",
+            "type": "negative",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "14"
+    },
+    {
+      "type": "Person",
+      "text": "Vitoller",
+      "emotions": {
+        "disgust": "0.074935",
+        "joy": "0.397869",
+        "sadness": "0.315365",
+        "anger": "0.066973",
+        "fear": "0.213192"
+      },
+      "sentiment": {
+        "score": "-0.281833",
+        "type": "negative"
+      },
+      "relevance": "0.484338",
+      "quotations": [
+        {
+          "quotation": "\n\"Me?\" said Vitoller, a few minutes later, after they had pulled the lattys into a grove of leafless trees by the roadside. \"Do I sound like that?\"",
+          "sentiment": {
+            "score": "-0.0627018",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"If you sounded like that, my bonny,\" he said, \"you wouldn\u2019t be standing arse-deep in slush in the middle of these forsaken fields, with nothing but liberated cabbage for thy tea.\"",
+          "sentiment": {
+            "score": "0.623562",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"No more, no more,\" he said, his breath making puffs of steam in the freezing air. \"Backs to it, everybody. We must be outside the walls of Sto Lat by sunset.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "9"
+    },
+    {
+      "type": "Person",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.574388",
+        "joy": "0.047872",
+        "sadness": "0.194975",
+        "anger": "0.133838",
+        "fear": "0.16474"
+      },
+      "sentiment": {
+        "score": "-0.348484",
+        "type": "negative"
+      },
+      "relevance": "0.373074",
+      "quotations": [
+        {
+          "quotation": "\n\"Here, boy, do you know my speech from Please Yourself?\" he said ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "9"
+    },
+    {
+      "type": "City",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.18727",
+        "joy": "0.072833",
+        "sadness": "0.548064",
+        "anger": "0.064808",
+        "fear": "0.231874"
+      },
+      "sentiment": {
+        "score": "-0.568744",
+        "type": "negative"
+      },
+      "relevance": "0.362197",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Young Willikins",
+      "emotions": {
+        "disgust": "0.085964",
+        "joy": "0.05943",
+        "sadness": "0.65665",
+        "anger": "0.255761",
+        "fear": "0.08145"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.256291",
+      "quotations": [
+        {
+          "quotation": "\n\"Do I sound like that?\" said Willikins ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "2"
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "lattys Vitoller",
+      "emotions": {
+        "disgust": "0.069127",
+        "joy": "0.113914",
+        "sadness": "0.697493",
+        "anger": "0.106136",
+        "fear": "0.090925"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.245648",
+      "count": "1"
+    },
+    {
+      "type": "Company",
+      "text": "apple",
+      "emotions": {
+        "disgust": "0.400368",
+        "joy": "0.348494",
+        "sadness": "0.183098",
+        "anger": "0.104362",
+        "fear": "0.036959"
+      },
+      "sentiment": {
+        "score": "-0.511975",
+        "type": "negative"
+      },
+      "relevance": "0.222816",
+      "count": "1"
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Sto Lat",
+      "emotions": {
+        "disgust": "0.079905",
+        "joy": "0.428429",
+        "sadness": "0.082889",
+        "anger": "0.086002",
+        "fear": "0.368422"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.215768",
+      "count": "1"
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

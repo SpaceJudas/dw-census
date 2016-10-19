@@ -1,0 +1,380 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.174284",
+        "joy": "0.137686",
+        "sadness": "0.570217",
+        "anger": "0.091388",
+        "fear": "0.096451"
+      },
+      "sentiment": {
+        "score": "0.140455",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.848201",
+      "quotations": [
+        {
+          "quotation": "\n\"Actually, it felt rather\u2014\" Tomjon began ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"And there wasn\u2019t any need for you to tell everyone I was\u2014adopted,\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I don\u2019t want to be a king!\" Tomjon whispered hoarsely. \"Everyone says I take after dad!\"",
+          "sentiment": {
+            "score": "0.0664303",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Who would come to see me?\" said Tomjon, sagging in his seat.\n\"Everyone.\"",
+          "sentiment": {
+            "score": "-0.339881",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"But I\u2019ve already got it!\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"None of that,\" snapped Tomjon. \"What do I do next?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"No,\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"It won\u2019t,\" said Tomjon. \"I will not be king.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Hwel?\" said Tomjon desperately. \"You\u2019re good with words.\"",
+          "sentiment": {
+            "score": "0.296498",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "22"
+    },
+    {
+      "type": "Person",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.281261",
+        "joy": "0.001729",
+        "sadness": "0.522883",
+        "anger": "0.144065",
+        "fear": "0.238333"
+      },
+      "sentiment": {
+        "score": "-0.241496",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.728314",
+      "quotations": [
+        {
+          "quotation": "\n\"You could build your own theater,\" said Hwel, his eyes lighting up for a moment. \"With as many trapdoors as you wanted, and magnificent costumes. You could act in a new play every night. I mean, it would make the Dysk look like a shed.\"",
+          "sentiment": {
+            "score": "0.108997",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"You could order them to,\" said Hwel ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"That would be nice, yes,\" said Hwel ...",
+          "sentiment": {
+            "score": "0.200184",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Another problem,\" said Hwel ...",
+          "sentiment": {
+            "score": "-0.125708",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "Hwel said, \"The only chance you\u2019d have is if there was another heir. You don\u2019t remember any brothers and sisters, do you?\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "10"
+    },
+    {
+      "type": "Person",
+      "text": "Granny Weatherwax",
+      "emotions": {
+        "disgust": "0.36939",
+        "joy": "0.028232",
+        "sadness": "0.322206",
+        "anger": "0.214654",
+        "fear": "0.143579"
+      },
+      "sentiment": {
+        "score": "0.354127",
+        "type": "positive",
+        "mixed": "1"
+      },
+      "relevance": "0.689472",
+      "quotations": [
+        {
+          "quotation": "\n\"Ah,\" said Granny. \"Yes, the crown. It\u2019s on his head, d\u2019you see? We hid it among the crowns when the actors left, the reason being, no one would look for it there. See how it fits him so perfectly.\"",
+          "sentiment": {
+            "score": "-0.0267676",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"We had to,\" said Granny Weatherwax.\n\"I thought the baker was a bit early last week.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "Granny Weatherwax.\n\"I thought the baker was a bit early last week.\"\n\"No, no,\" said the witch impatiently. \"It doesn\u2019t work like that. No one\u2019s lost anything.\"",
+          "sentiment": {
+            "score": "-0.180624",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"It might be a good idea to hold the coronation tomorrow,\" said Granny. \"It\u2019s not good for a kingdom to be without a ruler. It doesn\u2019t like it.\"",
+          "sentiment": {
+            "score": "-0.0296999",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Don\u2019t worry,\" said Granny firmly. \"Everyone wants to come and swear loyalty to you. You just nod graciously and ask everyone what they do and if they enjoy it. Oh, and you\u2019d better give them the crown back.\"",
+          "sentiment": {
+            "type": "neutral",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Yes,\" said Granny. \"But much more important.\"",
+          "sentiment": {
+            "score": "0.254921",
+            "type": "positive"
+          }
+        }
+      ],
+      "count": "12"
+    },
+    {
+      "type": "City",
+      "text": "Lancre",
+      "emotions": {
+        "disgust": "0.611567",
+        "joy": "0.023688",
+        "sadness": "0.165767",
+        "anger": "0.156342",
+        "fear": "0.156547"
+      },
+      "sentiment": {
+        "score": "-0.519426",
+        "type": "negative"
+      },
+      "relevance": "0.394241",
+      "count": "4"
+    },
+    {
+      "type": "City",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.174284",
+        "joy": "0.137686",
+        "sadness": "0.570217",
+        "anger": "0.091388",
+        "fear": "0.096451"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.343163",
+      "count": "2"
+    },
+    {
+      "type": "Facility",
+      "text": "Great Hall",
+      "emotions": {
+        "disgust": "0.122152",
+        "joy": "0.126991",
+        "sadness": "0.473911",
+        "anger": "0.085607",
+        "fear": "0.25514"
+      },
+      "sentiment": {
+        "score": "0.351724",
+        "type": "positive"
+      },
+      "relevance": "0.283959",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Nanny Ogg",
+      "emotions": {
+        "disgust": "0.068394",
+        "joy": "0.491132",
+        "sadness": "0.294314",
+        "anger": "0.07067",
+        "fear": "0.136331"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.263374",
+      "quotations": [
+        {
+          "quotation": "\n\"You forgot about the crown,\" whispered Nanny Ogg ...",
+          "sentiment": {
+            "score": "-0.320713",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "1"
+    },
+    {
+      "type": "Company",
+      "text": "Dysk",
+      "emotions": {
+        "disgust": "0.130373",
+        "joy": "0.219841",
+        "sadness": "0.490827",
+        "anger": "0.168368",
+        "fear": "0.079981"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.244543",
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Lancre",
+      "emotions": {
+        "disgust": "0.611567",
+        "joy": "0.023688",
+        "sadness": "0.165767",
+        "anger": "0.156342",
+        "fear": "0.156547"
+      },
+      "sentiment": {
+        "score": "-0.184603",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.240936",
+      "quotations": [
+        {
+          "quotation": "\n\"According to my figuring,\" said the man who doubled as Lancre\u2019s beadle, town clerk and grave-digger, \"we\u2019ve all lost fifteen years.\"",
+          "sentiment": {
+            "score": "-0.228475",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "Lancre\u2019s beadle, town clerk and grave-digger, \"we\u2019ve all lost fifteen years.\"\n\"No, we\u2019ve all gained them,\" said the mayor. \"It stands to reason. Time\u2019s like this sort of wiggly road, see, but we took a short cut across the fields.\"",
+          "sentiment": {
+            "score": "-0.177487",
+            "type": "negative",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "Lancre\u2019s beadle, town clerk and grave-digger, \"we\u2019ve all lost fifteen years.\"\n\"No, we\u2019ve all gained them,\" said the mayor. \"It stands to reason. Time\u2019s like this sort of wiggly road, see, but we took a short cut across the fields.\"\n\"Not at all,\" said the clerk, sliding a sheet of paper across the table. \"Look here\u2026\"",
+          "sentiment": {
+            "score": "-0.126823",
+            "type": "negative",
+            "mixed": "1"
+          }
+        }
+      ],
+      "count": "1"
+    },
+    {
+      "type": "Person",
+      "text": "Magrat",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.221475",
+      "count": "1"
+    },
+    {
+      "relevance": "0.221475",
+      "count": "1",
+      "type": "Quantity",
+      "text": "Fifteen years",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.221475",
+      "count": "1",
+      "type": "Quantity",
+      "text": "fifteen years",
+      "sentiment": {
+        "type": "neutral"
+      }
+    },
+    {
+      "relevance": "0.221475",
+      "count": "1",
+      "type": "Quantity",
+      "text": "hundred feet",
+      "sentiment": {
+        "type": "neutral"
+      }
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}

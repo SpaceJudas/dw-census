@@ -1,0 +1,200 @@
+{
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Tomjon",
+      "emotions": {
+        "disgust": "0.150308",
+        "joy": "0.031391",
+        "sadness": "0.526043",
+        "anger": "0.200159",
+        "fear": "0.181971"
+      },
+      "sentiment": {
+        "score": "-0.252347",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.808034",
+      "quotations": [
+        {
+          "quotation": "\n\"How much did you steal?\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"How much has he got, then?\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Give it back then,\" said Tomjon.\n\"But I done him a receipt!\"",
+          "sentiment": {
+            "score": "0.0161528",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "Tomjon.\n\"But I done him a receipt!\"\n\"They\u2019ve all got, you know, numbers on,\" explained the younger of the nephews. \"The Guild checks up, sort of\u2026\"",
+          "sentiment": {
+            "score": "0.0146138",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Look after him,\" said Tomjon. \"I\u2019ll sort this out.\"",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"My client feels that possibly you could rob him of, let us say, five copper pieces,\" said Tomjon ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"I believe I am well served in that area,\" said Tomjon smoothly.\n\"Oh. Well. Right you are then. No problem.\"",
+          "sentiment": {
+            "score": "0.188129",
+            "type": "positive",
+            "mixed": "1"
+          }
+        },
+        {
+          "quotation": "\n\"Which merely leaves,\" continued Tomjon, as the thieves started to walk away, \"the question of legal fees.\"",
+          "sentiment": {
+            "score": "-0.164955",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "12"
+    },
+    {
+      "type": "Person",
+      "text": "Boggis",
+      "emotions": {
+        "disgust": "0.238472",
+        "joy": "0.086377",
+        "sadness": "0.549059",
+        "anger": "0.096723",
+        "fear": "0.079757"
+      },
+      "sentiment": {
+        "score": "-0.360774",
+        "type": "negative",
+        "mixed": "1"
+      },
+      "relevance": "0.769363",
+      "quotations": [
+        {
+          "quotation": "\n\"We\u2019ll give him a chitty, of course,\" said Boggis. \"Lucky we found him first, really. Some of these newcomers in the business, they\u2019ve got no idea.\"",
+          "sentiment": {
+            "score": "0.234673",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Oh, bleeding hell,\" he said ...",
+          "sentiment": {
+            "score": "-0.394806",
+            "type": "negative"
+          }
+        },
+        {
+          "quotation": "\n\"There must be a hundred silver dollars in here,\" moaned Boggis ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        },
+        {
+          "quotation": "\n\"Ye-es,\" said Boggis, approaching the idea as if it was a brand new theory of cosmic creation. \"But it\u2019s the receipt, see, we have to fill it up, time and place, signed and everything\u2026\"",
+          "sentiment": {
+            "score": "0.0428891",
+            "type": "positive"
+          }
+        },
+        {
+          "quotation": "\n\"Wear and tear on cosh,\" said Boggis.\n\"Exactly.\"",
+          "sentiment": {
+            "score": "-0.0618231",
+            "type": "negative"
+          }
+        }
+      ],
+      "count": "11",
+      "disambiguated": {
+        "subType": [],
+        "name": "Boggis",
+        "dbpedia": "http://dbpedia.org/resource/Boggis",
+        "yago": "http://yago-knowledge.org/resource/Boggis",
+        "freebase": "http://rdf.freebase.com/ns/m.0h2678"
+      }
+    },
+    {
+      "type": "Person",
+      "text": "Hwel",
+      "emotions": {
+        "disgust": "0.586817",
+        "joy": "0.051155",
+        "sadness": "0.099528",
+        "anger": "0.123716",
+        "fear": "0.272056"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.372246",
+      "quotations": [
+        {
+          "quotation": "\n\"Will you excuse us a moment?\" he said ...",
+          "sentiment": {
+            "type": "neutral"
+          }
+        }
+      ],
+      "count": "3"
+    },
+    {
+      "type": "Organization",
+      "text": "Guild of Lawyers",
+      "emotions": {
+        "disgust": "0.12914",
+        "joy": "0.448793",
+        "sadness": "0.137382",
+        "anger": "0.27678",
+        "fear": "0.099801"
+      },
+      "sentiment": {
+        "score": "-0.626837",
+        "type": "negative"
+      },
+      "relevance": "0.290638",
+      "count": "1"
+    },
+    {
+      "type": "Movie",
+      "text": "Cowboys",
+      "emotions": {
+        "disgust": "0",
+        "joy": "0",
+        "sadness": "0",
+        "anger": "0",
+        "fear": "0"
+      },
+      "sentiment": {
+        "type": "neutral"
+      },
+      "relevance": "0.283929",
+      "count": "1"
+    }
+  ],
+  "totalTransactions": "3",
+  "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+  "url": "",
+  "status": "OK",
+  "language": "english"
+}
