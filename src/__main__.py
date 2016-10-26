@@ -12,6 +12,11 @@ alch_cache=AlchemyApiCache(_ALCHEMYAPI_CACHE_ROOT)
 #print(_ALCHEMYAPI_CACHE_ROOT) => /Users/spencerewall/Developer/discworld-census/data/alchemy_cache
 
 
+
+filename = '/Users/spencerewall/Developer/discworld-census/data/temp/Wyrd Sisters.txt'
+open(filename).read()
+
+#alchemyCache_buildPeopleQuoteDict('wyrd_sisters')
 def alchemyCache_buildPeopleQuoteDict(bookName):
     peopleQuotes = {}
     #entities = set()
@@ -31,6 +36,3 @@ def alchemyCache_buildPeopleQuoteDict(bookName):
         #entities.update(peopleNames)
 
     print(peopleQuotes)
-
-
-alchemyCache_buildPeopleQuoteDict('wyrd_sisters')
