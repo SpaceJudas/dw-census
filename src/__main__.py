@@ -10,3 +10,4 @@ from alchemyApi.cache import AlchemyApiCache
 alch_cache=AlchemyApiCache(_ALCHEMYAPI_CACHE_ROOT)
 
 print(alch_cache.listBooks())
+print(alch_cache.listBookFiles('wyrd_sisters'))
