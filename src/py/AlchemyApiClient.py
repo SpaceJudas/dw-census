@@ -4,8 +4,8 @@ Requirements:
  - pip install --upgrade watson-developer-cloud (http://www.ibm.com/watson/developercloud/alchemy-language/api/v1/?python#introduction)
 
  example:
- import AlchemyApiAnalysis
- AlchemyApiAnalysis.callEntityExtract("wooooooo im a string")
+ import AlchemyApiClient
+ AlchemyApiClient.callEntityExtract("wooooooo im a string")
 '''
 import config
 

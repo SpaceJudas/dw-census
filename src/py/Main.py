@@ -18,7 +18,7 @@ import json
 
 import pandas
 
-import AlchemyApiAnalysis
+import AlchemyApiClient
 
 from Book import Book
 import my_utils
