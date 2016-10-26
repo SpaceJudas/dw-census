@@ -10,12 +10,9 @@ class AlchemyApiCache:
     def _getCacheBookDir(self, bookName):
         return path.join(self.cacheDirectory, bookName)
 
-    def _getCacheFilePath(self, filename):
-        return path.join(self.cacheDirectory, filename)
-
     def _loadJsonFile(self, filePath):
         fl = open(filePath, 'r')
-        jsonObj = json.loads(bookFile.read())
+        jsonObj = json.loads(fl.read())
         fl.close()
         return jsonObj
 
@@ -28,8 +25,8 @@ class AlchemyApiCache:
     def loadBookSections(self, bookName):
         sections = {}
         for fileName in self.listBookFiles(bookName):
-            filePath = _getCacheFilePath(fileName)
-            sections[fileName] = _loadJsonFile(filePath)
+            filePath = path.join(self.cacheDirectory, bookName, fileName)
+            sections[fileName] = self._loadJsonFile(filePath)
         return sections
 
     '''
