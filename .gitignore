@@ -3,12 +3,61 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+##### Stanford NLP is too big #####
+#lib/stanford-corenlp-full-2016-10-31/
+
+
 node_modules/*
 
 npm-log.debug
 npm-debug.log
 
 confidentialConfig.py
-output/*
+out/*
+target/*
 
-data/temp
+data/temp/
+data/books/
+data/test/
+######## Spring Boot ########
+
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+# User-specific stuff #
+.idea/workspace.xml
+.idea/tasks.xml
+
+# Sensitive or high-churn files #
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+
+
+### IntelliJ IDEA ###
+#.idea
+#*.iws
+#*.iml
+#*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+######## End Spring Boot ########
