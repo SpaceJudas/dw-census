@@ -31,8 +31,9 @@ target/
 # User-specific stuff #
 .idea/workspace.xml
 .idea/tasks.xml
-.idea/*
-.metadata/*
+.idea/
+.metadata/
+lib/
 
 # Sensitive or high-churn files #
 .idea/dataSources/
