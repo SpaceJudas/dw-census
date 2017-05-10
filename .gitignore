@@ -6,21 +6,15 @@ __pycache__/
 ##### Stanford NLP is too big #####
 #lib/stanford-corenlp-full-2016-10-31/
 
-
 node_modules/*
 
 npm-log.debug
 npm-debug.log
 
-confidentialConfig.py
-out/*
-target/*
-.idea/*
-.metadata/*
-
 data/temp/
 data/books/
 data/test/
+
 ######## Spring Boot ########
 
 target/
@@ -37,6 +31,8 @@ target/
 # User-specific stuff #
 .idea/workspace.xml
 .idea/tasks.xml
+.idea/*
+.metadata/*
 
 # Sensitive or high-churn files #
 .idea/dataSources/
